@@ -5,29 +5,30 @@ Orignal Japanese Article:
 
 ## Overview
 Travel time between Tokyo & Kyoto:
-| Name   | JP     | Time                   | Note                        |
-| ------ | ------ | ---------------------- | --------------------------- |
-| Nozmoi | のぞみ | 2.25 hrs               | Fastest, Cannot use JR Pass |
-| Hikari | ひかり | 2.67 hours           | 
-| Kodama | こだま | 3.62 hours | Slowest
+| Name   | JP     | Time       | Note                        |
+| ------ | ------ | ---------- | --------------------------- |
+| Nozmoi | のぞみ | 2.25 hrs   | Fastest, Cannot use JR Pass |
+| Hikari | ひかり | 2.67 hours |
+| Kodama | こだま | 3.62 hours | Slowest                     |
 
 ### Tokyo-Kyoto Shinkansen Price List
 
-| Seats                               | Prices       |
-| ----------------------------------- | ------------ |
-| Cheap tickets                       | 9,980 yen ~  |
-| Student discount                    | 11,640 yen ~ |
-| Regular Car; Unreserved seats       | 13,320 yen   |
-| Regular Car; Reserved seat (Hikari) | 13,850 yen   |
-| Regular Car; Reserved seat (Nozomi) | 14,170 yen   |
-| Green Car (Hikari)                  | 18,720 yen   |
-| Green Car (Nozomi)                  | 19,040 yen   |
+| Seats                               | Prices                    |
+| ----------------------------------- | ------------------------- |
+| Cheap tickets                       | 9,980 yen ~               |
+| Student discount                    | 11,640 yen ~              |
+| Flex Rail-Ticket (Round Trip)       | 10,750 yen *2 = 21500 yen |
+| Regular Car; Unreserved seats       | 13,320 yen                |
+| Regular Car; Reserved seat (Hikari) | 13,850 yen                |
+| Regular Car; Reserved seat (Nozomi) | 14,170 yen                |
+| Green Car (Hikari)                  | 18,720 yen                |
+| Green Car (Nozomi)                  | 19,040 yen                |
 
 ### Cheap tickets Summary
 
 | Ticket Options (for Regular Car)     | Seat Type  | Prices                    |
 | ------------------------------------ | ---------- | ------------------------- |
-| Plattokodama ⚠️                       | Reserved   | 10500 yen                 |
+| Platto Kodama (ぷらっとこだま) ⚠️     | Reserved   | 10500 yen                 |
 | EX Hayatoku 21                       | Reserved   | 11000 yen                 |
 | Student discount                     | Unreserved | 11640 yen                 |
 | EX Nozomi Family Hayatoku ⚠️          | Reserved   | 12020 yen                 |
@@ -46,7 +47,7 @@ Travel time between Tokyo & Kyoto:
 
 ⚠️ Notes
 - All prices are in the normal season. It depends on the time of year.
-- Plattokodama Reserved seat plan must be Purchased by the day before
+- Platto Kodama (ぷらっとこだま) Reserved seat plan must be Purchased by the day before
 - EX Kodama Family Hayatoku is for 2 or more people, purchased at least 3 days in advance
 - EX Nozomi Family Hayatoku is for 2 people or more, purchased at least 3 days in advance
 
@@ -73,12 +74,21 @@ Travel time between Tokyo & Kyoto:
 * Cannot be purchased at station counters.
 * Can be purchased on the day of boarding.
 
-#### Plattokodama Regular Car; Reserved seat plan
+#### Platto Kodama (ぷらっとこだま) Regular Car; Reserved seat plan
+* Full Name:
+  * EN: Plattokodama Regular Car Reserved Seat Plan
+  * JP: ぷらっとこだま普通車指定席プラン
+* Price: ¥10,500 for Tokyo ⇔ Kyoto on Kodama
+* Book at JR Tokai Tours:
+  * EN: https://www.jrtours.co.jp/kodama/english/
+  * JP: https://www.jrtours.co.jp/kodama
+* 
 * By booking a specific "Kodama" issue by the day before, the fare will be significantly cheaper than the regular fare.
 * Available only at JR Tokai Tours!
 * Cannot be purchased at station counters.
 * Tokyo to Kyoto on the Kodama takes 3 hours and 37 minutes. (1.37 hours slower than Nozomi)
 * The recommended cheap ticket for the Shinkansen between Tokyo and Kyoto is "Platto Kodama". The number of seats is limited, and there are many restrictions such as having to buy at a travel agency, but the low price is attractive.
+* ⚡️ Note: For ¥1,700 extra, you can reduce the travel time by 1.37 hours by selecting 
 
 #### Gold ticket store ticket
 * Tickets are sold separately.
@@ -92,6 +102,16 @@ Travel time between Tokyo & Kyoto:
 #### EX Kodama Family Hayatoku
 * When traveling with 2 or more people, "EX Kodama Family Hayatoku" is a good option.
 * If you have 2 or more people on Saturdays and holidays, "EX Nozomi Family Hayatoku" is recommended.
+
+#### Flex Rail-Ticket (Round Trip)
+* Round trip ticket between Tokyo ⇔ Kyoto for 21,500 yen (10,750 yen each way)
+* Shinkansen round-trip package with a **flexible** return date
+  * You can pick the return date.
+  * Stay at your destination for 1 to 7 days
+* ⚠️ At least 1 traveler must be a foreigner!
+  * At least 1 traveler needs to present a passport issued by a country other than Japan.
+  * Up to 2 Japanese may accompany per 1 foreigner.
+* Details at https://www.jrtours.co.jp/en/flex/kyoto/
 
 ### Can I sit in a non-reserved seat between Tokyo and Kyoto?
 
