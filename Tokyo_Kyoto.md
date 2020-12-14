@@ -77,13 +77,28 @@ Travel time between Tokyo & Kyoto:
 * Can be purchased on the day of boarding.
 
 #### Platto Kodama (ぷらっとこだま) Regular Car; Reserved seat plan
-* Full Name:
-  * EN: Plattokodama Regular Car Reserved Seat Plan
-  * JP: ぷらっとこだま普通車指定席プラン
-* Price: ¥10,500 for Tokyo ⇔ Kyoto on Kodama
-* Book at JR Tokai Tours:
-  * EN: https://www.jrtours.co.jp/kodama/english/
-  * JP: https://www.jrtours.co.jp/kodama
+Naming:
+  * Japanese: ぷらっとこだま普通車指定席プラン
+  * Google Translate: Plattokodama Regular Car Reserved Seat Plan
+  * English: Platt Kodama
+
+Pricing:
+* ¥10,500 for Tokyo ⇔ Kyoto on Kodama
+
+Details:
+  * English: https://www.jrtours.co.jp/kodama/english/
+  * Japanese: https://www.jrtours.co.jp/kodama
+
+How to Buy?
+* Book at JR Tokai Tours Offices
+* JR Tokai Tours - Tokyo Office
+  * Next to the ticket gate at the South Yaesu Exit of Tokyo Station
+  * Business hours:
+    * Weekdays:	10:00-20:00
+    * Weekends & holidays:	10:00-19:00
+    * ![](https://www.jrtours.co.jp/kodama/english/images/im_location01_l.gif)
+
+
 * 
 * By booking a specific "Kodama" issue by the day before, the fare will be significantly cheaper than the regular fare.
 * Available only at JR Tokai Tours!
