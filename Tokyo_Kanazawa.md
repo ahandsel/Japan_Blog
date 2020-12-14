@@ -48,7 +48,8 @@ You can also take the Tokaido Shinkansen between Tokyo and Kanazawa via Maibara.
 - Tokyo round trip discount ticket from Kanazawa only. Via Maibara. One-way ticket for a round trip from Kanazawa via Maibara.
 - Student discount (reserved seat in a standard car) 12880yen
 - Student discount (unreserved seat in a standard-sized car): 12,350 yen
-- [JR East Dynamic Rail Pack](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)! [](https://ad.linksynergy.com/fs-bin/show?id=y9UNREykB6g&bids=481086.60&type=3&subid=0) Tour with round trip + hotel
+- [JR East Dynamic Rail Pack](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)!
+- Tour with round trip + hotel
 
 All prices are for normal season. All prices are in normal season and may vary depending on the season.
 
