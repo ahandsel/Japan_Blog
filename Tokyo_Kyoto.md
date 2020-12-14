@@ -5,45 +5,47 @@ Orignal Japanese Article:
 
 ## Overview
 Travel time between Tokyo & Kyoto:
+
 | Name   | JP     | Time       | Note                        |
 | ------ | ------ | ---------- | --------------------------- |
 | Nozmoi | のぞみ | 2.25 hrs   | Fastest, Cannot use JR Pass |
-| Hikari | ひかり | 2.67 hours |
-| Kodama | こだま | 3.62 hours | Slowest                     |
+| Hikari | ひかり | 2.67 hours | Can use JR Pass             |
+| Kodama | こだま | 3.62 hours | Slowest, Can use JR Pass    |
 
 ### Tokyo-Kyoto Shinkansen Price List
 
-| Seats                               | Prices                    |
-| ----------------------------------- | ------------------------- |
-| Cheap tickets                       | 9,980 yen ~               |
-| Student discount                    | 11,640 yen ~              |
-| Flex Rail-Ticket (Round Trip)       | 10,750 yen *2 = 21500 yen |
-| Regular Car; Unreserved seats       | 13,320 yen                |
-| Regular Car; Reserved seat (Hikari) | 13,850 yen                |
-| Regular Car; Reserved seat (Nozomi) | 14,170 yen                |
-| Green Car (Hikari)                  | 18,720 yen                |
-| Green Car (Nozomi)                  | 19,040 yen                |
+| Seats                                                         | Prices                    |
+| ------------------------------------------------------------- | ------------------------- |
+| Cheap tickets                                                 | 9,980 yen ~               |
+| Student discount                                              | 11,640 yen ~              |
+| [Flex Rail-Ticket (Round Trip)](#flex-rail-ticket-round-trip) | 10,750 yen *2 = 21500 yen |
+| Regular Car; Unreserved seats                                 | 13,320 yen                |
+| Regular Car; Reserved seat (Hikari)                           | 13,850 yen                |
+| Regular Car; Reserved seat (Nozomi)                           | 14,170 yen                |
+| Green Car (Hikari)                                            | 18,720 yen                |
+| Green Car (Nozomi)                                            | 19,040 yen                |
 
 ### Cheap tickets Summary
 
-| Ticket Options (for Regular Car)     | Seat Type  | Prices                    |
-| ------------------------------------ | ---------- | ------------------------- |
-| Platto Kodama (ぷらっとこだま) ⚠️     | Reserved   | 10500 yen                 |
-| EX Hayatoku 21                       | Reserved   | 11000 yen                 |
-| Student discount                     | Unreserved | 11640 yen                 |
-| EX Nozomi Family Hayatoku ⚠️          | Reserved   | 12020 yen                 |
-| Student discount for Hikari / Kodama | Reserved   | 12170 yen                 |
-| Student discount for Nozomi          | Reserved   | 12490 yen                 |
-| EX reservation service               | Reserved   | 13070 yen                 |
-| e Limited express ticket             | Reserved   | 13270 yen                 |
-| Shinkansen coupon ticket             | Reserved   | 13310 yen per 6-sheet set |
-| Regular Purchase                     | Unreserved | 13320 yen                 |
-| Smart EX service                     | Unreserved | 13320 yen                 |
-| Smart EX service for Hikari / Kodama | Reserved   | 13650 yen                 |
-| Regular seat for Hikari / Kodama     | Reserved   | 13850 yen                 |
-| Smart EX service for Nozomi          | Reserved   | 13970 yen                 |
-| Regular seat for Nozomi              | Reserved   | 14170 yen                 |
-| EX Kodama Family Hayatoku ⚠️          | Reserved   | 9980 yen                  |
+| Ticket Options (for Regular Car)                                                                 | Seat Type                 | Prices                    |
+| ------------------------------------------------------------------------------------------------ | ------------------------- | ------------------------- |
+| [EX Kodama Family Hayatoku ⚠️  ](#ex-kodama-family-hayatoku)                                      | Reserved                  | 9980 yen                  |
+| [Platt Kodama (ぷらっとこだま) ⚠️](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan) | Reserved                  | 10500 yen                 |
+| [Flex Rail-Ticket (Round Trip)](#flex-rail-ticket-round-trip)                                    | 10,750 yen *2 = 21500 yen |
+| EX Hayatoku 21                                                                                   | Reserved                  | 11000 yen                 |
+| Student discount                                                                                 | Unreserved                | 11640 yen                 |
+| EX Nozomi Family Hayatoku ⚠️                                                                      | Reserved                  | 12020 yen                 |
+| Student discount for Hikari / Kodama                                                             | Reserved                  | 12170 yen                 |
+| Student discount for Nozomi                                                                      | Reserved                  | 12490 yen                 |
+| EX reservation service                                                                           | Reserved                  | 13070 yen                 |
+| [e Limited Express Ticket](#e-limited-express-ticket)                                            | Reserved                  | 13270 yen                 |
+| Shinkansen coupon ticket                                                                         | Reserved                  | 13310 yen per 6-sheet set |
+| Regular Purchase                                                                                 | Unreserved                | 13320 yen                 |
+| [Smart EX service](#smart-ex-service)                                                            | Unreserved                | 13320 yen                 |
+| Smart EX service for Hikari / Kodama                                                             | Reserved                  | 13650 yen                 |
+| Regular seat for Hikari / Kodama                                                                 | Reserved                  | 13850 yen                 |
+| Smart EX service for Nozomi                                                                      | Reserved                  | 13970 yen                 |
+| Regular seat for Nozomi                                                                          | Reserved                  | 14170 yen                 |
 
 ⚠️ Notes
 - All prices are in the normal season. It depends on the time of year.
@@ -90,6 +92,35 @@ Travel time between Tokyo & Kyoto:
 * The recommended cheap ticket for the Shinkansen between Tokyo and Kyoto is "Platto Kodama". The number of seats is limited, and there are many restrictions such as having to buy at a travel agency, but the low price is attractive.
 * ⚡️ Note: For ¥1,700 extra, you can reduce the travel time by 1.37 hours by selecting 
 
+
+* With `Platt Kodama`, you will have the following vouchers:
+  * Platt Itinerary
+  * Kodama coupon
+  * Platt Free Drink Voucher
+
+What is `Kodama Coupon`?
+* Use Kodama Coupon as a ticket for Kodama Express train.
+  * You do not need to exchange the coupon for a ticket.
+* Only use ticket gates for JR Tokai's SHINKANSEN train!
+  * Show the Kodama Coupon at the gates.
+  * Do not use automatic gates.
+* Only board the train with the conditions specified on your Kodama Coupon regarding the effective date /zone / train and reserved seat.
+  * You cannot board any other trains including non-reserved seats.
+  * You cannot stopover or board the train midway in a zone covered by your Kodama Coupon. If you do so, you will be required to purchase extra ticket / special express ticket from the station of departure.（in this
+case, the Kodama Coupon is not refundable.）
+
+Platt Free Drink
+* Wagon service is not available on the Kodama Express
+Location:Tokai Kiosks and other shops designated by JR Tokai Tours at Tokaido Shinkansen Stations
+（between Tokyo station and Shin-Osaka Station）. （Limited to shops with the sticker like this 　　　）
+The voucher cannot be exchanged on Kodama Express as there is no wagon service.
+
+Where to buy?
+FLEX product/Platt Kodama
+Mon - Fri: 10:00-18:00
+Sat/Sun/holidays: 10:00-18:00
+https://goo.gl/maps/FUMZUJfAjbNRUyKb6
+
 #### Gold ticket store ticket
 * Tickets are sold separately.
 * It will be 3 to 7% cheaper, depending on the store and section.
@@ -100,8 +131,10 @@ Travel time between Tokyo & Kyoto:
   * The non-reserved seats sold at the JR counter may be cheaper. Check before purchasing
 
 #### EX Kodama Family Hayatoku
+* In Japanese: EXこだまファミリー早特（普通車指定席）
+* Link: `https://expy.jp/product/ex_kodamafamily_hayatoku/`
 * When traveling with 2 or more people, "EX Kodama Family Hayatoku" is a good option.
-* If you have 2 or more people on Saturdays and holidays, "EX Nozomi Family Hayatoku" is recommended.
+* If you have 2 or more people on weekends and holidays, "EX Nozomi Family Hayatoku" is recommended.
 
 #### Flex Rail-Ticket (Round Trip)
 * Round trip ticket between Tokyo ⇔ Kyoto for 21,500 yen (10,750 yen each way)
@@ -134,6 +167,19 @@ Original Japanese Below:
 東京〜京都は、JRの新幹線全線で利用者数が多い区間です。新幹線以外に高速輸送機関はありません。そのため、新幹線の事実上の独占区間になっていて、割引きっぷや格安チケット類はあまり多く設定されていません。
 
 東京〜京都の所要時間は、「のぞみ号」で約2時間15分です。「ひかり号」を利用すると、約2時間40分です。
+
+概要
+- [東京～京都の新幹線料金表](#東京京都の新幹線料金表)
+- [ひと目でわかる東京〜京都の格安チケットと値段リスト](#ひと目でわかる東京京都の格安チケットと値段リスト)
+- [東京〜京都のお得なチケットは？](#東京京都のお得なチケットは)
+  - [e特急券](#e特急券)
+  - [EX予約サービス](#ex予約サービス)
+  - [スマートEXサービス](#スマートexサービス)
+  - [ぷらっとこだま普通車指定席プラン](#ぷらっとこだま普通車指定席プラン)
+  - [JR・新幹線+宿泊セット](#jr新幹線宿泊セット)
+  - [金券店チケット](#金券店チケット)
+- [東京〜京都で自由席は座れる？](#東京京都で自由席は座れる)
+- [東京〜京都間の新幹線格安旅行術](#東京京都間の新幹線格安旅行術)
 
 ### 東京～京都の新幹線料金表
 | 座席                   | 料金       |
