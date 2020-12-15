@@ -89,7 +89,7 @@ Details:
   * English: https://www.jrtours.co.jp/kodama/english/
   * Japanese: https://www.jrtours.co.jp/kodama
 
-How to Buy?
+Buying In-Person:
 * Book at JR Tokai Tours Offices
 * JR Tokai Tours - Tokyo Office
   * Next to the ticket gate at the South Yaesu Exit of Tokyo Station
@@ -98,8 +98,24 @@ How to Buy?
     * Weekends & holidays:	10:00-19:00
     * ![](https://www.jrtours.co.jp/kodama/english/images/im_location01_l.gif)
 
+Buying Online:
+* Only via Japanese website 😭
+  * `https://www.jrtours.co.jp/kodama` ⚠️
+  * ⚠️ Google Translate will brake the website
+* Search Query
+  * 乗車日 | Boarding date |
+  * 乗車駅 | Boarding station | 東京
+  * 降車駅 | Arrival station | 京都
+  * 出発時刻 | Boarding time | Select the earliest hour you want to board
 
-* 
+
+STEP 1 - 商品選択 - Product selection
+STEP 2 - 選択内容確認 - Confirm your selection
+STEP 3 - 取引条件確認 - Confirm transaction conditions
+STEP 4 - 申込情報入力 - Enter application information
+STEP 5 - 申込情報確認 - Confirm application information
+STEP 6 - 申込完了 - Application completed
+
 * By booking a specific "Kodama" issue by the day before, the fare will be significantly cheaper than the regular fare.
 * Available only at JR Tokai Tours!
 * Cannot be purchased at station counters.
@@ -134,7 +150,7 @@ Where to buy?
 FLEX product/Platt Kodama
 Mon - Fri: 10:00-18:00
 Sat/Sun/holidays: 10:00-18:00
-https://goo.gl/maps/FUMZUJfAjbNRUyKb6
+https://goo.gl/maps/5qhnoCRDsuyZjQHu8
 
 #### Gold ticket store ticket
 * Tickets are sold separately.
