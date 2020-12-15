@@ -102,11 +102,18 @@ Buying Online:
 * Only via Japanese website 😭
   * `https://www.jrtours.co.jp/kodama` ⚠️
   * ⚠️ Google Translate will brake the website
+
+Warning!
+* This site is crappy! Apperantly Japanese servers need to sleep...
+  * Reservations on this site are ONLY available from 5:30 to 23:30
+* Create an account first (it is buggy )
+* 
 * Search Query
   * 乗車日 | Boarding date |
   * 乗車駅 | Boarding station | 東京
   * 降車駅 | Arrival station | 京都
   * 出発時刻 | Boarding time | Select the earliest hour you want to board
+  * 
 
 
 STEP 1 - 商品選択 - Product selection
