@@ -1,9 +1,10 @@
 # Tokyo to Kyoto Shinkansen Cheaper Shinkansen Tickets
 
-Orignal Japanese Article:  
+Original Japanese Article:  
 [東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
 
 ## Overview
+
 Travel time between Tokyo & Kyoto:
 
 | Name   | JP     | Time       | Note                        |
@@ -27,25 +28,25 @@ Travel time between Tokyo & Kyoto:
 
 ### Cheap tickets Summary
 
-| Ticket Options (for Regular Car)                                                                 | Seat Type                 | Prices                    |
-| ------------------------------------------------------------------------------------------------ | ------------------------- | ------------------------- |
-| [EX Kodama Family Hayatoku ⚠️  ](#ex-kodama-family-hayatoku)                                      | Reserved                  | 9980 yen                  |
+| Ticket Options (for Regular Car)                                                                | Seat Type                 | Prices                    |
+| ----------------------------------------------------------------------------------------------- | ------------------------- | ------------------------- |
+| [EX Kodama Family Hayatoku ⚠️  ](#ex-kodama-family-hayatoku)                                     | Reserved                  | 9980 yen                  |
 | [Platt Kodama (ぷらっとこだま) ⚠️](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan) | Reserved                  | 10500 yen                 |
-| [Flex Rail-Ticket (Round Trip)](#flex-rail-ticket-round-trip)                                    | 10,750 yen *2 = 21500 yen |
-| EX Hayatoku 21                                                                                   | Reserved                  | 11000 yen                 |
-| Student discount                                                                                 | Unreserved                | 11640 yen                 |
-| EX Nozomi Family Hayatoku ⚠️                                                                      | Reserved                  | 12020 yen                 |
-| Student discount for Hikari / Kodama                                                             | Reserved                  | 12170 yen                 |
-| Student discount for Nozomi                                                                      | Reserved                  | 12490 yen                 |
-| EX reservation service                                                                           | Reserved                  | 13070 yen                 |
-| [e Limited Express Ticket](#e-limited-express-ticket)                                            | Reserved                  | 13270 yen                 |
-| Shinkansen coupon ticket                                                                         | Reserved                  | 13310 yen per 6-sheet set |
-| Regular Purchase                                                                                 | Unreserved                | 13320 yen                 |
-| [Smart EX service](#smart-ex-service)                                                            | Unreserved                | 13320 yen                 |
-| Smart EX service for Hikari / Kodama                                                             | Reserved                  | 13650 yen                 |
-| Regular seat for Hikari / Kodama                                                                 | Reserved                  | 13850 yen                 |
-| Smart EX service for Nozomi                                                                      | Reserved                  | 13970 yen                 |
-| Regular seat for Nozomi                                                                          | Reserved                  | 14170 yen                 |
+| [Flex Rail-Ticket (Round Trip)](#flex-rail-ticket-round-trip)                                   | 10,750 yen *2 = 21500 yen |
+| EX Hayatoku 21                                                                                  | Reserved                  | 11000 yen                 |
+| Student discount                                                                                | Unreserved                | 11640 yen                 |
+| EX Nozomi Family Hayatoku ⚠️                                                                     | Reserved                  | 12020 yen                 |
+| Student discount for Hikari / Kodama                                                            | Reserved                  | 12170 yen                 |
+| Student discount for Nozomi                                                                     | Reserved                  | 12490 yen                 |
+| EX reservation service                                                                          | Reserved                  | 13070 yen                 |
+| [e Limited Express Ticket](#e-limited-express-ticket)                                           | Reserved                  | 13270 yen                 |
+| Shinkansen coupon ticket                                                                        | Reserved                  | 13310 yen per 6-sheet set |
+| Regular Purchase                                                                                | Unreserved                | 13320 yen                 |
+| [Smart EX service](#smart-ex-service)                                                           | Unreserved                | 13320 yen                 |
+| Smart EX service for Hikari / Kodama                                                            | Reserved                  | 13650 yen                 |
+| Regular seat for Hikari / Kodama                                                                | Reserved                  | 13850 yen                 |
+| Smart EX service for Nozomi                                                                     | Reserved                  | 13970 yen                 |
+| Regular seat for Nozomi                                                                         | Reserved                  | 14170 yen                 |
 
 ⚠️ Notes
 - All prices are in the normal season. It depends on the time of year.
