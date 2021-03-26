@@ -15,3 +15,4 @@
     * Service Hours
       * Weekdays: 8:00～21:00
       * Saturdays, Sundays, and holidays: 9:00～21:00
+  * Upload contacts in bulk using [JPpostUpload.csv](./content/JPpostUpload.csv)
