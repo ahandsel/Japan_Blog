@@ -31,9 +31,22 @@
     ```
 
     * Last light should be empty.
-    * ![Global_Shipping_Home](./content/Global_Shipping_Home.png) ![Global_Shipping_Address1](./content/Global_Shipping_Address1.png) ![Global_Shipping_Address2](./content/Global_Shipping_Address2.png)
   * Register the items to be shipped ahead of creating the label using [Contents List](https://www.post.japanpost.jp/intmypage/contents_en.html) tool.
 
-#### Demo
-  ![Global_Shipping_Demo.gif](./content/Global_Shipping_Demo.gif)
+|     | Home | Address book | Data Import for Address book |
+| --- | ---- | ------------ | ---------------------------- |
+| | ![Global_Shipping_Home](./content/Global_Shipping_Home.png) | ![Global_Shipping_Address1](./content/Global_Shipping_Address1.png) | ![Global_Shipping_Address2](./content/Global_Shipping_Address2.png) |
 
+#### Demo
+Pages went over by the demo videos:
+  1. Home
+  2. Create Label
+  3. Register Sender's Address (Yours)
+  4. Register Recipient's Address (Their)
+  5. Select Shipping Option (`Small Packet` & `AIR`)
+  6. Register Content
+  7. Package Details
+  8. Confirmation
+  9. Save & Print Label
+
+  ![Global_Shipping_Demo.gif](./content/Global_Shipping_Demo.gif)
