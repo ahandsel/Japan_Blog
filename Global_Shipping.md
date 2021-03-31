@@ -18,7 +18,7 @@
   * Upload contacts in bulk using [JPpostUpload.csv](./content/JPpostUpload.csv)
   * As of March 29, 2021, JAPAN POST is only sending [Small Packets](https://www.post.japanpost.jp/int/service/small_packing_en.html) to USA.
     * Although the default option for [International Mail My Page Service](https://www.int-mypage.post.japanpost.jp/mypage/M010000.do) is the `International ePacket`, this is not available!
-  * The type of Shipping: `Small Packet` & `AIR`
+  * The type of Shipping: [Small Packets](https://www.post.japanpost.jp/int/service/small_packing_en.html) & `AIR`
 
 #### Tips for Using JAPAN POST
   * Upload contacts in bulk using the add [Address book](https://www.post.japanpost.jp/intmypage/address_en.html) feature.
@@ -43,7 +43,7 @@ Pages went over by the demo videos:
   2. Create Label
   3. Register Sender's Address (Yours)
   4. Register Recipient's Address (Their)
-  5. Select Shipping Option (`Small Packet` & `AIR`)
+  5. Select Shipping Option ([Small Packets](https://www.post.japanpost.jp/int/service/small_packing_en.html) & `AIR`)
   6. Register Content
   7. Package Details
   8. Confirmation
