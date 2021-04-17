@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Tokyo to Kyoto Shinkansen Ticket Options (Cheaper)
+# subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -9,10 +9,9 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Travel
+# description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
----
 
 # Tokyo to Kyoto Shinkansen Ticket Options (Cheaper)
 
@@ -114,3 +113,5 @@ Sat/Sun/holidays: 10:00-18:00
 
 Original Japanese Article:  
 [東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
+
+---
