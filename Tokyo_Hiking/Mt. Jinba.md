@@ -1,5 +1,7 @@
 # Hiking Mt. Jinba
 
+URL: <https://bit.ly/3sNYdQ6>
+
 ## Getting there
 
 ### Step 1: Shinjuku to Takao
