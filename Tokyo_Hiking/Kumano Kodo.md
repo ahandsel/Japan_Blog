@@ -1,7 +1,7 @@
 # Kumano Kodou
 
 ## To-Do
-  * [] Flight Tickets <-- Nicole
+  * [x] Flight Tickets
   * Hiking Gear
     * [x] Shoes
     * [] Hiking Socks
@@ -12,14 +12,41 @@
 Hotels
   * [ ] Night 1: Shirahama/ Asso area hotel <-- Nicole
   * [ ] Night 2: Takahara Village
-    * [Kiri-no-Sato Takahara Lodge](https://www.booking.com/hotel/jp/takahara.html?aid=965263;label=IKKumanoKodo)
-    * Hoshizora-no-Yado
+    * [Kiri-no-Sato Takahara Lodge "Organic Hotel"](https://www.kumano-travel.com/en/accommodations/kiri-no-sato-takahara)
+      * 17:00 Check-in
+      * 11,220 yen per person
+    * Backup: [Hoshizora-no-Yado](https://www.kumano-travel.com/en/accommodations/hoshizora-no-yado-takahara)
+      * 13,500 yen per person
   * [] Night 3: Chikatsuyu
+    * Minshuku Chikatsuyu | 12400 yen per
+    * Happiness Chikatsuyu | 10,890 yen~
+    * [Minshuku Momiji-no-Sato](https://www.kumano-travel.com/en/accommodations/minshuku-momiji-no-sato) | 9,790 yen~
+
   * [] Night 4: Yunomine Onsen
+    * [Minshuku Kuraya](https://www.kumano-travel.com/en/accommodations/minshuku-kuraya)
+      * 9,100
   * [] Night 5: Shirahama City <-- Nicole
   * [] Night 6: Shirahama City
 
 ## Overview
+
+| Day   | When        | What                              |
+| ----- | ----------- | --------------------------------- |
+| Day 1 | Mon, May 24 | Flying in & spending the night    |
+| Day 2 | Tue, May 25 | Bus + Hiking --> Takahara Village |
+| Day 3 | Wed, May 26 | Hike --> Chikatsuyu Village       |
+| Day 4 | Thu, May 27 | Bus + Hike --> Yunomine Onsen     |
+| Day 5 | Fri, May 28 | Boat + Bus --> Shirahama City     |
+| Day 6 | Sat, May 29 | Beach --> Shirahama City          |
+| Day 7 | Sun, May 30 | Beach --> Shirahama City          |
+| Day 8 | Mon, May 31 | Early flight back                 |
+
+## Plane Tickets
+Tokyo --> SHM
+  * Mon, May 24, 16:30 --> 17:40
+
+SHM --> Tokyo
+  * Mon, May 31, 09:20 --> 10:25
 
 ## Day 1: Flight | Going to Shirahama City
 Train
@@ -27,7 +54,7 @@ Train
   * 50 min train
 
 Flight
-  * Haneda -> [Nanki-Shirahama Airport/ 南紀白浜空港](https://goo.gl/maps/5U4K6He3TLMHxJ436)
+  * Haneda -> [Nanki-Shirahama (SHM) Airport/ 南紀白浜空港](https://goo.gl/maps/5U4K6He3TLMHxJ436)
     * 1 hr 10 min flight
     * 23,000 per person
     * 130*2
@@ -176,3 +203,9 @@ Kumano Travel
 <https://www.insidekyoto.com/kumano-kodo-walking-trail-guide-with-maps>
 
 [KUMANO KODO Trek - 4 days | Nakahechi, Takijiri to Hongu | 2](https://www.kumano-travel.com/en/model-itineraries/4-days-E2-kumano-kodo-trek-nakahechi)
+
+Before 20 days	No cancellation fee
+8~20 days before	20% of total
+2~7 days before	30% of total
+Day before	40% of total
+Day of check-in, service, etc.	50% of total
