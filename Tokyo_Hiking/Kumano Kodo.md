@@ -17,6 +17,7 @@ Hotels
   * [] Night 3: Chikatsuyu
   * [] Night 4: Yunomine Onsen
   * [] Night 5: Shirahama City <-- Nicole
+  * [] Night 6: Shirahama City
 
 ## Overview
 
@@ -74,7 +75,6 @@ NOTE: The [Michi-no-Eki](https://goo.gl/maps/8DgnSWfo2RsNqxLu6) rest area near n
 ![TAKAHARA TO Chikatsuyu Map](http://www2.tb-kumano.jp/en/kumano-kodo/images/takahara-chikatsuyu-oji-map.gif)
 
 Overnight: Chikatsuyu Village
-  * 
 
 ## Day 4: Hiking + Bus | Chikatsuyu to Hongu Taisha
 
