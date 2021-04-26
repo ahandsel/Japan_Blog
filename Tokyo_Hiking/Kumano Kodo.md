@@ -1,5 +1,7 @@
 # Kumano Kodou
 
+Planning for a May, 2021 trip
+
 ## To-Do
   * [x] Flight Tickets
   * Hiking Gear
@@ -9,37 +11,25 @@
     * [] Water bottle
     * [] Hiking hats
 
-Hotels
-  * [ ] Night 1: Shirahama/ Asso area hotel <-- Nicole
-  * [ ] Night 2: Takahara Village
-    * [Kiri-no-Sato Takahara Lodge "Organic Hotel"](https://www.kumano-travel.com/en/accommodations/kiri-no-sato-takahara)
-      * 17:00 Check-in
-      * 11,220 yen per person
-    * Backup: [Hoshizora-no-Yado](https://www.kumano-travel.com/en/accommodations/hoshizora-no-yado-takahara)
-      * 13,500 yen per person
-  * [] Night 3: Chikatsuyu
-    * Minshuku Chikatsuyu | 12400 yen per
-    * Happiness Chikatsuyu | 10,890 yen~
-    * [Minshuku Momiji-no-Sato](https://www.kumano-travel.com/en/accommodations/minshuku-momiji-no-sato) | 9,790 yen~
-
-  * [] Night 4: Yunomine Onsen
-    * [Minshuku Kuraya](https://www.kumano-travel.com/en/accommodations/minshuku-kuraya)
-      * 9,100
-  * [] Night 5: Shirahama City <-- Nicole
+Pending Hotels
+  * [ ] Night 1: Shirahama/ Asso area hotel
+  * [] Night 5: Shirahama City
   * [] Night 6: Shirahama City
 
 ## Overview
 
-| Day   | When        | What                              |
-| ----- | ----------- | --------------------------------- |
-| Day 1 | Mon, May 24 | Flying in & spending the night    |
-| Day 2 | Tue, May 25 | Bus + Hiking --> Takahara Village |
-| Day 3 | Wed, May 26 | Hike --> Chikatsuyu Village       |
-| Day 4 | Thu, May 27 | Bus + Hike --> Yunomine Onsen     |
-| Day 5 | Fri, May 28 | Boat + Bus --> Shirahama City     |
-| Day 6 | Sat, May 29 | Beach --> Shirahama City          |
-| Day 7 | Sun, May 30 | Beach --> Shirahama City          |
-| Day 8 | Mon, May 31 | Early flight back                 |
+### Hotel
+
+| ?   | Day   | When        | What                           | Hotel                                                                        |
+| --- | ----- | ----------- | ------------------------------ | ---------------------------------------------------------------------------- |
+| []  | Day 1 | Mon, May 24 | Flying in & spending the night |
+| [x] | Day 2 | Tue, May 25 | Bus + Hiking --> Takahara      | [Kirinosato Takahara](https://goo.gl/maps/qJw4wfz4bav6q38h7)                 |
+| [x] | Day 3 | Wed, May 26 | Hike --> Chikatsuyu            | [Guest House Minshuku Momiji-no-Sato](https://goo.gl/maps/C3ZMj2rBvSQst7sK7) |
+| [x] | Day 4 | Thu, May 27 | Bus + Hike --> Yunomine Onsen  | [Minshuku Kuraya](https://goo.gl/maps/qf3SoLcax3r9h2K36)                     |
+| []  | Day 5 | Fri, May 28 | Boat + Bus --> Shirahama City  |
+| []  | Day 6 | Sat, May 29 | Beach --> Shirahama City       |
+| []  | Day 7 | Sun, May 30 | Beach --> Shirahama City       |
+| []  | Day 8 | Mon, May 31 | Early flight back              |
 
 ## Plane Tickets
 Tokyo --> SHM
@@ -82,7 +72,9 @@ Hiking: Takijiri-Oji to Takahara
   * The trail starts off with a challenging grade so set a slow, easy pace, watching your steps on the rocks and roots.
 
 Overnight: Takahara Village
-  * [Kiri-no-Sato Takahara Lodge](https://www.booking.com/hotel/jp/takahara.html?aid=965263;label=IKKumanoKodo)
+  * [Kiri-no-Sato Takahara Lodge "Organic Hotel" - Kumano Travel](https://www.kumano-travel.com/en/accommodations/kiri-no-sato-takahara)
+  * [Kiri-no-Sato Takahara Lodge - Booking.com](https://www.booking.com/hotel/jp/takahara.html?aid=965263;label=IKKumanoKodo)
+  * [Kirinosato Takahara - Google Maps](https://goo.gl/maps/qJw4wfz4bav6q38h7)
 
 ## Day 3: Hiking! | Takahara --> Chikatsuyu
 Hiking: Takahara to Chikatsuyu
@@ -102,6 +94,8 @@ NOTE: The [Michi-no-Eki](https://goo.gl/maps/8DgnSWfo2RsNqxLu6) rest area near n
 ![TAKAHARA TO Chikatsuyu Map](http://www2.tb-kumano.jp/en/kumano-kodo/images/takahara-chikatsuyu-oji-map.gif)
 
 Overnight: Chikatsuyu Village
+  * Kumano Travel: [Minshuku Momiji-no-Sato](https://www.kumano-travel.com/en/accommodations/minshuku-momiji-no-sato)
+  * Google Maps: [Guest House Minshuku Momiji-no-Sato](https://goo.gl/maps/C3ZMj2rBvSQst7sK7)
 
 ## Day 4: Hiking + Bus | Chikatsuyu to Hongu Taisha
 
@@ -109,6 +103,10 @@ Overnight: Chikatsuyu Village
   * There are 3x options for the hike!
   * For detailed comparison: [Walk Options PDF](http://www2.tb-kumano.jp/en/kumano-kodo/pdf/chikatsuyu-nonaka-hongu-walking-options-web.pdf)
   * [Bus Timetable #1](http://www.tb-kumano.jp/en/transport/bus/#localtimetables)
+
+Overnight: Yunomine Onsen
+  * Kumano Travel: [Minshuku Kuraya](https://www.kumano-travel.com/en/accommodations/minshuku-kuraya)
+  * Google Maps: [Minshuku Kuraya](https://goo.gl/maps/qf3SoLcax3r9h2K36)
 
 ### Option 1: Full Walk; 25 km
   * Distance: ~25 km
@@ -156,7 +154,8 @@ Hike Part 2: Hongu to Yunomine Onsen
   * Distance: ~2 km
   * Time: 1~2 hr
 
-## Overnight: Yunomine Onsen
+
+
 
 ## Day 5: Boat Tour & Back to Shirahama City
 
@@ -168,7 +167,10 @@ Bus: Yunomine Onsen to Boat Tour Center
 
 Boat: Traditional Boat Ride on Kumano-Gawa River
   * [Kumano Hayatama Taisha/ 熊野速玉大社](https://goo.gl/maps/NC4VcRaAeUhVKMPf6)
+  * <https://www.kumano-travel.com/en/tours-activities/traditional-boat-tour/104>
   * 10:00~11:30
+  * Please come to the reception by 9:30 am. The boat departs at 10:00 in preparation for boarding.
+Thank you for your cooperation in scheduled departure.
 
 Historically pilgrimage travelled by boat between Kumano Hongu Taisha and Kumano Hayatama Taisha.
 
@@ -179,8 +181,7 @@ This is an excellent way to view the spiritual landscape from the river like pil
 Detour: [Nachi Falls/ 那智の滝](https://goo.gl/maps/K1Xsnqb5UuvvqJtt7)
   * 1.5 hour bus ride from Hayatama Taisha to Nachi Falls
 
-Overnight:
-  * Shirahama City
+Overnight: Shirahama City
 
 ---
 
@@ -204,8 +205,12 @@ Kumano Travel
 
 [KUMANO KODO Trek - 4 days | Nakahechi, Takijiri to Hongu | 2](https://www.kumano-travel.com/en/model-itineraries/4-days-E2-kumano-kodo-trek-nakahechi)
 
-Before 20 days	No cancellation fee
-8~20 days before	20% of total
-2~7 days before	30% of total
-Day before	40% of total
-Day of check-in, service, etc.	50% of total
+## Kumano Kodo Travel Cancelation Policy
+
+| Days                           | Fee                 |
+| ------------------------------ | ------------------- |
+| Before 20 days                 | No cancellation fee |
+| 8~20 days before               | 20% of total        |
+| 2~7 days before                | 30% of total        |
+| Day before                     | 40% of total        |
+| Day of check-in, service, etc. | 50% of total        |
