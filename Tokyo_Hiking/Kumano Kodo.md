@@ -155,8 +155,6 @@ Hike Part 2: Hongu to Yunomine Onsen
   * Time: 1~2 hr
 
 
-
-
 ## Day 5: Boat Tour & Back to Shirahama City
 
 Bus: Yunomine Onsen to Boat Tour Center
@@ -203,9 +201,9 @@ Kumano Travel
 
 <https://www.insidekyoto.com/kumano-kodo-walking-trail-guide-with-maps>
 
-[KUMANO KODO Trek - 4 days | Nakahechi, Takijiri to Hongu | 2](https://www.kumano-travel.com/en/model-itineraries/4-days-E2-kumano-kodo-trek-nakahechi)
+[Kumano Kodo Trek - 4 days | Nakahechi, Takijiri to Hongu | 2](https://www.kumano-travel.com/en/model-itineraries/4-days-E2-kumano-kodo-trek-nakahechi)
 
-## Kumano Kodo Travel Cancelation Policy
+## Kumano Kodo Travel Cancellation Policy
 
 | Days                           | Fee                 |
 | ------------------------------ | ------------------- |
