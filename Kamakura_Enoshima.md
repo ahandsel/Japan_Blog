@@ -26,8 +26,6 @@
     * <https://www.city.kamakura.kanagawa.jp/visitkamakura/en/routes/hiking1.html>
     * <https://www.japan-guide.com/e/e3113.html>
 
-
-
 ## Things to do in Enoshima (江の島)
   * [Enoshima Aquarium / 新江ノ島水族館](https://g.page/enosui_com?share)
   * [Enoshima Iwaya Cave / 江の島岩屋](https://goo.gl/maps/XSMQV2NHTzd1PeaDA)
