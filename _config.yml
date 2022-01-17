@@ -4,6 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
-  - Global_Shipping.md
+  - Homepage.md
 theme: jekyll-theme-dinky
