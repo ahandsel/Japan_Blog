@@ -2,12 +2,12 @@
 
 This is a translation of the [東京・金沢のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kanazawa.html) Japanese post.
 
-### Overview
-* It is about 450 km from Tokyo to Kanazawa.
-* Transport options: Flight from JAL & ANA or Shinkansen (bullet train)
-* :caution: Komatsu Airport is far from the city of Kanazawa, thus airplanes are not convenient.
-* Few cheap ticket options are available for Tokyo to Kanazawa by reserving through JR East & JR West websites ahead of time.
-* Note: Unlike other Shinkansen routes, there are no coupon tickets for Tokyo to Kanazawa route. Thus, you cannot buy discounted tickets in bulk from a [discount ticket shop](https://guidable.co/shopping-service/3-big-discount-ticket-shops-in-japan/).
+## Overview
+  * It is about 450 km from Tokyo to Kanazawa.
+  * Transport options: Flight from JAL & ANA or Shinkansen (bullet train)
+  * :caution: Komatsu Airport is far from the city of Kanazawa, thus airplanes are not convenient.
+  * Few cheap ticket options are available for Tokyo to Kanazawa by reserving through JR East & JR West websites ahead of time.
+  * Note: Unlike other Shinkansen routes, there are no coupon tickets for Tokyo to Kanazawa route. Thus, you cannot buy discounted tickets in bulk from a [discount ticket shop](https://guidable.co/shopping-service/3-big-discount-ticket-shops-in-japan/).
 
 The Hokuriku Shinkansen trains "Kagayaki-go" and "Hakutaka-go" are used between Tokyo and Kanazawa. The journey time varies depending on the train, but it takes about 2 hours and 30 minutes for the Kagayaki-go.
 
@@ -26,30 +26,30 @@ You can also take the Tokaido Shinkansen between Tokyo and Kanazawa via Maibara.
 
 ### Cheap tickets options & prices
 
-- トクだ値10 (Special Price 10) ¥12,760 Can be purchase by the day before
-- お先にトクだ値30 (First come, first served 30) 
-- e-ticket early bird special 1 1,760 yen Purchase by the day before
-- e-Ticket Early Bird 14 ¥9920 Buy at least 14 days before
-- Shinkansen e-ticket 1,418 yen
-- e-ticket 13,730 yen
-- Tokyo round trip discount ticket from Kanazawa only. Via Maibara. One-way ticket for round trip from Kanazawa via Maibara.
-- Student discount (reserved seat in a standard car) 12880yen
-- Student discount (unreserved seat in a standard-sized car): 12,350 yen
-- JR East Japan Dynamic Rail Pack - Round trip + Hotel Tour
-- All prices are for normal season. Prices may vary depending on the season.
+  * トクだ値10 (Special Price 10) ¥12,760 Can be purchase by the day before
+  * お先にトクだ値30 (First come, first served 30)
+  * e-ticket early bird special 1 1,760 yen Purchase by the day before
+  * e-Ticket Early Bird 14 ¥9920 Buy at least 14 days before
+  * Shinkansen e-ticket 1,418 yen
+  * e-ticket 13,730 yen
+  * Tokyo round trip discount ticket from Kanazawa only. Via Maibara. One-way ticket for round trip from Kanazawa via Maibara.
+  * Student discount (reserved seat in a standard car) 12880yen
+  * Student discount (unreserved seat in a standard-sized car): 12,350 yen
+  * JR East Japan Dynamic Rail Pack - Round trip + Hotel Tour
+  * All prices are for normal season. Prices may vary depending on the season.
 
 
-- Special Price 10 ¥12,760 Purchase by the day before
-- First come, first served!
-- e-ticket early bird special 1 1,760 yen Purchase by the day before
-- e-Ticket Early Bird 14 ¥9920 Buy at least 14 days before
-- Shinkansen e-ticket 1,418 yen
-- e-ticket 13,730 yen
-- Tokyo round trip discount ticket from Kanazawa only. Via Maibara. One-way ticket for a round trip from Kanazawa via Maibara.
-- Student discount (reserved seat in a standard car) 12880yen
-- Student discount (unreserved seat in a standard-sized car): 12,350 yen
-- [JR East Dynamic Rail Pack](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)!
-- Tour with round trip + hotel
+  * Special Price 10 ¥12,760 Purchase by the day before
+  * First come, first served!
+  * e-ticket early bird special 1 1,760 yen Purchase by the day before
+  * e-Ticket Early Bird 14 ¥9920 Buy at least 14 days before
+  * Shinkansen e-ticket 1,418 yen
+  * e-ticket 13,730 yen
+  * Tokyo round trip discount ticket from Kanazawa only. Via Maibara. One-way ticket for a round trip from Kanazawa via Maibara.
+  * Student discount (reserved seat in a standard car) 12880yen
+  * Student discount (unreserved seat in a standard-sized car): 12,350 yen
+  * [JR East Dynamic Rail Pack](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)!
+  * Tour with round trip + hotel
 
 All prices are for normal season. All prices are in normal season and may vary depending on the season.
 
@@ -58,7 +58,8 @@ All prices are for normal season. All prices are in normal season and may vary d
 #### The value of the "Ekinetto Tokudate
 
 These tickets are available only to members of the JR East website "Eki-net". Anyone can become a member of "Ekinette" for free, so anyone can use "Tokudame-value". A one-way ticket and a reserved-seat express ticket are included in the set, and are available at many stations in the JR East area. Reservations must be made by 1:40 a.m. on the day of the ride. The number of trains and seats is limited. A credit card is required to make reservations and purchases, but all major credit cards are accepted.
-　→Click here to register as a member of [JR East Ekinet](https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2988224&pid=882534645)
+
+→Click here to register as a member of [JR East Ekinet](https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2988224&pid=882534645)
 
 ##### Ahead of you
 
@@ -68,11 +69,11 @@ Tickets that can be purchased at least 13 days in advance to receive a 30-35% di
 
 Tickets are available exclusively on the JR West website "e5489". Anyone can become a member of e5489 for free by registering as a J-West member, so anyone can use the eTicket Early Bird Discount as well. A one-way ticket and a reserved seat limited express ticket are included in the package. Reservations must be made by the day before the boarding date. The number of trains and seats is limited. You need a credit card to make a reservation, but all major credit cards are accepted.
 
-#### Shinkansen eTickets.
+#### Shinkansen eTickets
 
 An express ticket that can be used with the "Shinkansen e-ticket" internet reservation service. Only available for "EKINET" and "e5489". 200 yen discount for reserved seats and the same price for non-reserved seats. The city station system does not apply to these tickets. Ticketless boarding is available with an IC card. You can use it for all sections of the Hokuriku Shinkansen.
 
-#### e-ticket.
+#### e-ticket
 
 Exclusive ticket for e5489, JR West's online reservation service. Only available to "J-WEST cardholders". Tickets can be reserved until the day of boarding. Cannot be purchased at the station.
 
@@ -120,18 +121,18 @@ Original Japanese:
 
 ### ひと目でわかる東京〜金沢の格安チケットと値段リスト
 
-- 普通車指定席　14380円
-- 普通車自由席　13850円
-- トクだ値10　12760円　前日までに購入
-- お先にトクだ値30　9920円　14日前までに購入
-- eチケット早特1　12760円　前日までに購入
-- eチケット早特14　9920円　14日前までに購入
-- 新幹線eチケット　14180円
-- eきっぷ　13730円
-- 東京往復割引きっぷ　13240円　金沢発のみ。米原経由。往復タイプの片道あたり。
-- 学割（普通車指定席）　12880円
-- 学割（普通車自由席）　12350円
-- [JR東日本ダイナミックレールパック](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)![](https://ad.linksynergy.com/fs-bin/show?id=y9UNREykB6g&bids=481086.60&type=3&subid=0)　往復+ホテル付きツアー
+  * 普通車指定席　14380円
+  * 普通車自由席　13850円
+  * トクだ値10　12760円　前日までに購入
+  * お先にトクだ値30　9920円　14日前までに購入
+  * eチケット早特1　12760円　前日までに購入
+  * eチケット早特14　9920円　14日前までに購入
+  * 新幹線eチケット　14180円
+  * eきっぷ　13730円
+  * 東京往復割引きっぷ　13240円　金沢発のみ。米原経由。往復タイプの片道あたり。
+  * 学割（普通車指定席）　12880円
+  * 学割（普通車自由席）　12350円
+  * [JR東日本ダイナミックレールパック](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)![](https://ad.linksynergy.com/fs-bin/show?id=y9UNREykB6g&bids=481086.60&type=3&subid=0)　往復+ホテル付きツアー
 
 ※価格はすべて通常期です。時期により異なります。
 
