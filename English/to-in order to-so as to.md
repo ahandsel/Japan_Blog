@@ -42,13 +42,13 @@ Note that these structures are normally used with (modal) auxiliary verbs.
 Compare the following:
   * She is staying in California for two more months `so that` she can perfect her English.
   * She is staying in California for two more months `in order to` perfect her English.
-  *  
+
   * We are leaving by 2:00 pm `so that` we don’t get stuck in the rush-hour traffic.
   * We are leaving by 2:00 pm `so as not to` get stuck in the rush-hour traffic.
-  *  
+
   * William had an afternoon nap `so that` he wouldn’t fall asleep at the concert later.
   * William had an afternoon nap `in order not to` fall asleep at the concert later.
-  *  
+
   * Formal: `In order` *that you may* pass the exam, I recommend you read through all your notes.
   * Causal: `In order to` pass the exam, I recommend you read through all your notes.
 
