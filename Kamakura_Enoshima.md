@@ -11,6 +11,8 @@
   * [Enoshima-Kamakura Free Pass](#enoshima-kamakura-free-pass)
   * [Enoden 1-Day pass "Noriori-kun"](#enoden-1-day-pass-noriori-kun)
 * [Eating in Kamakura](#eating-in-kamakura)
+* [Hotels](#hotels)
+  * [Kamakura Cheap Hotel](#kamakura-cheap-hotel)
 <!-- markdownlint-enable MD007 -->
 
 ## Things to do in Kamakura (鎌倉)
@@ -62,6 +64,14 @@
   * <https://www.emot.jp/service/detail/enoden_noriorikun.html>
   * Adults: 650 yen / Children: 330 yen
   * Ride Enoshima Electric Railway line freely for the whole day!
+  * When is it worth it?
+    * If you are riding between Kamakura & Enoshima twice & will get off at least once.
 
 ## Eating in Kamakura
   * [Crêpe Shop Coquelicot / コクリコのクレープ](https://goo.gl/maps/AbB9qYBCnLu42sLM8)
+
+## Hotels
+
+### Kamakura Cheap Hotel
+  * [Sotetsu Fresa Inn Kamakura-Ofuna Higashiguchi](http://www.booking.com/Share-DTHGk5)
+  * [Hotel Wing International Shonan Fujisawa](http://www.booking.com/Share-HlgbVw)
