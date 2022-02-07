@@ -1,6 +1,6 @@
 # Japan_Blog
 
-  * Global_Shipping.md
+  * [Global_Shipping.md](Global_Shipping.md)
   * [Kamakura_Enoshima.md](./Kamakura_Enoshima.md)
   * [Tokyo_Biking.md](./Tokyo_Biking.md)
   * [Tokyo_Hiking.md](./Tokyo_Hiking.md)
