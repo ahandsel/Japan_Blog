@@ -1,0 +1,4 @@
+baseURL = 'https://ahandsel.github.io/Japan_Blog/'
+languageCode = 'en-us'
+title = 'A Dyslexic in Japan'
+theme='hugo-PaperMod'
