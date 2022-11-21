@@ -2,7 +2,8 @@
 
 ## Outline <!-- omit in toc -->
 * [Overview](#overview)
-  * [Platto Kodama (ぷらっとこだま) Regular Car; Reserved seat plan](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan)
+  * [Eki-Net ()](#eki-net-)
+  * [Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan)
     * [Naming](#naming)
     * [Pricing](#pricing)
     * [Details](#details)
@@ -20,15 +21,21 @@ Travel time between Tokyo & Kyoto:
 | Hikari | ひかり | 2.67 hours | Can use JR Pass                              |
 | Kodama | こだま | 3.62 hours | Slowest (1.37 hours slower), Can use JR Pass |
 
-### Platto Kodama (ぷらっとこだま) Regular Car; Reserved seat plan
+### Eki-Net ()
+
+### Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 
 #### Naming
-* Japanese: ぷらっとこだま普通車指定席プラン
+* Japanese: `ぷらっとこだま普通車指定席プラン`
 * Google Translate: Plattokodama Regular Car Reserved Seat Plan
 * English: Platt Kodama
 
 #### Pricing
-* ¥10,500 for Tokyo ⇔ Kyoto on Kodama
+* Platto Kodama + Ordinary car plan -> 10,600 yen
+* Platto Kodama + Green car plan -> 12,100 yen
+* Comparison (Regular Prices):
+  * **Nozomi** Ordinary car; reserved seat -> 14,170 yen (+3,670 yen)
+  * **Hikari** or **Kodama** Ordinary car; reserved seat -> 13,850 yen (+3,350 yen)
 
 #### Details
 * English: <https://www.jrtours.co.jp/kodama/english/>
@@ -58,7 +65,7 @@ Online Booking:
 
 ⚡ **Tips** for Online Booking:
 * Create an account first (it is buggy )
-* Reserve tickets well ahead of 23:30
+* Reserve tickets well **ahead of 23:30**
 * Prepare multiple credit card options
 
 Search Query
