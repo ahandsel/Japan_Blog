@@ -21,6 +21,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * [mymizu](https://apps.apple.com/us/app/id1480535233?l=en)  - Find the nearest place to refill your water bottle
 * [YAMAP](https://apps.apple.com/jp/app/id558780450?l=en)  - Best hiking app for Japanese mountains; mostly in English
 * [Japan Customs Declaration App](https://apps.apple.com/us/app/id1454991621?l=en)
+* [Norikae Annai -Japan Transit-](https://apps.apple.com/us/app/norikae-annai-japan-transit/id299490481?l=en)  - Helpful for train transfers
 
 ## Apps only available in the Japanese App Store
 
