@@ -81,7 +81,6 @@ Here are some useful iOS Apps that you can use in Japan.
 * [S.RIDE](https://apps.apple.com/JP/app/id1458325928?mt=8)  - English supported Taxi App
 * [GO Taxi](https://apps.apple.com/jp/app/id1254341709)  - English supported Taxi App
 * [EMot](https://apps.apple.com/jp/app/id1472652885?l=en)  - Buy discounted tickets for Hakone, Hamamatsu, Enoshima, and Kamakura areas
-   a Free Pass, special tickets for Hamamatsu area
 
 ### Convenience Store
 * [ファミマネットワークプリント](https://apps.apple.com/jp/app/id1454750155?l=en)
