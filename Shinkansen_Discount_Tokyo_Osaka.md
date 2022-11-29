@@ -1,15 +1,20 @@
-# Tokyo to Kyoto Shinkansen Ticket Options (Cheaper)
+# Platto Kodama - Discount Shinkansen Tickets Between Tokyo and Osaka
 
 ## Outline <!-- omit in toc -->
 * [Overview](#overview)
-  * [Eki-Net ()](#eki-net-)
-  * [Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan)
-    * [Naming](#naming)
-    * [Pricing](#pricing)
-    * [Details](#details)
-    * [Booking Methods](#booking-methods)
-    * [Platt Free Drink](#platt-free-drink)
-* [Source](#source)
+* [Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan)
+  * [Naming](#naming)
+  * [Pricing](#pricing)
+  * [Restrictions](#restrictions)
+  * [Is it worth it?](#is-it-worth-it)
+  * [Details](#details)
+  * [Booking Methods](#booking-methods)
+  * [Platt Free Drink](#platt-free-drink)
+  * [Pick Up The Platt Kodama Tickets](#pick-up-the-platt-kodama-tickets)
+    * [Main Pick-Up Locations](#main-pick-up-locations)
+    * [Pick Up at Tokyo Station](#pick-up-at-tokyo-station)
+    * [Reserved Seat Ticket Vending Machine](#reserved-seat-ticket-vending-machine)
+* [Sources](#sources)
 
 ## Overview
 
@@ -21,27 +26,43 @@ Travel time between Tokyo & Kyoto:
 | Hikari | ひかり | 2.67 hours | Can use JR Pass                              |
 | Kodama | こだま | 3.62 hours | Slowest (1.37 hours slower), Can use JR Pass |
 
-### Eki-Net ()
+## Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 
-### Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
-
-#### Naming
+### Naming
 * Japanese: `ぷらっとこだま普通車指定席プラン`
 * Google Translate: Plattokodama Regular Car Reserved Seat Plan
 * English: Platt Kodama
 
-#### Pricing
+### Pricing
 * Platto Kodama + Ordinary car plan -> 10,600 yen
 * Platto Kodama + Green car plan -> 12,100 yen
 * Comparison (Regular Prices):
   * **Nozomi** Ordinary car; reserved seat -> 14,170 yen (+3,670 yen)
   * **Hikari** or **Kodama** Ordinary car; reserved seat -> 13,850 yen (+3,350 yen)
 
-#### Details
+### Restrictions
+* Platto Kodama tickets MUST be purchase the day BEFORE the travel date.
+  * It cannot be bought on the day of travel
+* Fixed trip plan - you cannot take any other trains.
+* Seat assigned - you cannot use any other seat and cannot change the seat.
+* No stopover allowed - your ticket expires once you get off the train.
+* Handling charge is charged when issuing a refund
+
+### Is it worth it?
+
+| Trip                | Savings   | Added Travel Time |
+| ------------------- | --------- | ----------------- |
+| Tokyo ↔ Shin-Osaka  | 4,020 yen | +1.5 hrs          |
+| Tokyo ↔ Kyoto       | 3,670 yen | +1.5 hrs          |
+| Tokyo ↔ Nagoya      | 2,800 yen | +1 hr 10 mins     |
+| Nagoya ↔ Shin-Osaka | 2,180 yen | +21 mins          |
+| Nagoya ↔ Kyoto      | 1,510 yen | +21 mins          |
+
+### Details
 * English: <https://www.jrtours.co.jp/kodama/english/>
 * Japanese: <https://www.jrtours.co.jp/kodama>
 
-#### Booking Methods
+### Booking Methods
 
 In-Person Booking:
 * Book at JR Tokai Tours Offices
@@ -69,10 +90,10 @@ Online Booking:
 * Prepare multiple credit card options
 
 Search Query
-* 乗車日 - Boarding date -
-* 乗車駅 - Boarding station - 東京
-* 降車駅 - Arrival station - 京都
-* 出発時刻 - Boarding time - Select the earliest hour you want to board
+* `乗車日` - Boarding date -
+* `乗車駅` - Boarding station - `東京` (Tokyo)
+* `降車駅` - Arrival station - `京都` (Kyoto)
+* `出発時刻` - Boarding time - Select the earliest desired boarding time
 
 Steps:
 1. `商品選択` - Product selection
@@ -102,7 +123,7 @@ What is `Kodama Coupon`?
   * ⚠️ You cannot stopover or board the train midway in a zone covered by your Kodama Coupon.
     * If you do, you will need to purchase an additional special express ticket from the departure station.
 
-#### Platt Free Drink
+### Platt Free Drink
 * Wagon service is not available on the Kodama Express
 * Location:Tokai Kiosks and other shops designated by JR Tokai Tours at Tokaido Shinkansen Stations
   * between Tokyo station and Shin-Osaka Station
@@ -114,7 +135,35 @@ Where to buy?
 * Sat/Sun/holidays: 10:00-18:00
 * [JR Tokai Tours / JR東海ツアーズ東京支店 - Google Maps](https://goo.gl/maps/5qhnoCRDsuyZjQHu8)
 
-## Source
+### Pick Up The Platt Kodama Tickets
 
-Original Japanese Article:  
-[東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
+#### Main Pick-Up Locations
+(As of September 2020)
+
+* Tokyo Station
+* Shinagawa Station
+* Shin-Yokohama Station
+* Shizuoka Station
+* Hamamatsu Station
+* Nagoya Station
+* Kyoto Station
+* Shin-Osaka Station
+
+⚠️ Tickets cannot be picked up ticket vending machines inside the JR East, JR West, or JR Kyushu stations.
+
+#### Pick Up at Tokyo Station
+* ![Map of JR Tokai Tours Tokyo Station](./content/kodama_tokyo.png)
+* Mon - Fri: 10:00-18:00
+* Sat/Sun/holidays: 10:00-18:00
+* https://goo.gl/maps/oStEkxBpDH2ryWYw7
+* 
+
+
+
+
+
+#### Reserved Seat Ticket Vending Machine
+
+## Sources
+* [東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
+* [Platt Kodama, one way deal among Tokyo, Nagoya, Kyoto and Shin-Osaka by the Shinkansen - JPRail.com](https://jprail.com/travel-informations/other-rail-passes/rail-pass-for-residents/platt-kodama-one-way-deal-among-tokyo-nagoya-kyoto-and-shin-osaka-by-shinkansen.html#toc1)
