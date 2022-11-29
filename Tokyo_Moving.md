@@ -2,6 +2,7 @@
 
 ## Outline <!-- omit in toc -->
 * [Internet + Cell Service](#internet--cell-service)
+  * [Payment Methods](#payment-methods)
   * [Notes on Cell Phone Plans in Japan](#notes-on-cell-phone-plans-in-japan)
 * [Buying Used Items on Facebook](#buying-used-items-on-facebook)
 * [Home Centers in Tokyo](#home-centers-in-tokyo)
@@ -33,6 +34,13 @@ As of Nov 2022:
   * Recommend YMobile for those who want coverage in rural areas (mountains, beaches, etc.)
 * Rakuten Mobile is the cheapest cell phone plan but has limited coverage
 
+### Payment Methods
+* Easiest way to pay for your cell phone plan would be with a credit card
+* Japan Post Bank is the way one to open a bank account with.
+  * For more information, refer to the [How To Open A Japan Post Bank Account - MATCHA](https://matcha-jp.com/en/4496) article.
+* Then apply for a [Rakuten credit card](https://www.rakuten-card.co.jp/) before trying to get a cell phone plan.
+* Got money in a different currency? Consider [Wise Debit Card](https://transferwise.prf.hn/l/6Z8d5Y5) as a payment method.
+
 ### Notes on Cell Phone Plans in Japan
 Japan's major cell service providers:
 * AU
@@ -45,6 +53,8 @@ Data + voice vs data-only plans?
 * Generally, data-only plans does not support phone calls or SMS (text messages)
   * Great for those who have company phones
   * Not great when trying to use 2-step verification for online services (security or sign ups)
+
+
 
 Vocabulary:
 
@@ -62,7 +72,7 @@ Helpful Articles
 ## Home Centers in Tokyo
 _Closest thing to Home Depot_
 
-Near centeral Tokyo:
+Near central Tokyo:
 * [Viva Home Toyosu / スーパービバホーム 豊洲店](https://goo.gl/maps/joP3skD6cFqW3RG99)
 * [Kohnan Koto Fukagawa Store / コーナン江東深川店](https://goo.gl/maps/c5gas35kiGSvoWMe9)
 
