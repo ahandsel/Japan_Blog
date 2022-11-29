@@ -17,6 +17,8 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 * [Vouchers You Will Get](#vouchers-you-will-get)
 * [Platt Free Drink](#platt-free-drink)
 * [Pick Up The Platt Kodama Tickets](#pick-up-the-platt-kodama-tickets)
+  * [Prep - Getting the ticket's pickup QR Code and confirmation code](#prep---getting-the-tickets-pickup-qr-code-and-confirmation-code)
+  * [Pickup - Using the Ticket Machine](#pickup---using-the-ticket-machine)
   * [Pickup Locations](#pickup-locations)
   * [Pick Up at Tokyo Station](#pick-up-at-tokyo-station)
   * [Pick Up at Shinagawa station](#pick-up-at-shinagawa-station)
@@ -26,9 +28,6 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
     * [1st Floor Kyoto Branch](#1st-floor-kyoto-branch)
     * [2nd Floor Kyoto Branch](#2nd-floor-kyoto-branch)
   * [Pick Up at Shin-Osaka Station](#pick-up-at-shin-osaka-station)
-  * [Using the Reserved Seat Ticket Machine](#using-the-reserved-seat-ticket-machine)
-    * [Prep - Getting the ticket's pickup QR Code and confirmation code](#prep---getting-the-tickets-pickup-qr-code-and-confirmation-code)
-  * [Pickup - Using the Ticket Machine](#pickup---using-the-ticket-machine)
 * [Call JR Tokai Tours Support](#call-jr-tokai-tours-support)
 * [Sources](#sources)
 
@@ -147,6 +146,40 @@ Get a free drink at shops with the following conditions:
 
 ## Pick Up The Platt Kodama Tickets
 
+Two Steps:
+1. **Prep** - Get your **Platt Kodama ticket's pickup QR Code** and **confirmation 6-digit code** ready!
+1. **Pickup** - Scan the QR Code and input the confirmation code to get your tickets from the Ticket Machine
+
+### Prep - Getting the ticket's pickup QR Code and confirmation code
+1. log in to your [JR東海ツアーズ / JR Tokai Tours](https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm) account: <https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm>
+1. Navigate to the `予約内容確認` (Reservation Confirmation) page: <https://ec.jrtours.co.jp/ec/member/InquirySelect>
+1. Click the `一覧を表示する` (Display list) button
+1. Click the `詳細` (Details) button
+1. Navigate to the `選択ツアー詳細` (Select tour details) column
+1. Click the `JR乗車票 受取コード・確認コード表示` (JR boarding pass receipt code/confirmation code display) button
+1. A Platt Kodama ticket's pickup QR Code and confirmation 6-digit code will be displayed
+1. {Optional} Repeat the process to display the return trip's Platt Kodama ticket pickup QR Code
+
+| Step  | ScreenShot                                                                          |
+| ----- | ----------------------------------------------------------------------------------- |
+| 3 ~ 4 | ![TicketDetails.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails.png)     |
+| 5     | ![TicketDetails_2.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails_2.png) |
+
+### Pickup - Using the Ticket Machine
+⚠️ Navigate to the **Correct** Ticket Machine
+
+| ✅ Correct Ticket Machines                                                                       | ❌ Incorrect Ticket Machines                                                                         |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![TicketMachine_Correct.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketMachine_Correct.png) | ![TicketMachine_Incorrect.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketMachine_Incorrect.png) |
+
+| Steps | Screenshots                                                             | Description                                                                                                                              |
+| ----- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | ![method001.png](content/Shinkansen_Discount_Tokyo_Osaka/method001.png) | Please press the "Pick up JR TOKAI TOURS tour ticket" button                                                                             |
+| 2     | ![method002.png](content/Shinkansen_Discount_Tokyo_Osaka/method002.png) | Scan the Platt Kodama ticket's pickup QR Code                                                                                           |
+| 3     | ![method003.png](content/Shinkansen_Discount_Tokyo_Osaka/method003.png) | Input the confirmation 6-digit code and press the "Confirm" button                                                                       |
+| 4     | ![method004.png](content/Shinkansen_Discount_Tokyo_Osaka/method004.png) | Confirm the ticket details and press the "Print" button                                                                                  |
+| 5     | ![method005.png](content/Shinkansen_Discount_Tokyo_Osaka/method005.png) | Please take all the vouchers/documents: Platt Itinerary (1x), Kodama Coupon (number of passengers), Drink Voucher (number of passengers) |
+
 ### Pickup Locations
 (As of September 2020)
 
@@ -232,42 +265,6 @@ Branch Location:
 Hours:
 * Mon - Fri: 10:00-17:30
 * Sat/Sun/Holidays: 10:00-17:30
-
-### Using the Reserved Seat Ticket Machine
-
-Two Steps:
-1. **Prep** - Get your **Platt Kodama ticket's pickup QR Code** and **confirmation 6-digit code** ready!
-1. **Pickup** - Scan the QR Code and input the confirmation code to get your tickets from the Ticket Machine
-
-#### Prep - Getting the ticket's pickup QR Code and confirmation code
-1. log in to your [JR東海ツアーズ / JR Tokai Tours](https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm) account: <https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm>
-1. Navigate to the `予約内容確認` (Reservation Confirmation) page: <https://ec.jrtours.co.jp/ec/member/InquirySelect>
-1. Click the `一覧を表示する` (Display list) button
-1. Click the `詳細` (Details) button
-1. Navigate to the `選択ツアー詳細` (Select tour details) column
-1. Click the `JR乗車票 受取コード・確認コード表示` (JR boarding pass receipt code/confirmation code display) button
-1. A Platt Kodama ticket's pickup QR Code and confirmation 6-digit code will be displayed
-1. {Optional} Repeat the process to display the return trip's Platt Kodama ticket pickup QR Code
-
-| Step  | ScreenShot                                                                          |
-| ----- | ----------------------------------------------------------------------------------- |
-| 3 ~ 4 | ![TicketDetails.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails.png)     |
-| 5     | ![TicketDetails_2.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails_2.png) |
-
-### Pickup - Using the Ticket Machine
-⚠️ Navigate to the **Correct** Ticket Machine
-
-| ✅ Correct Ticket Machines                                                                       | ❌ Incorrect Ticket Machines                                                                         |
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![TicketMachine_Correct.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketMachine_Correct.png) | ![TicketMachine_Incorrect.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketMachine_Incorrect.png) |
-
-| Steps | Screenshots                                                             | Description                                                                                                                              |
-| ----- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | ![method001.png](content/Shinkansen_Discount_Tokyo_Osaka/method001.png) | Please press the "Pick up JR TOKAI TOURS tour ticket" button                                                                             |
-| 2     | ![method002.png](content/Shinkansen_Discount_Tokyo_Osaka/method002.png) | Scan the Platt Kodama ticket's pickup QR Code                                                                                           |
-| 3     | ![method003.png](content/Shinkansen_Discount_Tokyo_Osaka/method003.png) | Input the confirmation 6-digit code and press the "Confirm" button                                                                       |
-| 4     | ![method004.png](content/Shinkansen_Discount_Tokyo_Osaka/method004.png) | Confirm the ticket details and press the "Print" button                                                                                  |
-| 5     | ![method005.png](content/Shinkansen_Discount_Tokyo_Osaka/method005.png) | Please take all the vouchers/documents: Platt Itinerary (1x), Kodama Coupon (number of passengers), Drink Voucher (number of passengers) |
 
 ## Call JR Tokai Tours Support
 * JR Tokai Tours / `JR東海ツアーズ`
