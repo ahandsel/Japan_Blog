@@ -23,6 +23,7 @@
     * [Pick Up at Shin-Osaka Station](#pick-up-at-shin-osaka-station)
     * [Using the Reserved Seat Ticket Machine](#using-the-reserved-seat-ticket-machine)
     * [Pickup - Using the Ticket Machine](#pickup---using-the-ticket-machine)
+* [Call JR Tokai Tours Support](#call-jr-tokai-tours-support)
 * [Sources](#sources)
 
 ## Overview
@@ -263,6 +264,14 @@ Two Steps:
 | 3     | ![method003.png](content/Shinkansen_Discount_Tokyo_Osaka/method003.png) | Input the confirmation 6-digit code and press the "Confirm" button                                                                       |
 | 4     | ![method004.png](content/Shinkansen_Discount_Tokyo_Osaka/method004.png) | Confirm the ticket details and press the "Print" button                                                                                  |
 | 5     | ![method005.png](content/Shinkansen_Discount_Tokyo_Osaka/method005.png) | Please take all the vouchers/documents: Platt Itinerary (1x), Kodama Coupon (number of passengers), Drink Voucher (number of passengers) |
+
+## Call JR Tokai Tours Support
+* JR Tokai Tours / `JR東海ツアーズ`
+* Platto Travel Support / `ぷらっと旅・コールセンター`
+* Platto Kodama "Online Reservation" Tour Desk / `ぷらっとこだま"ネット予約"ツアーデスク`
+* Business days: Open all year round (excluding year-end and New Year holidays)
+* Business hours: 10:00-18:00
+* Phone number: 03-6854-4160
 
 ## Sources
 * [東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
