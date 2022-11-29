@@ -202,7 +202,7 @@ Hours:
 Branch Location:
 * 1st Floor of JR Kyoto Sta. Hachijo exit
 * [Google map](https://goo.gl/maps/cspqtD921dn)
-* ![Map: Kyoto station's 1st fl./oor branch](content/Shinkansen_Discount_Tokyo_Osaka/kyoto.png)
+* ![Map: Kyoto station's 1st floor branch](content/Shinkansen_Discount_Tokyo_Osaka/kyoto.png)
 
 Hours:
 * Mon - Fri: 10:30-18:00
@@ -212,7 +212,7 @@ Hours:
 Branch Location:
 * 2nd Floor of JR Kyoto Sta. Shinkansen Central exit
 * [Google map](https://goo.gl/maps/XyhTsHkCVC92)
-* ![Map: Kyoto station's 2nd fl./oor branch](content/Shinkansen_Discount_Tokyo_Osaka/kyoto_central.png)
+* ![Map: Kyoto station's 2nd floor branch](content/Shinkansen_Discount_Tokyo_Osaka/kyoto_central.png)
 
 Hours:
 * Mon - Fri: 9:30-17:30
