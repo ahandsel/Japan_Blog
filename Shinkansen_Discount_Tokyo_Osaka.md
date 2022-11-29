@@ -103,6 +103,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 
 ⚡ **Tips** for Online Booking:
 * Create an account first (it is buggy )
+  * It is called My Page (`マイページ`) account
 * Reserve tickets well **ahead of 23:30**
 * Prepare multiple credit card options
 
@@ -151,12 +152,12 @@ Two Steps:
 1. **Pickup** - Scan the QR Code and input the confirmation code to get your tickets from the Ticket Machine
 
 ### Prep - Getting the ticket's pickup QR Code and confirmation code
-1. log in to your [JR東海ツアーズ / JR Tokai Tours](https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm) account: <https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm>
-1. Navigate to the `予約内容確認` (Reservation Confirmation) page: <https://ec.jrtours.co.jp/ec/member/InquirySelect>
-1. Click the `一覧を表示する` (Display list) button
+1. Navigate to the JR Tokai Tours's Reservation Confirmation Page (`予約内容確認`): <https://ec.jrtours.co.jp/ec/member/InquirySelect>
+1. Log in to your My Page (`マイページ`) account
+1. Click the `一覧` (List) or `一覧を表示する` (Display list) button
 1. Click the `詳細` (Details) button
 1. Navigate to the `選択ツアー詳細` (Select tour details) column
-1. Click the `JR乗車票 受取コード・確認コード表示` (JR boarding pass receipt code/confirmation code display) button
+1. Click the `JR乗車票` `受取コード` `確認コード表示` (JR boarding pass receipt code/confirmation code display) button
 1. A Platt Kodama ticket's pickup QR Code and confirmation 6-digit code will be displayed
 1. {Optional} Repeat the process to display the return trip's Platt Kodama ticket pickup QR Code
 
