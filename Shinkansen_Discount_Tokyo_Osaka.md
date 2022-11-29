@@ -78,13 +78,13 @@ English
 ### Booking Methods
 
 #### In-Person Booking
-* Book at JR Tokai Tours Offices
-* JR Tokai Tours - Tokyo Office
-  * Next to the ticket gate at the South Yaesu Exit of Tokyo Station
-  * Business hours:
-  * Weekdays: 10:00-20:00
-  * Weekends & holidays: 10:00-19:00
-  * ![Map of JR Tokai Tours Tokyo Branch](https://www.jrtours.co.jp/kodama/english/images/im_location01_l.gif)
+Go to a JR Tokai Tours branch office and book the ticket in person.  
+* [Tokyo station branch location](#pick-up-at-tokyo-station)
+* [Shinagawa station branch location](#pick-up-at-shinagawa-station)
+* [Shin-Yokohama station branch location](#pick-up-at-shin-yokohama-station)
+* [Nagoya station branch location](#pick-up-at-nagoya-station)
+* [Kyoto station branch location](#pick-up-at-kyoto-station)
+* [Shin-Osaka station branch location](#pick-up-at-shin-osaka-station)
 
 #### Online Booking
 * Only via the Japanese website 😭
