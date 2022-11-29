@@ -55,7 +55,7 @@ Travel time between Tokyo & Kyoto:
 * Fixed trip plan - you cannot take any other trains.
 * Seat assigned - you cannot use any other seat or change the seat.
 * No stopover allowed - your ticket expires once you get off the train.
-* Handling charge is charged when issuing a refund
+* A handling charge is charged when issuing a refund
 
 ### Is it worth it?
 
@@ -70,7 +70,7 @@ Travel time between Tokyo & Kyoto:
 ### Details
 Japanese
 * Homepage: [ぷらっとこだま - JR東海ツアーズ](https://www.jrtours.co.jp/kodama)
-* Where and How to Pick-up the tickets: [受取箇所 - JR乗車票の受取箇所・受取方法 - 新幹線のお得なツアーはJR東海ツアーズ](https://www.jrtours.co.jp/receive/ticket/p1.asp)
+* Where and How to Pick up the tickets: [受取箇所 - JR乗車票の受取箇所・受取方法 - 新幹線のお得なツアーはJR東海ツアーズ](https://www.jrtours.co.jp/receive/ticket/p1.asp)
 
 English
 * Homepage: <https://www.jrtours.co.jp/kodama/english/>
@@ -231,7 +231,7 @@ Hours:
 #### Using the Reserved Seat Ticket Machine
 
 Two Steps:
-1. **Prep** - Get your **Platt Kodama ticket's pick-up QR Code** and **confirmation 6-digit code** ready!
+1. **Prep** - Get your **Platt Kodama ticket's pickup QR Code** and **confirmation 6-digit code** ready!
 1. **Pickup** - Scan the QR Code and input the confirmation code to get your tickets from the Ticket Machine
 
 ##### Prep - Getting the ticket's pickup QR Code and confirmation code
@@ -259,7 +259,7 @@ Two Steps:
 | Steps | Screenshots                                                             | Description                                                                                                                              |
 | ----- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | ![method001.png](content/Shinkansen_Discount_Tokyo_Osaka/method001.png) | Please press the "Pick up JR TOKAI TOURS tour ticket" button                                                                             |
-| 2     | ![method002.png](content/Shinkansen_Discount_Tokyo_Osaka/method002.png) | Scan the Platt Kodama ticket's pick-up QR Code                                                                                           |
+| 2     | ![method002.png](content/Shinkansen_Discount_Tokyo_Osaka/method002.png) | Scan the Platt Kodama ticket's pickup QR Code                                                                                           |
 | 3     | ![method003.png](content/Shinkansen_Discount_Tokyo_Osaka/method003.png) | Input the confirmation 6-digit code and press the "Confirm" button                                                                       |
 | 4     | ![method004.png](content/Shinkansen_Discount_Tokyo_Osaka/method004.png) | Confirm the ticket details and press the "Print" button                                                                                  |
 | 5     | ![method005.png](content/Shinkansen_Discount_Tokyo_Osaka/method005.png) | Please take all the vouchers/documents: Platt Itinerary (1x), Kodama Coupon (number of passengers), Drink Voucher (number of passengers) |
