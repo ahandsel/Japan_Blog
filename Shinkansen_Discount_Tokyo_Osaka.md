@@ -1,28 +1,34 @@
 # Platto Kodama - Discount Shinkansen Tickets Between Tokyo and Osaka
 
+Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
+
 ## Outline <!-- omit in toc -->
 * [Overview](#overview)
-* [Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan](#platto-kodama-ぷらっとこだま-regular-car-reserved-seat-plan)
-  * [Naming](#naming)
-  * [Pricing](#pricing)
-  * [Restrictions](#restrictions)
-  * [Is it worth it?](#is-it-worth-it)
-  * [Details](#details)
-  * [Booking Methods](#booking-methods)
-    * [In-Person Booking](#in-person-booking)
-    * [Online Booking](#online-booking)
-  * [Vouchers You Will Get](#vouchers-you-will-get)
-  * [Platt Free Drink](#platt-free-drink)
-  * [Pick Up The Platt Kodama Tickets](#pick-up-the-platt-kodama-tickets)
-    * [Pickup Locations](#pickup-locations)
-    * [Pick Up at Tokyo Station](#pick-up-at-tokyo-station)
-    * [Pick Up at Shinagawa station](#pick-up-at-shinagawa-station)
-    * [Pick Up at Shin-Yokohama station](#pick-up-at-shin-yokohama-station)
-    * [Pick Up at Nagoya station](#pick-up-at-nagoya-station)
-    * [Pick Up at Kyoto Station](#pick-up-at-kyoto-station)
-    * [Pick Up at Shin-Osaka Station](#pick-up-at-shin-osaka-station)
-    * [Using the Reserved Seat Ticket Machine](#using-the-reserved-seat-ticket-machine)
-    * [Pickup - Using the Ticket Machine](#pickup---using-the-ticket-machine)
+* [Naming](#naming)
+* [Pricing](#pricing)
+* [Restrictions](#restrictions)
+* [Is it worth it?](#is-it-worth-it)
+* [Details](#details)
+* [Booking Methods](#booking-methods)
+  * [In-Person Booking](#in-person-booking)
+  * [Online Booking](#online-booking)
+    * [Search Query](#search-query)
+    * [Online Booking Steps](#online-booking-steps)
+* [Vouchers You Will Get](#vouchers-you-will-get)
+* [Platt Free Drink](#platt-free-drink)
+* [Pick Up The Platt Kodama Tickets](#pick-up-the-platt-kodama-tickets)
+  * [Pickup Locations](#pickup-locations)
+  * [Pick Up at Tokyo Station](#pick-up-at-tokyo-station)
+  * [Pick Up at Shinagawa station](#pick-up-at-shinagawa-station)
+  * [Pick Up at Shin-Yokohama station](#pick-up-at-shin-yokohama-station)
+  * [Pick Up at Nagoya station](#pick-up-at-nagoya-station)
+  * [Pick Up at Kyoto Station](#pick-up-at-kyoto-station)
+    * [1st Floor Kyoto Branch](#1st-floor-kyoto-branch)
+    * [2nd Floor Kyoto Branch](#2nd-floor-kyoto-branch)
+  * [Pick Up at Shin-Osaka Station](#pick-up-at-shin-osaka-station)
+  * [Using the Reserved Seat Ticket Machine](#using-the-reserved-seat-ticket-machine)
+    * [Prep - Getting the ticket's pickup QR Code and confirmation code](#prep---getting-the-tickets-pickup-qr-code-and-confirmation-code)
+  * [Pickup - Using the Ticket Machine](#pickup---using-the-ticket-machine)
 * [Call JR Tokai Tours Support](#call-jr-tokai-tours-support)
 * [Sources](#sources)
 
@@ -36,21 +42,19 @@ Travel time between Tokyo & Kyoto:
 | Hikari | ひかり | 2.67 hours | Can use JR Pass                              |
 | Kodama | こだま | 3.62 hours | Slowest (1.37 hours slower), Can use JR Pass |
 
-## Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
-
-### Naming
+## Naming
 * Japanese: `ぷらっとこだま普通車指定席プラン`
 * Google Translate: Plattokodama Regular Car Reserved Seat Plan
 * English: Platt Kodama
 
-### Pricing
+## Pricing
 * Platto Kodama + Ordinary car plan -> 10,600 yen
 * Platto Kodama + Green car plan -> 12,100 yen
 * Comparison (Regular Prices):
   * **Nozomi** Ordinary car; reserved seat -> 14,170 yen (+3,670 yen)
   * **Hikari** or **Kodama** Ordinary car; reserved seat -> 13,850 yen (+3,350 yen)
 
-### Restrictions
+## Restrictions
 * Platto Kodama tickets MUST be purchased the day BEFORE the travel date.
   * It cannot be bought on the day of travel
 * Fixed trip plan - you cannot take any other trains.
@@ -58,7 +62,7 @@ Travel time between Tokyo & Kyoto:
 * No stopover allowed - your ticket expires once you get off the train.
 * A handling charge is charged when issuing a refund
 
-### Is it worth it?
+## Is it worth it?
 
 | Trip                | Savings   | Added Travel Time |
 | ------------------- | --------- | ----------------- |
@@ -68,7 +72,7 @@ Travel time between Tokyo & Kyoto:
 | Nagoya ↔ Shin-Osaka | 2,180 yen | +21 mins          |
 | Nagoya ↔ Kyoto      | 1,510 yen | +21 mins          |
 
-### Details
+## Details
 Japanese
 * Homepage: [ぷらっとこだま - JR東海ツアーズ](https://www.jrtours.co.jp/kodama)
 * Where and How to Pick up the tickets: [受取箇所 - JR乗車票の受取箇所・受取方法 - 新幹線のお得なツアーはJR東海ツアーズ](https://www.jrtours.co.jp/receive/ticket/p1.asp)
@@ -76,9 +80,9 @@ Japanese
 English
 * Homepage: <https://www.jrtours.co.jp/kodama/english/>
 
-### Booking Methods
+## Booking Methods
 
-#### In-Person Booking
+### In-Person Booking
 Go to a JR Tokai Tours branch office and book the ticket in person.  
 * [Tokyo station branch location](#pick-up-at-tokyo-station)
 * [Shinagawa station branch location](#pick-up-at-shinagawa-station)
@@ -87,7 +91,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 * [Kyoto station branch location](#pick-up-at-kyoto-station)
 * [Shin-Osaka station branch location](#pick-up-at-shin-osaka-station)
 
-#### Online Booking
+### Online Booking
 * Only via the Japanese website 😭
   * <https://www.jrtours.co.jp/kodama> ⚠️
   * ⚠️ Google Translate will break the website
@@ -103,7 +107,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 * Reserve tickets well **ahead of 23:30**
 * Prepare multiple credit card options
 
-##### Search Query
+#### Search Query
 
 | Japanese   | English          | Example Values                            |
 | ---------- | ---------------- | ----------------------------------------- |
@@ -112,7 +116,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 | `降車駅`   | Arrival station  | `京都` (Kyoto)                            |
 | `出発時刻` | Boarding time    | Select the earliest desired boarding time |
 
-##### Online Booking Steps
+#### Online Booking Steps
 1. `商品選択` - Product selection
 1. `選択内容確認` - Confirm your selection
 1. `取引条件確認` - Confirm transaction conditions
@@ -122,7 +126,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 
 <!-- * ⚡️ Note: For ¥1,700 extra, you can reduce the travel time by 1.37 hours by selecting -->
 
-### Vouchers You Will Get
+## Vouchers You Will Get
 With `Platt Kodama`, you will get the following vouchers/documents the following:
 * Platt Itinerary - _i.e., receipt_
 * Kodama Coupon - _Train ticket for the Kodama Express Shinkansen_
@@ -135,15 +139,15 @@ What is the `Kodama Coupon`?
   * Show the Kodama Coupon at the gates.
   * ⚠️ Do not use automatic gates.
 
-### Platt Free Drink
+## Platt Free Drink
 Get a free drink at shops with the following conditions:
 * In the Tokaido Shinkansen Stations (Tokyo ~ Shin-Osaka Stations)
 * Shops with this sticker ![JR TOKAI TOURS, INC. Sticker](content/Shinkansen_Discount_Tokyo_Osaka/shop_sticker.png)
 * ⚠️ The voucher cannot be exchanged on Kodama Express as there is no wagon service.
 
-### Pick Up The Platt Kodama Tickets
+## Pick Up The Platt Kodama Tickets
 
-#### Pickup Locations
+### Pickup Locations
 (As of September 2020)
 
 * Tokyo Station
@@ -157,7 +161,7 @@ Get a free drink at shops with the following conditions:
 
 ⚠️ Tickets cannot be picked up by Ticket Machines inside the JR East, JR West, or JR Kyushu stations.
 
-#### Pick Up at Tokyo Station
+### Pick Up at Tokyo Station
 Branch Location:
 * Next to the ticket gate at the South Yaesu Exit of Tokyo Station
 * [Google map](https://goo.gl/maps/oStEkxBpDH2ryWYw7)
@@ -167,7 +171,7 @@ Hours:
 * Mon - Fri: 10:00-18:00
 * Sat/Sun/Holidays: 10:00-18:00
 
-#### Pick Up at Shinagawa station
+### Pick Up at Shinagawa station
 Branch Location:
 * Next to the Shinkansen South exit in JR Shinagawa Station
 * [Google map](https://goo.gl/maps/Xa9w8Q9tdGv)
@@ -177,7 +181,7 @@ Hours:
 * Mon - Fri: 11:00-18:00
 * Sat/Sun/Holidays: 11:00-18:00
 
-#### Pick Up at Shin-Yokohama station
+### Pick Up at Shin-Yokohama station
 Branch Location:
 * Next to Shinkansen West exit in JR Shin-Yokohama Sta.
 * [Google map](https://goo.gl/maps/eVaWbrJ9SG22)
@@ -187,7 +191,7 @@ Hours:
 * Mon - Fri: 10:00-17:00
 * Sat/Sun/Holidays: 10:00-17:00
 
-#### Pick Up at Nagoya station
+### Pick Up at Nagoya station
 Branch Location:
 * Central concourse in JR Nagoya Sta.
 * [Google map](https://goo.gl/maps/ZHPPz3jpf9U2)
@@ -197,11 +201,11 @@ Hours:
 * Mon - Fri: 10:00-18:00
 * Sat/Sun/Holidays: 10:00-18:00
 
-#### Pick Up at Kyoto Station
+### Pick Up at Kyoto Station
 
-##### Pick Up at 1st Floor Kyoto Branch
+#### 1st Floor Kyoto Branch
 Branch Location:
-* 1st Floor of JR Kyoto Sta. Hachijo exit
+* 1st Floor of JR Kyoto Station - Hachijo exit
 * [Google map](https://goo.gl/maps/cspqtD921dn)
 * ![Map: Kyoto station's 1st floor branch](content/Shinkansen_Discount_Tokyo_Osaka/kyoto.png)
 
@@ -209,9 +213,9 @@ Hours:
 * Mon - Fri: 10:30-18:00
 * Sat/Sun/Holidays: 10:30-18:00
 
-##### Pick Up at 2nd Floor Kyoto Branch
+#### 2nd Floor Kyoto Branch
 Branch Location:
-* 2nd Floor of JR Kyoto Sta. Shinkansen Central exit
+* 2nd Floor of JR Kyoto Station - Shinkansen Central exit
 * [Google map](https://goo.gl/maps/XyhTsHkCVC92)
 * ![Map: Kyoto station's 2nd floor branch](content/Shinkansen_Discount_Tokyo_Osaka/kyoto_central.png)
 
@@ -219,7 +223,7 @@ Hours:
 * Mon - Fri: 9:30-17:30
 * Sat/Sun/Holidays: 9:30-17:30
 
-#### Pick Up at Shin-Osaka Station
+### Pick Up at Shin-Osaka Station
 Branch Location:
 * Next to Shinkansen central exit
 * ![Map: Shin-Osaka station ./station branch](content/Shinkansen_Discount_Tokyo_Osaka/shinosaka.png)
@@ -229,13 +233,13 @@ Hours:
 * Mon - Fri: 10:00-17:30
 * Sat/Sun/Holidays: 10:00-17:30
 
-#### Using the Reserved Seat Ticket Machine
+### Using the Reserved Seat Ticket Machine
 
 Two Steps:
 1. **Prep** - Get your **Platt Kodama ticket's pickup QR Code** and **confirmation 6-digit code** ready!
 1. **Pickup** - Scan the QR Code and input the confirmation code to get your tickets from the Ticket Machine
 
-##### Prep - Getting the ticket's pickup QR Code and confirmation code
+#### Prep - Getting the ticket's pickup QR Code and confirmation code
 1. log in to your [JR東海ツアーズ / JR Tokai Tours](https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm) account: <https://ec.jrtours.co.jp/ec/member/LoginAndRegistMailConfirm>
 1. Navigate to the `予約内容確認` (Reservation Confirmation) page: <https://ec.jrtours.co.jp/ec/member/InquirySelect>
 1. Click the `一覧を表示する` (Display list) button
@@ -250,7 +254,7 @@ Two Steps:
 | 3 ~ 4 | ![TicketDetails.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails.png)     |
 | 5     | ![TicketDetails_2.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails_2.png) |
 
-#### Pickup - Using the Ticket Machine
+### Pickup - Using the Ticket Machine
 ⚠️ Navigate to the **Correct** Ticket Machine
 
 | ✅ Correct Ticket Machines                                                                       | ❌ Incorrect Ticket Machines                                                                         |
