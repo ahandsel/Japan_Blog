@@ -9,6 +9,7 @@
 * [Great Things To Buys](#great-things-to-buys)
   * [Dryer for clothes](#dryer-for-clothes)
 * [Other Resources](#other-resources)
+* [Japanese Review Sites](#japanese-review-sites)
 
 ## Internet + Cell Service
 _Trying to search for a cell phone plan in Japan?_
@@ -55,7 +56,6 @@ Data + voice vs data-only plans?
   * Not great when trying to use 2-step verification for online services (security or sign ups)
 
 
-
 Vocabulary:
 
 | English         | Japanese          | Notes |
@@ -65,7 +65,6 @@ Vocabulary:
 Helpful Articles
 * [Japan's Cheapest Cell Phone Plans Compared - Tokyo Cheapo](https://tokyocheapo.com/business/japan-sim-card-options-data-voice/)
 * [How and why to get a Japanese phone number - Time Out Tokyo](https://www.timeout.com/tokyo/things-to-do/how-and-why-to-get-a-japanese-phone-number?package_page=112292)
-
 
 ## Buying Used Items on Facebook
 
@@ -94,3 +93,8 @@ Recommendation:
 * [Living in Tokyo: city life tips for newcomers - Time Out Tokyo](https://www.timeout.com/tokyo/city-life/your-guide-to-living-in-tokyo)
 * [Living in Tokyo - Tokyo Cheapo](https://tokyocheapo.com/living/)
 * [Living Archives - Metropolis Japan](https://metropolisjapan.com/living/)
+
+## Japanese Review Sites
+
+* [SAKIDORI（サキドリ） | ほしいが見つかるモノメディア](https://sakidori.co/)
+* [価格.com](https://kakaku.com/)
