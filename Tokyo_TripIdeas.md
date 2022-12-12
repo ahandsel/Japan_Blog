@@ -1,6 +1,7 @@
 # Tokyo Trip Ideas
 
 ## Outline <!-- omit in toc -->
+* [Overview of Things to Do in Tokyo](#overview-of-things-to-do-in-tokyo)
 * [Things to Book in Advance](#things-to-book-in-advance)
 * [Google Maps Lists](#google-maps-lists)
 * [Shibuya + Harajuku](#shibuya--harajuku)
@@ -9,6 +10,17 @@
 * [Tokyo Tower + Minatoku](#tokyo-tower--minatoku)
 * [Asakusa ⛩️ + SkyTree 🗼](#asakusa-️--skytree-)
 * [Akihabara + Ueno](#akihabara--ueno)
+* [Last-Minute Hotel Options in Tokyo](#last-minute-hotel-options-in-tokyo)
+
+## Overview of Things to Do in Tokyo
+* Nighttime views and restaurants 🌃
+  * Sky tree
+* Street food market
+  * Asakusa Temple area
+  * Ueno backstreet
+* Cute Cafes
+  * Parfait cafe
+  * Pokémon center
 
 ## Things to Book in Advance
 teamLab Planets
@@ -57,3 +69,26 @@ Ghibli Museum / 三鷹の森ジブリ美術館
 ## Akihabara + Ueno
 * [Owl Cafe "Fukurou"](https://maps.app.goo.gl/Kh5vMMZ1r6x88Jec6)
 * [Animate Akihabara](https://maps.app.goo.gl/tWd91xwdjsyRuex36)
+
+## Last-Minute Hotel Options in Tokyo
+
+I recommend APA Hotel as they are a reliable, 24 hrs business hotel chain that are clean, simple, and English friendly.
+
+Not the cheapest but very good for their money.
+
+Here are APA Hotels in convenient locations:
+
+Shimbashi Station: [APA Hotel Shimbashi Toranomon](https://www.apahotel.com/en/hotel/syutoken/tokyo/shimbashi-toranomon)
+* Google: <https://goo.gl/maps/24rrHSng6PM1sb6w9>
+
+Shibuya Station: [APA Hotel Shibuya Dogenzakaue](https://www.apahotel.com/en/hotel/syutoken/tokyo/shibuya-dougenzakaue)
+* Google: <https://goo.gl/maps/cEjRzpG6iKtkV49F7>
+
+Asakusa Station: [APA Hotel Asakusa Tawaramachi-Ekimae](https://www.apahotel.com/en/hotel/syutoken/tokyo/asakusa-tawaramachi-ekima)>
+* Google: <https://goo.gl/maps/ipSvLd2Ma9FTEHKD8>
+
+Ryogoku Station: [APA Hotel ＆ Resort Ryogoku Eki Tower](https://www.apahotel.com/en/hotel/shutoken/tokyo/ryogokueki-tower)
+* Google: <https://goo.gl/maps/4BBuwk6Da8TURhGy5>
+
+Akasaka-Mitsuke Station: [APA Villa Hotel Akasaka-Mitsuke](https://www.apahotel.com/en/hotel/syutoken/tokyo/akasakamitsuke)
+* Google: <https://goo.gl/maps/7W39bJri3abUsuED8>
