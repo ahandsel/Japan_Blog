@@ -1,5 +1,5 @@
 name: markdown-notes-tree GitHub Actions
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: Running markdown-notes-tree 🌳
 on: [push]
 jobs:
   markdown-notes-tree-GitHub-Actions:
