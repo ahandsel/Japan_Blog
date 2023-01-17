@@ -10,7 +10,7 @@ jobs:
     - name: Ensure npx uses a cache
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '16'
         cache: 'npm'
         cache-dependency-path: '**/.github/workflows/*.yml'
     - name: Configure Git for commits
