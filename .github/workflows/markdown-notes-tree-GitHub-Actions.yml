@@ -2,23 +2,23 @@ name: markdown-notes-tree GitHub Actions
 run-name: Running markdown-notes-tree 🌳
 on: [push]
 jobs:
-  markdown-notes-tree-GitHub-Actions:
+  build-tree:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v3
-      - name: Ensure npx uses a cache
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-          cache: 'npm'
-          cache-dependency-path: '**/.github/workflows/*.yml'
-      - name: Configure Git for commits
-        run: |-
-          git config user.name "Automated"
-          git config user.email "actions@users.noreply.github.com"
-      - name: markdown-notes-tree
-        run: npx markdown-notes-tree -- ignore
+    - name: Check out repository code
+      uses: actions/checkout@v3
+    - name: Ensure npx uses a cache
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+        cache: 'npm'
+        cache-dependency-path: '**/.github/workflows/*.yml'
+    - name: Configure Git for commits
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+    - name: markdown-notes-tree
+      run: npx markdown-notes-tree -- ignore
     - name: Commit and push if it changed
       run: |-
         git add -A
