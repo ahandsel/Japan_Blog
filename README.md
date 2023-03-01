@@ -18,6 +18,7 @@ Here are a few Japan-related notes.
 - [Kamakura (鎌倉) & Enoshima (江の島)](Kamakura_Enoshima.md)
 - [Food Options in Kichijoji](Kichijoji_Food.md)
 - [Netflix Recommendation List](Netflix.md)
+- [六本木・麻布 スポット](Roppongi_Places_JP.md)
 - [Platto Kodama - Discount Shinkansen Tickets Between Tokyo and Osaka](Shinkansen_Discount_Tokyo_Osaka.md)
 - [Biking in Tokyo](Tokyo_Biking.md)
 - [Hiking in Tokyo <!-- omit in toc -->](Tokyo_Hiking.md)
