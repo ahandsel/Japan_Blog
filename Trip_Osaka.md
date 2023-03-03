@@ -13,5 +13,5 @@
 ### Osaka Hotel
 * Sun, Dec 04 ~ Tue, Dec 06 (2 nights)
 * Price: 10,979 JPY for 2 nights
-* Hotel Links Dobutsuenmae (（日本中から大阪いらっしゃい２０２２）ホテルリンクス動物園前)
+* Hotel Links Dobutsuenmae (（日本中から大阪いらっしゃい2022）ホテルリンクス動物園前)
 * <https://goo.gl/maps/uRJ32fxQrTjTk3qDA>
