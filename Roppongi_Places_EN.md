@@ -21,7 +21,7 @@ My Basket
 
 (有)麻布第一物産
 * 韓国食料品店
-* 〒106-0046 東京都港区元麻布１丁目５−１１
+* 〒106-0046 東京都港区元麻布1丁目5−11
 * <https://goo.gl/maps/kteef8fHZNaidrcX9>
 
 ## Food Options
@@ -33,14 +33,14 @@ NEW NEW YORK CLUB BAGEL & SANDWICH SHOP
 
 Soul Food House
 * American restaurant
-* Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 2 Chome-8-10 Ｐａｔｉｏ６F
+* Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 2 Chome-8-10 Patio 6F
 * <https://maps.app.goo.gl/22qKGtzEVAAg8kFg9>
 * There is a discount on Wednesdays for chicken and waffles
 
 ### Lunch
 
 Hainanese Chicken Rice Azabujuban Main Shop
-* Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6 Chome-11-16 裏手１F 中銀マンション
+* Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6 Chome-11-16 裏手1F 中銀マンション
 * <https://maps.app.goo.gl/CVc9ouFyUEcJKXDd7>
 * Lunch deal is good!
 
@@ -90,7 +90,7 @@ Les Grands Arbres
 * Hidden cafe
 
 CAFFÈRA BAR & LOUNGE by 上島珈琲店
-* Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 1 Chome-5-23 HOTEL THE LIBELY２F
+* Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 1 Chome-5-23 HOTEL THE LIBELY 2F
 * <https://maps.app.goo.gl/zfBw3tZqTanv1vKs9>
 * Nice place for brunch date or an afternoon working session; Outdoor seating available
 
