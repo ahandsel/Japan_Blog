@@ -18,10 +18,14 @@
     "Odakyu",
     "Platto",
     "Plattokodama",
+    "Rakuten",
     "Shinkansen",
     "Tokai",
     "Tokai's",
     "Tokaido",
-    "Yaesu"
-  ]
+    "Yaesu",
+    "Yodobashi"
+  ],
+  "japanese-proofreading.textlint.全角文字と半角文字の間": false,
+  "japanese-proofreading.textlint.全角文字どうし": false
 }
