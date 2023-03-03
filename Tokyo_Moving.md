@@ -69,7 +69,7 @@ Helpful Articles
 ## Buying Used Items on Facebook
 
 ## Home Centers in Tokyo
-_Closest thing to Home Depot_
+_Closest thing to Home Depot_ 😅
 
 Near central Tokyo:
 * [Viva Home Toyosu / スーパービバホーム 豊洲店](https://goo.gl/maps/joP3skD6cFqW3RG99)
@@ -96,5 +96,5 @@ Recommendation:
 
 ## Japanese Review Sites
 
-* [SAKIDORI（サキドリ） | ほしいが見つかるモノメディア](https://sakidori.co/)
+* [SAKIDORI（サキドリ）- ほしいが見つかるモノメディア](https://sakidori.co/)
 * [価格.com](https://kakaku.com/)
