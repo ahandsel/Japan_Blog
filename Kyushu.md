@@ -63,6 +63,17 @@ FERRY across the Ariake Sea to Kumamoto (5:15:45), Kumamoto Castle
 * <https://goo.gl/maps/xrivbkDLZVWhQaE6A>
 * Roof top onsen ♨️
 
+### SUN - March 2
+* Tando Market
+* Kokura Castle
+* Uomachi Genten Street
+* Chuo Shopping Street
+* Hanoi Fuji-en
+
+🏨 Nishitetsu Inn Kokura
+* https://goo.gl/maps/dt8vatBpXeeak9QW9
+* 🧺 Coin laundry
+
 ### MON - March 3
 
 fly back to Tokyo from Fukuoka at noon
