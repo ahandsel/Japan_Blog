@@ -17,6 +17,7 @@ Here are a few Japan-related notes.
 - [Notes on the repo](Japan_Blog_Repo.md)
 - [Kamakura (鎌倉) & Enoshima (江の島)](Kamakura_Enoshima.md)
 - [Food Options in Kichijoji](Kichijoji_Food.md)
+- [Kyushu (九州) Trip](Kyushu.md)
 - [Netflix Recommendation List](Netflix.md)
 - [Roppongi/Azabu Spots](Roppongi_Places_EN.md)
 - [六本木・麻布 スポット](Roppongi_Places_JP.md)
