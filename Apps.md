@@ -55,7 +55,6 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🇯🇵 [スシロー](https://apps.apple.com/jp/app/id551682016?l=en)
 * 🇯🇵 [食べログ - 「おいしいお店」が見つかるグルメアプリ](https://apps.apple.com/jp/app/id763377066?l=en)
 
-
 ## Transport
 * 🌎 [HELLO CYCLING - シェアサイクル](https://apps.apple.com/us/app/id1216653677?l=en)
 * 🌎 [JR東日本アプリ 電車：乗り換え案内・電車の乗換案内](https://apps.apple.com/us/app/id820004378?l=en)
@@ -65,7 +64,6 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [RYDE CYCLE (ライドサイクル) シェアサイクル検索](https://apps.apple.com/us/app/id1447119108?l=en)
 * 🌎 [チャリチャリ - シェアサイクル](https://apps.apple.com/us/app/id1341611829?l=en)
 * 🌎 [どこでもサイクル by NAVITIME(ナビタイム)](https://apps.apple.com/us/app/id1453371753?l=en)
-* 🌎 [ドコモ・バイクシェア - バイクシェアサービス](https://apps.apple.com/us/app/id1475196715?l=en)
 * 🌎 [ドコモ・バイクシェア - バイクシェアサービス](https://apps.apple.com/us/app/id1475196715?l=en)
 * 🇯🇵 [えきねっとアプリ 新幹線・特急列車の予約](https://apps.apple.com/jp/app/id1484923959?l=en)
 
