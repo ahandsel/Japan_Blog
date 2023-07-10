@@ -15,6 +15,7 @@ Here are a few Japan-related notes.
 - [Notes on International Shipping from & to Japan](Global_Shipping.md)
 - [Japan_Blog](Homepage.md)
 - [Notes on the repo](Japan_Blog_Repo.md)
+- [Places to book ahead for a Japan Trip](Japan_Trip_Reserve_Ahead.md)
 - [Kamakura (鎌倉) & Enoshima (江の島)](Kamakura_Enoshima.md)
 - [Food Options in Kichijoji](Kichijoji_Food.md)
 - [Kichijoji Notes](Kichijoji.md)
