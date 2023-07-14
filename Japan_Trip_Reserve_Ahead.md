@@ -45,7 +45,7 @@
 
 Electronic Ticket vs Paper Ticket
 * Electronic Ticket: Reservations must be made on [ローチケ電子チケット](https://l-tike.com/e-tike/navi/guide/configuration.html) App
-  * iOS: [ローチケ電子チケット on the App Store](https://apps.apple.com/us/app/id1175974437)
+  * iOS: [ローチケ電子チケット on the App Store](https://apps.apple.com/us/app/id1175974437)
   * Google Play: [ローチケ電子チケット - Apps on Google Play](https://play.google.com/store/apps/details?id=jp.lhe.ebillet&hl=en)
 * Paper Ticket: Reserve online and then go to a Lawson store to print out the ticket
 
@@ -130,3 +130,14 @@ Additional Notes:
 
 ### The National Museum of Emerging Science and Innovation
 * Google Maps 📍: <https://goo.gl/maps/3MLKfejcCF4pSz1N6>
+
+### Museum of Contemporary Art Tokyo (MOT)
+* Google Maps 📍: <https://goo.gl/maps/ZRyug7Y15dQvgECPA>
+* Neighborhood: Kiba
+* Prefecture: Tokyo
+* Near Station:
+  * [Kiba Station / 木場駅](https://goo.gl/maps/RhiShAqYYdyfU93w5)
+  * [Kiyosumi-Shirakawa Station / 清澄白河駅](https://goo.gl/maps/mVqj5cs8MBreSEdC7)
+
+## Events
+* [Tokyo Art Beat - The source for What's happening in the art scene in Japan and around the world](https://www.tokyoartbeat.com/en)
