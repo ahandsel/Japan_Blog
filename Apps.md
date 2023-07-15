@@ -11,10 +11,13 @@ Here are some useful iOS Apps that you can use in Japan.
 * [Payment and Reward Points](#payment-and-reward-points)
 * [City Life](#city-life)
 * [Food](#food)
-* [Transport](#transport)
+* [Transportation](#transportation)
+  * [Bicycle 🚲](#bicycle-)
+  * [Train 🚂](#train-)
+  * [Taxi 🚕](#taxi-)
+  * [Airplane ✈️](#airplane-️)
 * [Entertainment](#entertainment)
 * [Hiking Maps](#hiking-maps)
-* [Traveling](#traveling)
 * [Convenience Store](#convenience-store)
 
 ## Weather & Natural Disaster Warning
@@ -55,17 +58,34 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🇯🇵 [スシロー](https://apps.apple.com/jp/app/id551682016?l=en)
 * 🇯🇵 [食べログ - 「おいしいお店」が見つかるグルメアプリ](https://apps.apple.com/jp/app/id763377066?l=en)
 
-## Transport
-* 🌎 [HELLO CYCLING - シェアサイクル](https://apps.apple.com/us/app/id1216653677?l=en)
-* 🌎 [JR東日本アプリ 電車：乗り換え案内・電車の乗換案内](https://apps.apple.com/us/app/id820004378?l=en)
+## Transportation
+
+### Bicycle 🚲
+* 🌎 [Ringo Pass - タクシー配車・シェアサイクル・バス](https://apps.apple.com/us/app/id1471958903?l=en)
+  * Bicycle Rental App (Hello Cycling & Docomo) and Taxi App
+* 🌎 [HELLO CYCLING - シェアサイクル](https://apps.apple.com/us/app/id1216653677?l=en) - Bicycle Rental App
 * 🌎 [LUUP／ループ：シェアサイクル ＆電動キックボードシェア](https://apps.apple.com/us/app/id1445630390?l=en)
-* 🌎 [Norikae Annai -Japan Transit-](https://apps.apple.com/us/app/id299490481?l=en) - Helpful for train transfers; Japan Rail Pass filter
-* 🌎 [Ringo Pass｜タクシー配車・シェアサイクル・バス](https://apps.apple.com/us/app/id1471958903?l=en)
 * 🌎 [RYDE CYCLE (ライドサイクル) シェアサイクル検索](https://apps.apple.com/us/app/id1447119108?l=en)
 * 🌎 [チャリチャリ - シェアサイクル](https://apps.apple.com/us/app/id1341611829?l=en)
 * 🌎 [どこでもサイクル by NAVITIME(ナビタイム)](https://apps.apple.com/us/app/id1453371753?l=en)
 * 🌎 [ドコモ・バイクシェア - バイクシェアサービス](https://apps.apple.com/us/app/id1475196715?l=en)
+
+### Train 🚂
+* 🌎 [JR東日本アプリ 電車：乗り換え案内・電車の乗換案内](https://apps.apple.com/us/app/id820004378?l=en)
+  * JR East Train App - Train route & transfer information
+* 🌎 [Norikae Annai -Japan Transit-](https://apps.apple.com/us/app/id299490481?l=en)
+  * Helpful for train transfers; Japan Rail Pass filter
 * 🇯🇵 [えきねっとアプリ 新幹線・特急列車の予約](https://apps.apple.com/jp/app/id1484923959?l=en)
+* 🌎 [EMot](https://apps.apple.com/us/app/id1472652885?l=en) - Buy discounted tickets for Hakone, Hamamatsu, Enoshima, and Kamakura areas
+
+### Taxi 🚕
+* 🌎 [Ringo Pass - タクシー配車・シェアサイクル・バス](https://apps.apple.com/us/app/id1471958903?l=en)
+  * Taxi App & Bicycle Rental App
+* 🌎 [GO Taxi](https://apps.apple.com/us/app/id1254341709?l=en) - English supported Taxi App
+* 🇯🇵 [S.RIDE](https://apps.apple.com/jp/app/id1458325928?l=en) - English supported Taxi App
+
+### Airplane ✈️
+* 🌎 [Japan Customs Declaration App](https://apps.apple.com/us/app/id1454991621?l=en)
 
 ## Entertainment
 * 🇯🇵 [dアニメストア アニメ動画見放題アプリ/マルチデバイス対応](https://apps.apple.com/jp/app/id728214964?l=en)  Anime streaming service
@@ -73,12 +93,6 @@ Here are some useful iOS Apps that you can use in Japan.
 ## Hiking Maps
 * 🌎 [YAMAP](https://apps.apple.com/us/app/id558780450?l=en) - Best hiking app for Japanese mountains; mostly in English
 * 🌎 [ヤマレコ 登山・ハイキング地図＆GPSナビ](https://apps.apple.com/us/app/id1121091790?l=en) - Great hiking app but is only in Japanese
-
-## Traveling
-* 🌎 [EMot](https://apps.apple.com/us/app/id1472652885?l=en) - Buy discounted tickets for Hakone, Hamamatsu, Enoshima, and Kamakura areas
-* 🌎 [GO Taxi](https://apps.apple.com/us/app/id1254341709?l=en) - English supported Taxi App
-* 🌎 [Japan Customs Declaration App](https://apps.apple.com/us/app/id1454991621?l=en)
-* 🇯🇵 [S.RIDE](https://apps.apple.com/jp/app/id1458325928?l=en) - English supported Taxi App
 
 ## Convenience Store
 * 🌎 [7-Eleven Multicopy](https://apps.apple.com/us/app/id1562641276?l=en)
