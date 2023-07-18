@@ -22,4 +22,7 @@ This is a translation of the [新幹線で東京・名古屋間を格安料金�
 | 9,800 yen | 1,290 yen (11.6%) | EX Early Special 21 Wide         | `EX早特21ワイド`             | Buy 21+ days in advance               |
 | 9,950 yen | 1,140 yen (10.3%) | EX Nozomi Family Early Special   | `EXのぞみファミリー早特`     | 2+ passenger & buy 3+ days in advance |
 
-Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more details.
+Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more deta
+
+## ⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️
+You cannot book tickets during this time.

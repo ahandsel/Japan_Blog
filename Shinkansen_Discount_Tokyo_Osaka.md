@@ -278,3 +278,6 @@ Hours:
 ## Sources
 * [東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
 * [Platt Kodama, one-way deal among Tokyo, Nagoya, Kyoto, and Shin-Osaka by the Shinkansen - JPRail.com](https://jprail.com/travel-informations/other-rail-passes/rail-pass-for-residents/platt-kodama-one-way-deal-among-tokyo-nagoya-kyoto-and-shin-osaka-by-shinkansen.html#toc1)
+
+## ⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️
+You cannot book tickets during this time.
