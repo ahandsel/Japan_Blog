@@ -28,6 +28,7 @@ Here are a few Japan-related notes.
 - [Hiking in Tokyo <!-- omit in toc -->](Tokyo_Hiking.md)
 - [Tokyo to Kanazawa Cheaper Shinkansen Tickets](Tokyo_Kanazawa.md)
 - [Moving to Tokyo, Japan](Tokyo_Moving.md)
+- [Tokyo to Nagoya Cheaper Shinkansen Tickets](Tokyo_Nagoya.md)
 - [Tokyo Trip Ideas](Tokyo_TripIdeas.md)
 - [Kyoto Trip](Trip_Kyoto.md)
 - [Osaka Trip Notes](Trip_Osaka.md)
