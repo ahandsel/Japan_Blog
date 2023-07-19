@@ -1,5 +1,15 @@
 # Tokyo to Nagoya Shinkansen Option
 
+## Outline <!-- omit in toc -->
+
+* [Travel Time Between Tokyo \& Nagoya](#travel-time-between-tokyo--nagoya)
+* [Shinkansen Option Overview](#shinkansen-option-overview)
+* [Discounted Tickets](#discounted-tickets)
+  * [EX Kodama Family Early Special](#ex-kodama-family-early-special)
+* [Platto Kodama Reserved Seat Plan](#platto-kodama-reserved-seat-plan)
+* [⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️](#️-jr-centrals-servers-are-down-from-2330--500-jst-️)
+* [Sources](#sources)
+
 ## Travel Time Between Tokyo & Nagoya
 
 | Name   | JP       | Time     | Note                                       |
@@ -28,7 +38,7 @@
 | 9,800 yen | 1,290 yen (11.6%) | EX Early Special 21 Wide         | `EX早特21ワイド`             | Buy 21+ days in advance               |
 | 9,950 yen | 1,140 yen (10.3%) | EX Nozomi Family Early Special   | `EXのぞみファミリー早特`     | 2+ passenger & buy 3+ days in advance |
 
-Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more deta
+Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more details
 
 ### EX Kodama Family Early Special
 [EXこだまファミリー早特 - エクスプレス予約 新幹線の会員制ネット予約](https://expy.jp/product/ex_kodamafamily_hayatoku/)
