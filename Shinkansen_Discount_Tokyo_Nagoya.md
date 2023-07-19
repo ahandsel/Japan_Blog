@@ -25,8 +25,8 @@
 | Discounted Tickets                                     | From 8,050 yen |
 | Student Discount                                       | From 9,280 yen |
 | Non-reserved Seats                                     | 10,560 yen     |
-| Reserved Seats for Local & Rapid (`こだま` / `ひかり`) | 11,090 yen     |
-| Reserved Seats for Express (`のぞみ`)                  | 11,300 yen     |
+| Reserved Seats for Local & Rapid (`こだま` / `ひかり`) | 11,500 yen     |
+| Reserved Seats for Express (`のぞみ`)                  | 11,500 yen     |
 
 ## Discounted Tickets
 
