@@ -6,8 +6,8 @@
 
 ## Takayama to Tokyo Transport
 
-| Price      | Method                     | Time        | Notes |
-| ---------- | -------------------------- | ----------- | ----- |
+| Price      | Method                     | Time        |
+| ---------- | -------------------------- | ----------- |
 | 7,000 yen  | Bus                        | 5.5 ~ 7 hrs |
 | 9,480 yen  | Bus + Train via Matsumoto  | 5.5 ~ 6 hrs |
 | 17,180 yen | Train via Toyama 4 ~ 5 hrs | 2 transfers |
