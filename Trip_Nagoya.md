@@ -9,7 +9,7 @@
 | Price      | Method                     | Time        | Notes |
 | ---------- | -------------------------- | ----------- | ----- |
 | 7,000 yen  | Bus                        | 5.5 ~ 7 hrs |
-| 9,480 yen  | Bus + Train via Matsumoto               | 5.5 ~ 6 hrs |
+| 9,480 yen  | Bus + Train via Matsumoto  | 5.5 ~ 6 hrs |
 | 17,180 yen | Train via Toyama 4 ~ 5 hrs | 2 transfers |
 
 ### Bus + Train via Matsumoto Method
@@ -24,4 +24,3 @@ Takayama to Matsumoto Bus
 
 Matsumoto to Tokyo Train
 * 20:00 - 21:30
-* 
