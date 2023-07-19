@@ -23,6 +23,7 @@ Here are a few Japan-related notes.
 - [Netflix Recommendation List](Netflix.md)
 - [Roppongi/Azabu Spots](Roppongi_Places_EN.md)
 - [六本木・麻布 スポット](Roppongi_Places_JP.md)
+- [Tokyo to Nagoya Shinkansen Option](Shinkansen_Discount_Tokyo_Nagoya.md)
 - [Platto Kodama - Discount Shinkansen Tickets Between Tokyo and Osaka](Shinkansen_Discount_Tokyo_Osaka.md)
 - [Biking in Tokyo](Tokyo_Biking.md)
 - [Hiking in Tokyo <!-- omit in toc -->](Tokyo_Hiking.md)
