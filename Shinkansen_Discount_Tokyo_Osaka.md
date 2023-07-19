@@ -4,6 +4,7 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 
 ## Outline <!-- omit in toc -->
 * [Overview](#overview)
+  * [Travel time between Tokyo \& Kyoto](#travel-time-between-tokyo--kyoto)
 * [Naming](#naming)
 * [Pricing](#pricing)
 * [Restrictions](#restrictions)
@@ -30,10 +31,11 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
   * [Pick Up at Shin-Osaka Station](#pick-up-at-shin-osaka-station)
 * [Call JR Tokai Tours Support](#call-jr-tokai-tours-support)
 * [Sources](#sources)
+* [⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️](#️-jr-centrals-servers-are-down-from-2330--500-jst-️)
 
 ## Overview
 
-Travel time between Tokyo & Kyoto:
+### Travel time between Tokyo & Kyoto
 
 | Name   | JP     | Time       | Note                                         |
 | ------ | ------ | ---------- | -------------------------------------------- |
