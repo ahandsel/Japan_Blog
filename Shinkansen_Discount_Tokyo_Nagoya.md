@@ -43,6 +43,17 @@ Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/
 ### EX Kodama Family Early Special
 [EXこだまファミリー早特 - エクスプレス予約 新幹線の会員制ネット予約](https://expy.jp/product/ex_kodamafamily_hayatoku/)
 
+Excluded dates for 2023
+* Express reservation / `エクスプレス予約`
+  * 4/28 (Fri) - 5/7 (Sun)
+  * 8/9 (Wed) - 8/16 (Wed)
+  * 8/19 (Sat) - 8/20 (Sun)
+  * 12/28 (Thu) - 1/8 (Mon)
+* Smart EX / `スマートEX`
+  * 4/28 (Fri) - 5/7 (Sun)
+  * 8/9 (Wed) - 8/20 (Sun)
+  * 12/28 (Thu) - 1/8 (Mon)
+
 ## Platto Kodama Reserved Seat Plan
 Refer to [Shinkansen_Discount_Tokyo_Osaka.md](Shinkansen_Discount_Tokyo_Osaka.md) for more details.
 
