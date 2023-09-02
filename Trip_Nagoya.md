@@ -2,11 +2,17 @@
 
 ## Tokyo to Nagoya Transport
 
-| Price     | Method             | Time        | Note       |
-| --------- | ------------------ | ----------- | ---------- |
-| 11,500 yen | Shinkansen         | 1.65 hrs     |            |
+| Price      | Method     | Time     | Note |
+| ---------- | ---------- | -------- | ---- |
+| 11,500 yen | Shinkansen | 1.65 hrs |      |
 
 For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkansen_Discount_Tokyo_Nagoya.md).
+
+## Nagoya Attractions
+
+### Ghibli Park
+* HP: [GHIBLI PARK](https://ghibli-park.jp/en/)
+* [Tickets - GHIBLI PARK](https://ghibli-park.jp/en/ticket/)
 
 ## Nagoya to Takayama Transport
 
