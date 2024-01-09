@@ -8,6 +8,8 @@ Here are a few Japan-related notes.
     - [**Shinkansen_Discount_Tokyo_Osaka**](content/Shinkansen_Discount_Tokyo_Osaka)
 - [**English**](English)
     - [to… / in order to… / so as to…](<English/to-in order to-so as to.md>)
+- [**kumano-kodo**](kumano-kodo)
+    - [**img**](kumano-kodo/img)
 - [**Tokyo_Hiking**](Tokyo_Hiking)
     - [Kumano Kodou](<Tokyo_Hiking/Kumano Kodo.md>)
     - [Hiking Mt. Jinba](<Tokyo_Hiking/Mt. Jinba.md>)
