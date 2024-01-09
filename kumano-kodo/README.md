@@ -7,3 +7,4 @@
 <!-- optional markdown-notes-tree directory description ends here -->
 
 - [**img**](img)
+- [Kumano Kodou 2021 Trip Outline](kumano-kodo-trip-2021.md)
