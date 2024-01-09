@@ -13,6 +13,7 @@ For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkans
 ### Ghibli Park
 * HP: [GHIBLI PARK](https://ghibli-park.jp/en/)
 * [Tickets - GHIBLI PARK](https://ghibli-park.jp/en/ticket/)
+* <https://l-tike.com/bw-ticket/ghibli/ghibli-park/>
 
 ## Nagoya to Takayama Transport
 
