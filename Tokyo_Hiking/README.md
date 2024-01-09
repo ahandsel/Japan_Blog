@@ -6,5 +6,5 @@
 
 <!-- optional markdown-notes-tree directory description ends here -->
 
-- [Kumano Kodou](<Kumano Kodo.md>)
+- [Kumano Kodou](kumano-kodo.md)
 - [Hiking Mt. Jinba](<Mt. Jinba.md>)
