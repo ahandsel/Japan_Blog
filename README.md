@@ -11,7 +11,7 @@ Here are a few Japan-related notes.
 - [**kumano-kodo**](kumano-kodo)
     - [**img**](kumano-kodo/img)
 - [**Tokyo_Hiking**](Tokyo_Hiking)
-    - [Kumano Kodou](<Tokyo_Hiking/Kumano Kodo.md>)
+    - [Kumano Kodou](Tokyo_Hiking/kumano-kodo.md)
     - [Hiking Mt. Jinba](<Tokyo_Hiking/Mt. Jinba.md>)
 - [Useful iOS Apps In Japan](Apps.md)
 - [Notes on International Shipping from & to Japan](Global_Shipping.md)
