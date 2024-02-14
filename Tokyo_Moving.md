@@ -1,6 +1,7 @@
 # Moving to Tokyo, Japan
 
 ## Outline <!-- omit in toc -->
+
 * [Internet + Cell Service](#internet--cell-service)
   * [Payment Methods](#payment-methods)
   * [Notes on Cell Phone Plans in Japan](#notes-on-cell-phone-plans-in-japan)
@@ -12,6 +13,7 @@
 * [Japanese Review Sites](#japanese-review-sites)
 
 ## Internet + Cell Service
+
 _Trying to search for a cell phone plan in Japan?_
 
 Go to a [Yodobashi Camera (ヨドバシカメラ)](https://www.google.com/maps/search/%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7%E3%82%AB%E3%83%A1%E3%83%A9/) or [Bic Camera (ビックカメラ)](https://www.google.com/maps/search/%EF%BE%8B%EF%BE%9E%EF%BD%AF%EF%BD%B8%EF%BD%B6%EF%BE%92%EF%BE%97/) store
@@ -36,6 +38,7 @@ As of Nov 2022:
 * Rakuten Mobile is the cheapest cell phone plan but has limited coverage
 
 ### Payment Methods
+
 * Easiest way to pay for your cell phone plan would be with a credit card
 * Japan Post Bank is the way one to open a bank account with.
   * For more information, refer to the [How To Open A Japan Post Bank Account - MATCHA](https://matcha-jp.com/en/4496) article.
@@ -43,6 +46,7 @@ As of Nov 2022:
 * Got money in a different currency? Consider [Wise Debit Card](https://transferwise.prf.hn/l/6Z8d5Y5) as a payment method.
 
 ### Notes on Cell Phone Plans in Japan
+
 Japan's major cell service providers:
 * AU
 * Docomo
@@ -69,6 +73,7 @@ Helpful Articles
 ## Buying Used Items on Facebook
 
 ## Home Centers in Tokyo
+
 _Closest thing to Home Depot_ 😅
 
 Near central Tokyo:
@@ -78,6 +83,7 @@ Near central Tokyo:
 ## Great Things To Buys
 
 ### Dryer for clothes
+
 * Event if it is small, it makes a huge difference in simplifying laundry days!
 * EN: Compact clothes dryer
 * JP: 小型衣類乾燥機
@@ -90,6 +96,7 @@ Recommendation:
 * Keepa (Price Tracker): <https://keepa.com/#!product/5-B06XBBNMRX>
 
 ## Other Resources
+
 * [Living in Tokyo: city life tips for newcomers - Time Out Tokyo](https://www.timeout.com/tokyo/city-life/your-guide-to-living-in-tokyo)
 * [Living in Tokyo - Tokyo Cheapo](https://tokyocheapo.com/living/)
 * [Living Archives - Metropolis Japan](https://metropolisjapan.com/living/)

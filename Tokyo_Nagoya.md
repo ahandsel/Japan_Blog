@@ -25,4 +25,5 @@ This is a translation of the [新幹線で東京・名古屋間を格安料金�
 Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more deta
 
 ## ⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️
+
 You cannot book tickets during this time.

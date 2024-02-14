@@ -11,6 +11,7 @@ For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkans
 ## Nagoya Attractions
 
 ### Ghibli Park
+
 * HP: [GHIBLI PARK](https://ghibli-park.jp/en/)
 * [Tickets - GHIBLI PARK](https://ghibli-park.jp/en/ticket/)
 * <https://l-tike.com/bw-ticket/ghibli/ghibli-park/>
@@ -31,6 +32,7 @@ For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkans
 | 17,180 yen | Train via Toyama 4 ~ 5 hrs | 2 transfers | +10,180 yen |
 
 ### Bus Method
+
 ⚠️ Make sure that you are able to get back home from Shinjuku station.
 
 ### Bus + Train via Matsumoto Method
@@ -57,6 +59,7 @@ Matsumoto to Tokyo Train
 * Morning Markets - Held daily in two separate locations
 
 ## References
+
 * [Takayama Travel Guide - What to do in Takayama City](https://www.japan-guide.com/e/e5900.html)
 * [Nagoya to Takayama: How to get to and around Takayama](https://www.japan-guide.com/e/e5908.html?aFROM=2155_5900)
 * [Tokyo to Takayama: How to get to and around Takayama](https://www.japan-guide.com/e/e5908.html?aFROM=2164_5900)

@@ -7,6 +7,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * Apps with 🌎 are available to all App Stores
 
 ## Outline <!-- omit in toc -->
+
 * [Weather \& Natural Disaster Warning](#weather--natural-disaster-warning)
 * [Payment and Reward Points](#payment-and-reward-points)
 * [City Life](#city-life)
@@ -21,11 +22,13 @@ Here are some useful iOS Apps that you can use in Japan.
 * [Convenience Store](#convenience-store)
 
 ## Weather & Natural Disaster Warning
+
 * 🌎 [NERV Disaster Prevention](https://apps.apple.com/us/app/id1472338480?l=en) - Get English earthquake, tsunami, volcanic eruption and emergency warnings
 * 🌎 [tenki.jp -日本気象協会の天気予報専門アプリ-](https://apps.apple.com/us/app/id433865746?l=en) - Japan Specialized Weather Forecast App
 * 🇯🇵 [Yahoo!防災速報](https://apps.apple.com/jp/app/id481914139?l=en) - Yahoo! Disaster Prevention Report
 
 ## Payment and Reward Points
+
 * 🌎 [PASMO](https://apps.apple.com/us/app/pasmo/id1489151487?l=en) - PASMO IC Payment App (Managed by Tokyo Metro)
 * 🌎 [Suica](https://apps.apple.com/us/app/id1156875272?l=en) - Suica IC Payment App (Managed by JR)
 * 🌎 [セゾンPortal/クレジット管理](https://apps.apple.com/us/app/id896132217?l=en) - Saison Credit Card Management App
@@ -44,6 +47,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🇯🇵 [楽天ポイントカード（RakutenPointCard）](https://apps.apple.com/jp/app/id911334571?l=en) - Rakuten Point App
 
 ## City Life
+
 * 🌎 [ChargeSPOT](https://apps.apple.com/us/app/id1272481966?l=en) - Rent battery packs ([Details](https://metropolisjapan.com/chargespot/))
 * 🌎 [KuronekoyamatoOfficialApp](https://apps.apple.com/us/app/id484435888?l=en)
 * 🌎 [mymizu](https://apps.apple.com/us/app/id1480535233?l=en) - Find the nearest place to refill your water bottle
@@ -52,6 +56,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [電話帳ナビ－迷惑電話を着信拒否（迷惑電話ブロック）](https://apps.apple.com/us/app/id1024396744?l=en)
 
 ## Food
+
 * 🌎 [CRISP](https://apps.apple.com/us/app/id1526776438?l=en)
 * 🌎 [McDonald's Japan](https://apps.apple.com/us/app/id413618155?l=en)
 * 🇯🇵 [Coke ON](https://apps.apple.com/jp/app/id1088184021?l=en)
@@ -61,6 +66,7 @@ Here are some useful iOS Apps that you can use in Japan.
 ## Transportation
 
 ### Bicycle 🚲
+
 * 🌎 [Ringo Pass - タクシー配車・シェアサイクル・バス](https://apps.apple.com/us/app/id1471958903?l=en)
   * Bicycle Rental App (Hello Cycling & Docomo) and Taxi App
 * 🌎 [HELLO CYCLING - シェアサイクル](https://apps.apple.com/us/app/id1216653677?l=en) - Bicycle Rental App
@@ -71,6 +77,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [ドコモ・バイクシェア - バイクシェアサービス](https://apps.apple.com/us/app/id1475196715?l=en)
 
 ### Train 🚂
+
 * 🌎 [JR東日本アプリ 電車：乗り換え案内・電車の乗換案内](https://apps.apple.com/us/app/id820004378?l=en)
   * JR East Train App - Train route & transfer information
 * 🌎 [Norikae Annai -Japan Transit-](https://apps.apple.com/us/app/id299490481?l=en)
@@ -79,22 +86,27 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [EMot](https://apps.apple.com/us/app/id1472652885?l=en) - Buy discounted tickets for Hakone, Hamamatsu, Enoshima, and Kamakura areas
 
 ### Taxi 🚕
+
 * 🌎 [Ringo Pass - タクシー配車・シェアサイクル・バス](https://apps.apple.com/us/app/id1471958903?l=en)
   * Taxi App & Bicycle Rental App
 * 🌎 [GO Taxi](https://apps.apple.com/us/app/id1254341709?l=en) - English supported Taxi App
 * 🇯🇵 [S.RIDE](https://apps.apple.com/jp/app/id1458325928?l=en) - English supported Taxi App
 
 ### Airplane ✈️
+
 * 🌎 [Japan Customs Declaration App](https://apps.apple.com/us/app/id1454991621?l=en)
 
 ## Entertainment
+
 * 🇯🇵 [dアニメストア アニメ動画見放題アプリ/マルチデバイス対応](https://apps.apple.com/jp/app/id728214964?l=en)  Anime streaming service
 
 ## Hiking Maps
+
 * 🌎 [YAMAP](https://apps.apple.com/us/app/id558780450?l=en) - Best hiking app for Japanese mountains; mostly in English
 * 🌎 [ヤマレコ 登山・ハイキング地図＆GPSナビ](https://apps.apple.com/us/app/id1121091790?l=en) - Great hiking app but is only in Japanese
 
 ## Convenience Store
+
 * 🌎 [7-Eleven Multicopy](https://apps.apple.com/us/app/id1562641276?l=en)
 * 🌎 [Network Print](https://apps.apple.com/us/app/id454644833?l=en)
 * 🌎 [ファミマネットワークプリント](https://apps.apple.com/us/app/id1454750155?l=en)

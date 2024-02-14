@@ -1,6 +1,7 @@
 # 六本木・麻布 スポット
 
 ## Outline <!-- omit in toc -->
+
 * [スーパーマーケット](#スーパーマーケット)
 * [食事のオプション](#食事のオプション)
   * [ランチ](#ランチ)
@@ -87,6 +88,7 @@ Sukha Café Bar
 * <https://goo.gl/maps/EDY5UtzAgTjU9UBy9>
 
 ### カフェ・喫茶
+
 Little Darling Coffee Roasters ｜ リトル ダーリン コーヒー ロースターズ
 * 〒107-0062 東京都港区南青山1丁目12−32
 * <https://goo.gl/maps/4ztJUkRK7En6bscX8>

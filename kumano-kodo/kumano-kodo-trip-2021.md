@@ -1,6 +1,7 @@
 # Kumano Kodou 2021 Trip Outline
 
 ## Table of Content <!-- omit in toc -->
+
 * [Overview](#overview)
 * [Plane Tickets](#plane-tickets)
 * [Day 1: Flying to Shirahama City](#day-1-flying-to-shirahama-city)
@@ -28,6 +29,7 @@
 | Day 8 | Fly back                       |
 
 ## Plane Tickets
+
 Tokyo --> SHM
 * Mon, May 24, 16:30 --> 17:40
 
@@ -35,6 +37,7 @@ SHM --> Tokyo
 * Mon, May 31, 09:20 --> 10:25
 
 ## Day 1: Flying to Shirahama City
+
 Flight
 * Haneda -> [Nanki-Shirahama (SHM) Airport/ 南紀白浜空港](https://goo.gl/maps/5U4K6He3TLMHxJ436)
   * 1 hr 10 min flight
@@ -47,6 +50,7 @@ Overnight
   * [DJANGO](https://goo.gl/maps/nf5hKP5KNhizDyFG9)
 
 ## Day 2: Bus + Hiking; Shirahama City to Takahara Village
+
 Bus
 * Naki-Shirahama --> [Takijiri/ 滝尻 Bus stop](https://goo.gl/maps/XD1qDSDrZotK5ZBKA)
 * 1.5 ~ 2 hour bus
@@ -69,6 +73,7 @@ Overnight: Takahara Village
 * [Kirinosato Takahara - Google Maps](https://goo.gl/maps/qJw4wfz4bav6q38h7)
 
 ## Day 3: Hiking; Takahara to Chikatsuyu
+
 Hiking: Takahara to Chikatsuyu
 * [TAKAHARA](https://goo.gl/maps/5HPV4SCWCiiDe82x6)
 * [Chikatsuyu](https://goo.gl/maps/WYhiKQDa9nE7eBoH6)
@@ -91,6 +96,7 @@ Overnight: Chikatsuyu Village
 ## Day 4: Hiking + Bus; Chikatsuyu to Hongu Taisha
 
 ## Hike: Chikatsuyu to Kumano Hongu Taisha
+
 * There are 3x options for the hike!
 * For detailed comparison: [Walk Options PDF](http://www2.tb-kumano.jp/en/kumano-kodo/pdf/chikatsuyu-nonaka-hongu-walking-options-web.pdf)
 * [Bus Timetable #1](http://www.tb-kumano.jp/en/transport/bus/#localtimetables)
@@ -100,6 +106,7 @@ Overnight: Yunomine Onsen
 * Google Maps: [Minshuku Kuraya](https://goo.gl/maps/qf3SoLcax3r9h2K36)
 
 ### Option 1: Full Walk; 25 km
+
 * Distance: ~25 km
 * Time: 9~12 hr
 * Elevation Gain: ~1210 m
@@ -109,6 +116,7 @@ This is a challenging full day walk with many climbs and descents, finishing at 
 ⚠️ Start early if attempting the full walk.
 
 ### Option 2: Intermediate Walk; 17 km
+
 Bus: Chikatsuyu to Doyukawa-Bashi
 * [Doyukawa-Bashi/ 道湯川橋](https://goo.gl/maps/poKZ3G2we3JcdJgaA) Bus Stop
 * Ryujin Bus

@@ -1,6 +1,7 @@
 # Roppongi/Azabu Spots
 
 ## Outline <!-- omit in toc -->
+
 * [Supermarket](#supermarket)
 * [Food Options](#food-options)
   * [Lunch](#lunch)
@@ -79,6 +80,7 @@ Sukha Café Bar
 * <https://maps.app.goo.gl/su48wkqBfJt8t4uk6>
 
 ### Cafe
+
 Little Darling Coffee Roasters ｜ リトル ダーリン コーヒー ロースターズ
 * 1 Chome-12-32 Minamiaoyama, Minato City, Tokyo 107-0062
 * <https://maps.app.goo.gl/932aq6EtfzGbpDgH9>

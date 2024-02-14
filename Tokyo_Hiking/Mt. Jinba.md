@@ -3,12 +3,14 @@
 URL: <https://bit.ly/3sNYdQ6>
 
 ## Maps
+
 * [高尾山・陣馬山・景信山の登山ルート・コースタイム付き無料登山地図 | YAMAP / ヤマップ](https://yamap.com/maps/77)
 * [Mt. Jinba to Mt. Takao - Google Maps List](https://www.google.com/maps/placelists/list/sncay2aXTwuMCjeLsZP79g)
 
 ## Getting there
 
 ### Step 1: Shinjuku to Takao
+
 * Shinjuku station -> 46 min -> Takao station | [Google Maps](https://www.google.com/maps/dir/Shinjuku+Station,+JR+Shinjuku+Station,+3+Chome-38+Shinjuku,+Shinjuku+City,+Tokyo/Takao+Station,+Takaomachi,+Hachioji,+Tokyo/@35.6735819,139.2108804,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188cd0d6b1ba1f:0x1c32a1f1ecacfdd5!2m2!1d139.7005713!2d35.6896067!1m5!1m1!1s0x60191953768eb377:0xa28d32aeb0efaa98!2m2!1d139.2818312!2d35.6422261!3e3)
 * A: 8:39 --> 9:23 via Chuo Special Rapid for Takao | 44 min (9 stops) | Platform 12
 * B: 9:37 --> 10:30 via Rapid for Takao | 53 min (16 stops) | Platform 12
@@ -17,6 +19,7 @@ URL: <https://bit.ly/3sNYdQ6>
 * Takao station (高尾駅) is one station away from Takaosanguchi Station on the Takao Line by Keio Line (京王線), (KO)
 
 ### Step 2: Takao station -> 40 min -> Jinbakōgenshita Bus stop
+
 * Takao Station --> North Exit --> Nishi Tokyo Bus (西東京バス) area --> Jinbakōgenshita Bus stop
 * 西東京バス: 高尾駅北口 ---> 陣馬高原下
 * A: 9:34 --> 10:11
@@ -31,6 +34,7 @@ Jinbakōgenshita (Bus)
 [陣馬そば山下屋](https://g.page/jinbasoba?share)
 
 ### Step 4: Hiking from Bus stop to trail-head 🥾
+
 Walk up the road for 1.4 kilometers
 
 Then find this sign to turn into the forested trail-head:
@@ -53,4 +57,5 @@ Then find this sign to turn into the forested trail-head:
 5. Down to [Takaosanguchi Station | 高尾山口駅](https://goo.gl/maps/hh8vsLxTWGcvax7o7)
 
 ## Sources
+
 [An Insider's Guide To Hiking Mt. Jinba - Savvy Tokyo](https://savvytokyo.com/an-insiders-guide-to-hiking-mt-jinba/)

@@ -41,6 +41,7 @@
 Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more details
 
 ### EX Kodama Family Early Special
+
 [EXこだまファミリー早特 - エクスプレス予約 新幹線の会員制ネット予約](https://expy.jp/product/ex_kodamafamily_hayatoku/)
 
 Excluded dates for 2023
@@ -55,11 +56,14 @@ Excluded dates for 2023
   * 12/28 (Thu) - 1/8 (Mon)
 
 ## Platto Kodama Reserved Seat Plan
+
 Refer to [Shinkansen_Discount_Tokyo_Osaka.md](Shinkansen_Discount_Tokyo_Osaka.md) for more details.
 
 ## ⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️
+
 You cannot book tickets during this time.
 
 ## Sources
+
 * [新幹線で東京・名古屋間を格安料金で行く方法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_nagoya.html)
 * [Tokyo to Nagoya: The Fastest and Cheapest Ways to Travel | Tokyo Cheapo](https://tokyocheapo.com/travel/tokyo-to-nagoya/)

@@ -1,6 +1,7 @@
 # Kichijoji Notes
 
 ## Kichijoji Gyms
+
 * Updated as of 2023-05-31
 * List ordered by monthly membership fee
 

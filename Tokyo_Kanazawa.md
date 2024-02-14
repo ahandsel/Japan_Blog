@@ -3,6 +3,7 @@
 This is a translation of the [東京・金沢のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kanazawa.html) Japanese post.
 
 ## Overview
+
 * It is about 450 km from Tokyo to Kanazawa.
 * Transport options: Flight from JAL & ANA or Shinkansen (bullet train)
 * ⚠️ Komatsu Airport is far from the city of Kanazawa, thus airplanes are not convenient.
@@ -15,6 +16,7 @@ You can also take the Tokaido Shinkansen between Tokyo and Kanazawa via Maibara.
 
 
 ### Price breakdown of Tokyo <-> Kanazawa Shinkansen
+
 | Seating            | Price             |
 | ------------------ | ----------------- |
 | Discounted Ticket  | From 9,920 yen    |
@@ -98,6 +100,7 @@ If you want to take the Tokaido Shinkansen via Maibara for a one-way trip, you c
 Original Japanese:
 
 ## [東京・金沢のお得な利用法](https://shinkansen.tabiris.com/tokyo_kanazawa.html)
+
 ------------
 
 東京〜金沢は約450キロ。交通機関としては新幹線のほかにJALやANAの飛行機があります。ただ、小松空港は金沢市内から離れているため、飛行機はやや不便。新幹線のほうが便利です。東京〜金沢間の新幹線には、JR東日本とJR西日本のインターネット予約による格安チケットがいくつか設定されています。
@@ -110,6 +113,7 @@ Original Japanese:
 
 
 ### 東京～金沢の新幹線料金表
+
 | 座席         | 料金       |
 | ------------ | ---------- |
 | 普通車自由席 | 13,850円   |

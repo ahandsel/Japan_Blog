@@ -1,14 +1,17 @@
 # Kyushu (九州) Trip
 
 ## Notes
+
 * Slightly warmer than Tokyo throughout the year
 * Nagasaki city was by far the most interesting place to visit in Kyushu.
 
 ## Cool Places to Visit
+
 * [Gunkanjima (軍艦島) Island](https://www.japan-guide.com/e/e4414.html)
 * [Mount Inasayama (稲佐山)](https://www.japan-guide.com/e/e4412.html)
 
 ## Past Itinerary
+
 ### WED - March 29
 
 Narita {NRT} -> Fukuoka {FUK}
@@ -64,6 +67,7 @@ FERRY across the Ariake Sea to Kumamoto (5:15:45), Kumamoto Castle
 * Roof top onsen ♨️
 
 ### SUN - March 2
+
 * Tando Market
 * Kokura Castle
 * Uomachi Genten Street
@@ -71,7 +75,7 @@ FERRY across the Ariake Sea to Kumamoto (5:15:45), Kumamoto Castle
 * Hanoi Fuji-en
 
 🏨 Nishitetsu Inn Kokura
-* https://goo.gl/maps/dt8vatBpXeeak9QW9
+* <https://goo.gl/maps/dt8vatBpXeeak9QW9>
 * 🧺 Coin laundry
 
 ### MON - March 3

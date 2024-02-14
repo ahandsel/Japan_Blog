@@ -3,6 +3,7 @@
 ## 🍙 Lunch / Dinner Options in Kichijoji
 
 ### Cheap $
+
 Banh Mi☆Sandwich Kichijoji
 * <https://maps.app.goo.gl/tCzLPF3AZDrA8huc7>
 * Vietnamese; Bamh Mi Sandwiches
@@ -16,6 +17,7 @@ Kanibaru Kichijojiten
 * Dei
 
 ### Good Deal $$
+
 Ootoya
 * <https://maps.app.goo.gl/5PNiEs5LKkuSwdGi6>
 * Teishoku

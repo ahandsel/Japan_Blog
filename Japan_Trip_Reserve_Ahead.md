@@ -1,6 +1,7 @@
 # Places to book ahead for a Japan Trip
 
 ## Outline <!-- omit in toc -->
+
 * [2 ~ 3 months ahead](#2--3-months-ahead)
   * [Ghibli Park](#ghibli-park)
 * [1 Month ahead](#1-month-ahead)
@@ -17,7 +18,9 @@
   * [The National Museum of Emerging Science and Innovation](#the-national-museum-of-emerging-science-and-innovation)
 
 ## 2 ~ 3 months ahead
+
 ### Ghibli Park
+
 * Google Maps 📍: <https://maps.app.goo.gl/u3YZ9GNK9uaC8ozA9>
 * Neighborhood: Nagoya City's Moricoro Park
 * Prefecture: Aichi
@@ -26,6 +29,7 @@
 ## 1 Month ahead
 
 ### Ghibli Museum
+
 * Google Maps 📍: <https://maps.app.goo.gl/cPkpLwLXpjhgo27s5>
 * Neighborhood: Mitaka
 * Prefecture: Tokyo
@@ -55,6 +59,7 @@ Day of the visit
   * You might be able to enter earlier than the designated time if there is space.
 
 ### Pokémon Café
+
 * Google Maps 📍: <https://maps.app.goo.gl/rNZkp5t9SHSYbE9J7>
 * Neighborhood: Nihombashi
 * Prefecture: Tokyo
@@ -80,6 +85,7 @@ Additional Notes:
   * `+81 0362623439`
 
 ### Warner Bros. Studio Tour Tokyo - The Making of Harry Potter
+
 * Google Maps 📍: <https://maps.app.goo.gl/tJvDXYWYSN1auw3G7>
 * Neighborhood: Nerima City
 * Prefecture: Tokyo
@@ -88,6 +94,7 @@ Additional Notes:
 ## 2 ~ 4 weeks ahead
 
 ### teamLab Planets TOKYO
+
 * Google Maps 📍: <https://maps.app.goo.gl/7q7McjvgPBRHdtGr7>
 * Neighborhood: Koto City
 * Prefecture: Tokyo
@@ -101,6 +108,7 @@ Additional Notes:
 * <https://teamlabplanets.dmm.com/en> and click on `Buy a Ticket`
 
 ### mipig cafe - Harajuku
+
 * Google Maps 📍: <https://maps.app.goo.gl/TgnaKpc8wopVup8a7>
 * Neighborhood: Harajuku
 * Prefecture: Tokyo
@@ -109,6 +117,7 @@ Additional Notes:
 ## 1 ~ 2 weeks ahead
 
 ### Tokyo Skytree
+
 * Google Maps 📍: <https://goo.gl/maps/g9e5G99sQmehCiL28>
 * Neighborhood: Sumida
 * Prefecture: Tokyo
@@ -120,6 +129,7 @@ Additional Notes:
 ## Not necessary to book ahead
 
 ### Tokyo Tower
+
 * Google Maps 📍: <https://goo.gl/maps/jTCtyM4YCf4WEK9N6>
 * Neighborhood: Minato
 * Prefecture: Tokyo
@@ -129,9 +139,11 @@ Additional Notes:
   * [Onarimon Station / 御成門駅](https://goo.gl/maps/p7ZR793tnvAydHu77)
 
 ### The National Museum of Emerging Science and Innovation
+
 * Google Maps 📍: <https://goo.gl/maps/3MLKfejcCF4pSz1N6>
 
 ### Museum of Contemporary Art Tokyo (MOT)
+
 * Google Maps 📍: <https://goo.gl/maps/ZRyug7Y15dQvgECPA>
 * Neighborhood: Kiba
 * Prefecture: Tokyo
@@ -140,4 +152,5 @@ Additional Notes:
   * [Kiyosumi-Shirakawa Station / 清澄白河駅](https://goo.gl/maps/mVqj5cs8MBreSEdC7)
 
 ## Events
+
 * [Tokyo Art Beat - The source for What's happening in the art scene in Japan and around the world](https://www.tokyoartbeat.com/en)
