@@ -2,6 +2,77 @@
 
 Wakayama Prefecture, located in the Kansai region of Japan, offers a rich blend of cultural heritage, natural beauty, and culinary delights.
 
+## Table of Contents <!-- omit in toc -->
+* [One-week Itinerary](#one-week-itinerary)
+  * [Day 1: Arrival in Wakayama City](#day-1-arrival-in-wakayama-city)
+  * [Day 2: Adventure in Shirahama](#day-2-adventure-in-shirahama)
+  * [Day 3: Spiritual Journey in Koyasan](#day-3-spiritual-journey-in-koyasan)
+  * [Day 4: Nachi Waterfall and Kumano Kodo Pilgrimage](#day-4-nachi-waterfall-and-kumano-kodo-pilgrimage)
+  * [Day 5: Adventure in the Kumano Region](#day-5-adventure-in-the-kumano-region)
+  * [Day 6: Relax in Ryujin Onsen](#day-6-relax-in-ryujin-onsen)
+  * [Day 7: Return to Wakayama City and Departure](#day-7-return-to-wakayama-city-and-departure)
+  * [Additional Tips](#additional-tips)
+* [Things to do in in Wakayama Prefecture](#things-to-do-in-in-wakayama-prefecture)
+  * [Kumano-Nachi Taisha](#kumano-nachi-taisha)
+  * [Kumano-Kodo Nakahechi Pilgrimage Route](#kumano-kodo-nakahechi-pilgrimage-route)
+  * [Shirahama beach](#shirahama-beach)
+  * [Adventure World](#adventure-world)
+  * [Koyasan](#koyasan)
+  * [Wakayama Castle](#wakayama-castle)
+  * [Nachi Falls](#nachi-falls)
+  * [Engetsu Island](#engetsu-island)
+  * [Kumano Hongu Taisha](#kumano-hongu-taisha)
+  * [Kishi Station](#kishi-station)
+  * [Sandanbeki Cave](#sandanbeki-cave)
+  * [Ryujin Hot Spring](#ryujin-hot-spring)
+  * [Hashigui-iwa Rocks](#hashigui-iwa-rocks)
+  * [Saki-no-Yu Onsen Spa](#saki-no-yu-onsen-spa)
+  * [Kumano Hayatama Taisha](#kumano-hayatama-taisha)
+  * [Wakayama Marina City](#wakayama-marina-city)
+  * [Senjojiki Rock Plateau](#senjojiki-rock-plateau)
+  * [Kozan-ji Temple](#kozan-ji-temple)
+  * [Shirahama Energy Land](#shirahama-energy-land)
+
+
+## One-week Itinerary
+Here's a suggested itinerary that covers a range of activities and sights:
+
+### Day 1: Arrival in Wakayama City
+* **Morning:** Arrive at Wakayama Station. Check into your hotel and take some time to relax.
+* **Afternoon:** Visit Wakayama Castle, situated in the center of Wakayama City. Enjoy the panoramic views of the city from the observation deck.
+* **Evening:** Explore the Kuroshio Market to try local specialties, such as fresh seafood.
+
+### Day 2: Adventure in Shirahama
+* **Morning:** Travel to Shirahama, famous for its white sand beaches. Start your day at Shirahama Beach for swimming or sunbathing.
+* **Afternoon:** Visit Adventure World, an amusement park that combines a zoo, an aquarium, and theme park rides.
+* **Evening:** Relax in one of Shirahama's famous hot springs, such as Shirahama Onsen.
+
+### Day 3: Spiritual Journey in Koyasan
+* **Morning to Evening:** Dedicate a full day to explore Koyasan (Mount Koya), the center of Shingon Buddhism. Start with Okunoin, the mausoleum of Kobo Daishi (Kukai), then visit Kongobuji Temple, and the Danjo Garan complex. Consider staying overnight at a temple lodging (shukubo) to experience Buddhist monastic life, including meditation sessions and vegetarian cuisine.
+
+### Day 4: Nachi Waterfall and Kumano Kodo Pilgrimage
+* **Morning:** Head to the Nachi Waterfall, the tallest waterfall in Japan, located near Kumano Nachi Taisha, one of the three grand shrines of Kumano.
+* **Afternoon:** Explore parts of the Kumano Kodo pilgrimage route. Visit Kumano Nachi Taisha and the nearby Seiganto-ji Temple.
+* **Evening:** Return to your accommodation in the area or stay in a local ryokan (traditional Japanese inn).
+
+### Day 5: Adventure in the Kumano Region
+* **Morning:** Travel to the Hongu area to visit the Kumano Hongu Taisha, another of the three grand shrines of Kumano.
+* **Afternoon:** Take a scenic riverboat tour on the Kumano River or hike another section of the Kumano Kodo.
+* **Evening:** Enjoy a traditional dinner at your accommodation or explore local dining options.
+
+### Day 6: Relax in Ryujin Onsen
+* **Day:** Spend a relaxing day at Ryujin Onsen, one of Wakayama's most famous hot spring resorts. Enjoy the therapeutic baths known for their beautifying properties.
+* **Evening:** Stay overnight in an onsen ryokan to experience the full relaxation and hospitality Japan is known for.
+
+### Day 7: Return to Wakayama City and Departure
+* **Morning:** Return to Wakayama City. If time allows, visit the Wakayama Marina City, a resort island with attractions like Porto Europa theme park and Kuroshio Ichiba, where you can enjoy fresh seafood again.
+* **Afternoon:** Collect souvenirs and prepare for your departure. Take a final stroll around the city or along the marina to say goodbye to Wakayama.
+
+### Additional Tips
+* **Transport:** Consider purchasing a Wakayama area rail pass if you plan to travel extensively by train.
+* **Accommodations:** Mix your stays between modern hotels in cities, traditional ryokans in onsen towns, and shukubo in Koyasan for a complete experience.
+* **Food:** Wakayama is famous for its ramen, umeboshi (pickled plums), and mikan (citrus fruits). Don't miss trying these local delicacies.
+
 ## Things to do in in Wakayama Prefecture
 
 ### Kumano-Nachi Taisha
@@ -65,7 +136,7 @@ Wakayama Prefecture, located in the Kansai region of Japan, offers a rich blend 
 * Transport: Take the Wakayama Electric Railway from Wakayama Station to Kishi Station.
 
 ### Sandanbeki Cave
-* Japanese: ` 三段壁洞窟`
+* Japanese: `三段壁洞窟`
 * Google Maps link: <https://maps.app.goo.gl/Wym778rqbmmhMwja9>
 * Description: A dramatic cliff-side and cave complex along the coast, offering tours and stunning views of the Pacific Ocean.
 * Transport: Bus from Shirahama Station.
