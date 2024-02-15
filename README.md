@@ -36,6 +36,7 @@ Here are a few Japan-related notes.
 - [Kyoto Trip](Trip_Kyoto.md)
 - [Trip to Nagoya](Trip_Nagoya.md)
 - [Osaka Trip Notes](Trip_Osaka.md)
+- [3-Day Weekend Trip to Chichibu](trip-chichibu.md)
 - [Izu/Hakone Weekend Trip Itinerary](trip-izu-hakone.md)
 - [Ideas for a Trip to Wakayama Prefecture, Japan](trip-wakayama.md)
 
