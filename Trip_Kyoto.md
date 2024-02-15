@@ -1,5 +1,17 @@
 # Kyoto Trip
 
+## Table of Contents <!-- omit in toc -->
+
+* [Things to Do](#things-to-do)
+* [Itinerary ideas](#itinerary-ideas)
+  * [Central Kyoto](#central-kyoto)
+  * [Eastern Kyoto Full Day](#eastern-kyoto-full-day)
+  * [Kiyomizudera Temple + Higashiyama District](#kiyomizudera-temple--higashiyama-district)
+  * [Fushimi Inari Shrine](#fushimi-inari-shrine)
+* [References](#references)
+* [Breakfast Near Kyoto Station](#breakfast-near-kyoto-station)
+* [Kyoto Hotel](#kyoto-hotel)
+
 ## Things to Do
 
 * Kaiseki Lunch?
