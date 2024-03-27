@@ -6,6 +6,7 @@ Here are a few Japan-related notes.
 
 - [**content**](content)
     - [**Shinkansen_Discount_Tokyo_Osaka**](content/Shinkansen_Discount_Tokyo_Osaka)
+    - [**train-station-shibuya**](content/train-station-shibuya)
 - [**English**](English)
     - [to… / in order to… / so as to…](<English/to-in order to-so as to.md>)
 - [**kumano-kodo**](kumano-kodo)
@@ -33,6 +34,7 @@ Here are a few Japan-related notes.
 - [Moving to Tokyo, Japan](Tokyo_Moving.md)
 - [Tokyo to Nagoya Cheaper Shinkansen Tickets](Tokyo_Nagoya.md)
 - [Tokyo Trip Ideas](Tokyo_TripIdeas.md)
+- [Shibuya Station Notes](train-station-shibuya.md)
 - [Kyoto Trip](Trip_Kyoto.md)
 - [Trip to Nagoya](Trip_Nagoya.md)
 - [Osaka Trip Notes](Trip_Osaka.md)
