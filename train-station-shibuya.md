@@ -6,38 +6,30 @@ Here is a quick guide for those traveling between the Keio Inokashira Line and J
 
 ### Overview
 
-| Step                                                                                                                                          | Photo                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Exit Keio Inokashira Line's platform via the "Central Ticket Gates".                                                                          | ![shibuya-station-1.png](content/train-station-shibuya/shibuya-station-1.png) |
-| After exiting the gates Walk diagonally forward and left                                                                                      |
-| Take the elevator marked "5" to the first floor (Ground Floor). ![shibuya-station-2.png](content/train-station-shibuya/shibuya-station-2.png) |
-| ![shibuya-station-3.png](content/train-station-shibuya/shibuya-station-3.png)                                                                 |
-|                                                                                                                                               | ![shibuya-station-4.png](content/train-station-shibuya/shibuya-station-4.png) |
-|                                                                                                                                               | ![shibuya-station-5.png](content/train-station-shibuya/shibuya-station-5.png) |
-|                                                                                                                                               | ![shibuya-station-6.png](content/train-station-shibuya/shibuya-station-6.png) |
-|                                                                                                                                               | ![shibuya-station-7.png](content/train-station-shibuya/shibuya-station-7.png) |
-|                                                                                                                                               | ![shibuya-station-8.png](content/train-station-shibuya/shibuya-station-8.png) |
+| Step                                                                                                                                                                                                                            | Photo                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Exit Keio Inokashira Line's platform via the "Central Ticket Gates".                                                                                                                                                            | ![shibuya-station-364.png](content/train-station-shibuya/shibuya-station-364.png) |
+|                                                                                                                                                                                                                                 | ![shibuya-station-365.png](content/train-station-shibuya/shibuya-station-365.png) |
+| After exiting the gates Walk diagonally forward and left. After exiting the central ticket gate, head towards the Hachiko ticket gate. Go straight along the passage, and along the way, go diagonally forward and to the left. | ![shibuya-station-1.png](content/train-station-shibuya/shibuya-station-1.png)     |
+| Take the elevator marked "5" to the first floor (Ground Floor). 2F -> 1F                                                                                                                                                        | ![shibuya-station-2.png](content/train-station-shibuya/shibuya-station-2.png)     |
+| After exiting the elevator, proceed straight.                                                                                                                                                                                   | ![shibuya-station-362.png](content/train-station-shibuya/shibuya-station-362.png) |
+| Cross the intersection straight ahead.                                                                                                                                                                                          | ![shibuya-station-3.png](content/train-station-shibuya/shibuya-station-3.png)     |
+| After crossing the intersection, turn right and follow the path towards "West Exit". (approx. 5 min. walk)                                                                                                                      | ![shibuya-station-8.png](content/train-station-shibuya/shibuya-station-8.png)     |
+| Enter JR Shibuya via the "West Exit" and follow the blue arrows towards the "South Ticket Gates".                                                                                                                               |
+| Pass through the "South Ticket Gates" to reach the JR lines.                                                                                                                                                                    |
+| Go straight ahead and around the corner to use the elevator to get to the platform level.                                                                                                                                       |
+| For the Yamanote Line, the elevator is located near the "South Ticket Gates" on the platform level.                                                                                                                             |
+| For the Narita Express, take the elevator for platform 3 and 4.                                                                                                                                                                 |
+|                                                                                                                                                                                                                                 | ![shibuya-station-6.png](content/train-station-shibuya/shibuya-station-6.png)     |
+|                                                                                                                                                                                                                                 |
 
-    * Inokashira Line's train cars 4 and 5 are closest to the "Central Exit Ticket Gates"
-| , head towards the "Hachiko Exit". | 
-    * 
-|  | 
-| After exiting the elevator, proceed straight, then turn left. | 
-| Cross the intersection straight ahead. | 
-| After crossing the intersection, turn right and follow the path towards "West Exit". | 
-| Enter JR Shibuya via the "West Exit" and follow the blue arrows towards the "South Ticket Gates". | 
-| Pass through the "South Ticket Gates" to reach the JR lines. | 
-| Go straight ahead and around the corner to use the elevator to get to the platform level. | 
+### Tips
 
-For the Yamanote Line, the elevator is located near the "South Ticket Gates" on the platform level.
-
-For the Narita Express, take the elevator for platform 3 and 4.
-
-⚠️ Warning: There are NO ELEVATOR to platform from Hachiko Gate.
-
-* ![shibuya_in.png](content/train-station-shibuya/shibuya_in.png)
-* ![inokashira_5-1.png](content/train-station-shibuya/inokashira_5-1.png)
-
+* Inokashira Line's train cars 4 and 5 are closest to the "Central Exit Ticket Gates"
+  * ![shibuya_in.png](content/train-station-shibuya/shibuya_in.png)
+  * ![inokashira_5-1.png](content/train-station-shibuya/inokashira_5-1.png)
+* ⚠️ Warning: There are NO ELEVATOR to platform from Hachiko Gate.
+* JR's Central Gate, South Gate, and New South Gate are on the central and southern sides of the complex and connected.
 
 ## JR Shibuya Station Elevator Locations
 
@@ -55,3 +47,5 @@ Accessible route for exit with elevator
 
 * [【渋谷駅】井の頭線から山手線・埼京線・湘南新宿ラインへの乗り換えルート](https://wadattsu261.com/content/shibuya-keioinokashiraline-jrline-transfer-information/)
 * [Shibuya Station - Accessible Travel Japan](https://accessible-japan.jp/tokyo/shibuya_shibuya_sta.html)
+
+https://wadattsu261.com/content/shibuya-keioinokashiraline-jrline-transfer-information/#toc9
