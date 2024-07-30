@@ -25,7 +25,7 @@ Following two sentences have the same meaning:
 `In order to` is normal before a negative infinitive but `to` by itself is not usually used.
 
 Example Sentences:
-* `In order not to` oversleep, I set the alarm for seven o’clock.
+* `In order not to` oversleep, I set the alarm for seven o'clock.
 * I walked very slowly across the room with the drinks `in order not` to spill them.
 
 
@@ -51,17 +51,17 @@ Compare the following:
 * She is staying in California for two more months `so that` she can perfect her English.
 * She is staying in California for two more months `in order to` perfect her English.
 
-* We are leaving by 2:00 pm `so that` we don’t get stuck in the rush-hour traffic.
+* We are leaving by 2:00 pm `so that` we don't get stuck in the rush-hour traffic.
 * We are leaving by 2:00 pm `so as not to` get stuck in the rush-hour traffic.
 
-* William had an afternoon nap `so that` he wouldn’t fall asleep at the concert later.
+* William had an afternoon nap `so that` he wouldn't fall asleep at the concert later.
 * William had an afternoon nap `in order not to` fall asleep at the concert later.
 
 * Formal: `In order` *that you may* pass the exam, I recommend you read through all your notes.
 * Causal: `In order to` pass the exam, I recommend you read through all your notes.
 
 In causal English, `that` may be omitted from the `so that` construction.  
-Listen out for this variation, though I wouldn’t recommend that you use it:
-* I’ll come early `so` we can have a good chat before Denise arrives.
-* I’ve bought a video camera `so` I can film the children as they grow up.
-* We shall wear warm clothes when we go camping in October `so` we don’t get cold.
+Listen out for this variation, though I wouldn't recommend that you use it:
+* I'll come early `so` we can have a good chat before Denise arrives.
+* I've bought a video camera `so` I can film the children as they grow up.
+* We shall wear warm clothes when we go camping in October `so` we don't get cold.
