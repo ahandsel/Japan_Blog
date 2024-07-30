@@ -68,7 +68,7 @@ Vocabulary:
 
 | English         | Japanese          | Notes |
 | --------------- | ----------------- | ----- |
-| Unlimited plans | 無制限 / museigen |
+| Unlimited plans | 無制限 / museigen |       |
 
 Helpful Articles
 * [Japan's Cheapest Cell Phone Plans Compared - Tokyo Cheapo](https://tokyocheapo.com/business/japan-sim-card-options-data-voice/)
