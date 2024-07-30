@@ -21,14 +21,14 @@
 
 | Day   | What                           | Hotel                                                                        |
 | ----- | ------------------------------ | ---------------------------------------------------------------------------- |
-| Day 1 | Flying in & spending the night |
+| Day 1 | Flying in & spending the night |                                                                              |
 | Day 2 | Bus + Hiking --> Takahara      | [Kirinosato Takahara](https://goo.gl/maps/qJw4wfz4bav6q38h7)                 |
 | Day 3 | Hike --> Chikatsuyu            | [Guest House Minshuku Momiji-no-Sato](https://goo.gl/maps/C3ZMj2rBvSQst7sK7) |
 | Day 4 | Bus + Hike --> Yunomine Onsen  | [Minshuku Kuraya](https://goo.gl/maps/qf3SoLcax3r9h2K36)                     |
-| Day 5 | Boat + Bus --> Shirahama City  |
-| Day 6 | Beach at Shirahama City        |
-| Day 7 | Beach at Shirahama City        |
-| Day 8 | Fly back                       |
+| Day 5 | Boat + Bus --> Shirahama City  |                                                                              |
+| Day 6 | Beach at Shirahama City        |                                                                              |
+| Day 7 | Beach at Shirahama City        |                                                                              |
+| Day 8 | Fly back                       |                                                                              |
 
 
 ## Plane Tickets

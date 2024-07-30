@@ -113,8 +113,6 @@ Original Japanese:
 
 ## [東京・金沢のお得な利用法](https://shinkansen.tabiris.com/tokyo_kanazawa.html)
 
-------------
-
 東京〜金沢は約450キロ。交通機関としては新幹線のほかにJALやANAの飛行機があります。ただ、小松空港は金沢市内から離れているため、飛行機はやや不便。新幹線のほうが便利です。東京〜金沢間の新幹線には、JR東日本とJR西日本のインターネット予約による格安チケットがいくつか設定されています。
 
 一方、この区間には新幹線回数券が設定されていません。そのため、金券ショップで回数券のばら売りを買うことはできません。
@@ -149,7 +147,7 @@ Original Japanese:
 * 東京往復割引きっぷ 13240円 金沢発のみ。米原経由。往復タイプの片道あたり。
 * 学割（普通車指定席） 12880円
 * 学割（普通車自由席） 12350円
-* [JR東日本ダイナミックレールパック](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0)![](https://ad.linksynergy.com/fs-bin/show?id=y9UNREykB6g&bids=481086.60&type=3&subid=0) 往復+ホテル付きツアー
+* [JR東日本ダイナミックレールパック](https://click.linksynergy.com/fs-bin/click?id=y9UNREykB6g&offerid=481086.60&type=3&subid=0) 往復+ホテル付きツアー
 
 ※価格はすべて通常期です。時期により異なります。
 
