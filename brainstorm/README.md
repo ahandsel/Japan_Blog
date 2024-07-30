@@ -6,6 +6,6 @@
 
 <!-- optional markdown-notes-tree directory description ends here -->
 
-- [7-Day Hokkaido Itinerary](hokkaido.md)
+- [7-Day Hokkaido Itinerary Brainstorm](hokkaido.md)
 - [7-Day Japan Trip Itinerary: Shimane and Hiroshima](shimane.md)
 - [7-Day Itinerary: Haneda Airport to Yakushima and Kagoshima](yakushima.md)
