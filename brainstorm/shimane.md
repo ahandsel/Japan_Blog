@@ -1,12 +1,15 @@
 # 7-Day Japan Trip Itinerary: Shimane and Hiroshima
 
+
 ## Day 1: Arrival and Travel to Shimane
+
 
 ### Morning
 
 - **Arrival at Haneda Airport, Tokyo**
   - **Time**: 7:00 AM
   - **Travel**: Arrive via international flight
+
 
 ### Afternoon
 
@@ -16,6 +19,7 @@
   - **Price**: ¥15,000 - ¥20,000
   - **Website**: [Japan Airlines](https://www.jal.co.jp/enl/)
 
+
 ### Evening
 
 - **Activity**: Check-in at Matsue Excel Hotel Tokyu
@@ -24,13 +28,16 @@
 - **Dinner**: Local Izakaya
   - **Price**: ¥2,000 - ¥3,000 per person
 
+
 ## Day 2: Exploring Matsue
+
 
 ### Morning
 
 - **Activity**: Matsue Castle Visit
   - **Price**: ¥560
   - **Website**: [Matsue Castle]
+
 
 ### Afternoon
 
@@ -40,13 +47,16 @@
   - **Price**: ¥2,300
   - **Website**: [Adachi Museum of Art]
 
+
 ### Evening
 
 - **Accommodation**: Matsue Excel Hotel Tokyu
   - **Dinner**: Local restaurant specializing in Shimane cuisine
   - **Price**: ¥3,000 - ¥5,000 per person
 
+
 ## Day 3: Exploring Izumo
+
 
 ### Morning
 
@@ -56,11 +66,13 @@
   - **Price**: ¥1,000
   - **Website**: [Izumo Taisha Shrine](https://www.jnto.go.jp/eng/)
 
+
 ### Afternoon
 
 - **Activity**: Shimane Museum of Ancient Izumo
   - **Price**: ¥610
   - **Website**: [Shimane Museum of Ancient Izumo]
+
 
 ### Evening
 
@@ -70,7 +82,9 @@
   - **Price**: ¥2,000 - ¥3,000 per person
 - **Accommodation**: Matsue Excel Hotel Tokyu
 
+
 ## Day 4: Shimane to Hiroshima
+
 
 ### Morning
 
@@ -79,11 +93,13 @@
   - **Price**: ¥10,000
   - **Website**: [Japan Guide on Shinkansen]
 
+
 ### Afternoon
 
 - **Activity**: Hiroshima Peace Memorial Park and Museum
   - **Price**: ¥200
   - **Website**: [Hiroshima Peace Memorial Park](https://www.japan.travel/en/)
+
 
 ### Evening
 
@@ -93,7 +109,9 @@
 - **Dinner**: Local Okonomiyaki restaurant
   - **Price**: ¥1,200 - ¥1,500 per person
 
+
 ## Day 5: Miyajima Island
+
 
 ### Morning
 
@@ -102,11 +120,13 @@
   - **Price**: ¥360
   - **Website**: [Miyajima Ferry]
 
+
 ### Afternoon
 
 - **Activity**: Visit Itsukushima Shrine
   - **Price**: ¥300
   - **Website**: [Itsukushima Shrine](https://www.japan.travel/en/)
+
 
 ### Evening
 
@@ -115,7 +135,9 @@
   - **Price**: ¥1,200 - ¥1,500 per person
   - **Website**: [Nagata-ya](https://www.timeout.com/tokyo)
 
+
 ## Day 6: Exploring Hiroshima
+
 
 ### Morning
 
@@ -123,11 +145,13 @@
   - **Price**: ¥370
   - **Website**: [Hiroshima Castle](https://www.jnto.go.jp/eng/)
 
+
 ### Afternoon
 
 - **Activity**: Shukkeien Garden
   - **Price**: ¥260
   - **Website**: [Shukkeien Garden]
+
 
 ### Evening
 
@@ -135,7 +159,9 @@
   - **Dinner**: Local seafood restaurant
   - **Price**: ¥3,000 - ¥5,000 per person
 
+
 ## Day 7: Hiroshima to Tokyo and Departure
+
 
 ### Morning
 
@@ -144,10 +170,12 @@
   - **Price**: ¥19,000
   - **Website**: [Shinkansen]
 
+
 ### Afternoon
 
 - **Activity**: Leisure time in Tokyo (if time permits)
   - **Recommendations**: Shopping or relaxing in a café
+
 
 ### Evening
 
@@ -156,6 +184,7 @@
   - **Travel**: Taxi or train to Haneda Airport
   - **Duration**: 30-45 minutes
   - **Price**: ¥1,500 by train, ¥6,000 by taxi
+
 
 ## Summary
 

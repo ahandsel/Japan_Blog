@@ -1,5 +1,6 @@
 # Trip to Nagoya
 
+
 ## Tokyo to Nagoya Transport
 
 | Price      | Method     | Time     | Note |
@@ -8,7 +9,9 @@
 
 For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkansen_Discount_Tokyo_Nagoya.md).
 
+
 ## Nagoya Attractions
+
 
 ### Ghibli Park
 
@@ -16,12 +19,14 @@ For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkans
 * [Tickets - GHIBLI PARK](https://ghibli-park.jp/en/ticket/)
 * <https://l-tike.com/bw-ticket/ghibli/ghibli-park/>
 
+
 ## Nagoya to Takayama Transport
 
 | Price     | Method             | Time        | Note       |
 | --------- | ------------------ | ----------- | ---------- |
 | 3,100 yen | Bus                | 2.5 ~ 3 hrs |            |
 | 6,340 yen | JR Limited Express | 2.5 hrs     | +3,240 yen |
+
 
 ## Takayama to Tokyo Transport
 
@@ -31,9 +36,11 @@ For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkans
 | 9,480 yen  | Bus + Train via Matsumoto  | 5.5 ~ 6 hrs | +2,480 yen  |
 | 17,180 yen | Train via Toyama 4 ~ 5 hrs | 2 transfers | +10,180 yen |
 
+
 ### Bus Method
 
 ⚠️ Make sure that you are able to get back home from Shinjuku station.
+
 
 ### Bus + Train via Matsumoto Method
 
@@ -48,6 +55,7 @@ Takayama to Matsumoto Bus
 Matsumoto to Tokyo Train
 * 20:00 - 21:30
 
+
 ## Takayama Attractions
 
 * Old Town - Beautifully preserved old town
@@ -57,6 +65,7 @@ Matsumoto to Tokyo Train
 * Higashiyama Walk - Passing temples and the former castle site
 * Yatai Kaikan - Festival floats exhibition hall
 * Morning Markets - Held daily in two separate locations
+
 
 ## References
 

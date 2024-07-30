@@ -1,5 +1,6 @@
 # Izu/Hakone Weekend Trip Itinerary
 
+
 ## Table of Contents <!-- omit in toc -->
 
 * [Friday - Head to and Explore Shuzenji](#friday---head-to-and-explore-shuzenji)
@@ -16,7 +17,9 @@
   * [Evening](#evening-2)
 * [Reference](#reference)
 
+
 ## Friday - Head to and Explore Shuzenji
+
 
 ### Morning
 
@@ -33,17 +36,21 @@
   * **Time:** 10 min
   * **Fare:** 260 JPY per person
 
+
 ### Afternoon
 
 * [Shuzenji Niji-no-Sato](https://goo.gl/maps/SVSwhX5QZa1aVSmR7)
 * [Bamboo Forest Path](https://goo.gl/maps/4T7LpZogkmRuN1t58)
 * Enjoy a **morning walk** to experience the local autumn scenery.
 
+
 ### Evening
 
 * [Stay at Onsen Yado Mizuguchi / 茶処・温泉宿水ぐち](https://goo.gl/maps/ti4YN2V9TAAPcoFM7)
 
+
 ## Saturday - Head to Hakone
+
 
 ### Morning
 
@@ -53,6 +60,7 @@
 * [Mishima Sky Walk](https://goo.gl/maps/GDfZuQpMNSbRYSrm6)
   * Additional Info: [Hakone Navi](https://www.hakonenavi.jp/international/en/spot/252)
   * Purchase the [Mishima 1-day ticket](https://www.emot.jp/service/detail/tokaibus_mishimaru.html) via the [EMot](https://apps.apple.com/us/app/id1472652885?l=en) app for discounts.
+
 
 ### Afternoon
 
@@ -64,11 +72,14 @@
   * From [権現坂 祠](https://maps.app.goo.gl/zYMzKJqNJKZERRgX9) to [Hata-juku Ichirizuka (Tokaido Road Distance Marker) / 畑宿一里塚（箱根旧街道）](https://maps.app.goo.gl/1QngwsfT2ZxpWyBs8)
   * YAMAP Rout example: [箱根旧街道　～芦ノ湖から奥湯本 / あにーさんの箱根山・神山の活動データ](https://yamap.com/activities/148309)
 
+
 ### Evening
 
 * Stay overnight at Hakone
 
+
 ## Sunday - Explore Hakone and Return to Tokyo
+
 
 ### Morning
 
@@ -77,6 +88,7 @@
   * Start: [Hakone-en Station](https://goo.gl/maps/TDGrSkYFBxJ8QuuEA)
   * End: [Komagatake Ropeway Top Station](https://maps.app.goo.gl/EtnHLiFoGouufQq7A)
   * [Komagatake Ropeway - Hakone Travel](https://www.japan-guide.com/e/e5224.html)
+
 
 ### Afternoon
 
@@ -87,10 +99,12 @@
     * Walk on the [Kamiyama Mountain Climbing Course](https://maps.app.goo.gl/tuyMtf4Ay3HsTr9y5)
   * End: [Sōunzan Station](https://maps.app.goo.gl/TgqemtbVonxsXNPTA)
 
+
 ### Evening
 
 Return to Shinjuku via the Romance Car
 * Reserve Romance Car from Hakone to Shinjuku via [www.web-odakyu.com/e-romancecar/](https://www.web-odakyu.com/e-romancecar/?language=en)
+
 
 ## Reference
 

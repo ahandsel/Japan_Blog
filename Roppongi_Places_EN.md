@@ -1,5 +1,6 @@
 # Roppongi/Azabu Spots
 
+
 ## Outline <!-- omit in toc -->
 
 * [Supermarket](#supermarket)
@@ -8,6 +9,7 @@
   * [Cafe](#cafe)
 * [Park](#park)
 * [Other](#other)
+
 
 ## Supermarket
 
@@ -25,6 +27,7 @@ My Basket
 * 〒106-0046 東京都港区元麻布1丁目5−11
 * <https://goo.gl/maps/kteef8fHZNaidrcX9>
 
+
 ## Food Options
 
 NEW NEW YORK CLUB BAGEL & SANDWICH SHOP
@@ -37,6 +40,7 @@ Soul Food House
 * Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 2 Chome-8-10 Patio 6F
 * <https://maps.app.goo.gl/22qKGtzEVAAg8kFg9>
 * There is a discount on Wednesdays for chicken and waffles
+
 
 ### Lunch
 
@@ -79,6 +83,7 @@ Sukha Café Bar
 * Japan, 〒106-0046 Tokyo, Minato City, Motoazabu, 2 Chome-11-53 ゴメッツ元麻布
 * <https://maps.app.goo.gl/su48wkqBfJt8t4uk6>
 
+
 ### Cafe
 
 Little Darling Coffee Roasters ｜ リトル ダーリン コーヒー ロースターズ
@@ -101,6 +106,7 @@ Bondi Cafe Hiroo
 * <https://maps.app.goo.gl/rYoddWyqYw9jodct5>
 * Pricy but a great Australian brunch place
 
+
 ## Park
 
 Arisugawa-no-miya Memorial Park
@@ -116,6 +122,7 @@ Institute for Nature Study
 * 5 Chome-21-5 Shirokanedai, Minato City, Tokyo 108-0071
 * <https://maps.app.goo.gl/enqPbckCgHyGaNYa6>
 * Cool small forest in downtown Tokyo
+
 
 ## Other
 

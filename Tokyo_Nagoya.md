@@ -2,6 +2,7 @@
 
 This is a translation of the [新幹線で東京・名古屋間を格安料金で行く方法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_nagoya.html) Japanese post.
 
+
 ## Overview
 
 | Type                                                   | Price          |
@@ -11,6 +12,7 @@ This is a translation of the [新幹線で東京・名古屋間を格安料金�
 | Non-reserved Seats                                     | 10,560 yen     |
 | Reserved Seats for Local & Rapid (`こだま` / `ひかり`) | 11,090 yen     |
 | Reserved Seats for Express (`のぞみ`)                  | 11,300 yen     |
+
 
 ## Discounted Tickets
 
@@ -23,6 +25,7 @@ This is a translation of the [新幹線で東京・名古屋間を格安料金�
 | 9,950 yen | 1,140 yen (10.3%) | EX Nozomi Family Early Special   | `EXのぞみファミリー早特`     | 2+ passenger & buy 3+ days in advance |
 
 Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/ad/kodama/?utm_source=forit&utm_medium=affiliate&utm_campaign=banner&fil=%7B%22pr%22%3A%7B%22y13754Z%22%3A%7B%22clk%22%3A%223c0a4157b9ad93669fb452342c5f6875%22%2C%22ym%22%3A%22202307%22%7D%7D%7D) for more deta
+
 
 ## ⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️
 

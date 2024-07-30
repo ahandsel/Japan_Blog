@@ -1,5 +1,6 @@
 # Osaka Trip Notes
 
+
 ## Things to Do in Osaka
 
 * [Kuromon Ichiba Market - Street food](https://goo.gl/maps/kDw6PEUKyD3hRWR26)
@@ -9,7 +10,9 @@
 * Tsutenkaku Neighborhood - Retro-JP
 * Osaka Castle
 
+
 ## Past Osaka Trip Notes
+
 
 ### Osaka Hotel
 

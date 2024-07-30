@@ -1,5 +1,6 @@
 # Kumano Kodou 2021 Trip Outline
 
+
 ## Table of Content <!-- omit in toc -->
 
 * [Overview](#overview)
@@ -15,6 +16,7 @@
 * [Day 5: Boat Tour \& Back to Shirahama City](#day-5-boat-tour--back-to-shirahama-city)
 * [Resources](#resources)
 
+
 ## Overview
 
 | Day   | What                           | Hotel                                                                        |
@@ -28,6 +30,7 @@
 | Day 7 | Beach at Shirahama City        |
 | Day 8 | Fly back                       |
 
+
 ## Plane Tickets
 
 Tokyo --> SHM
@@ -35,6 +38,7 @@ Tokyo --> SHM
 
 SHM --> Tokyo
 * Mon, May 31, 09:20 --> 10:25
+
 
 ## Day 1: Flying to Shirahama City
 
@@ -48,6 +52,7 @@ Overnight
 * Option 1: [Asso Station/ 朝来駅](https://goo.gl/maps/iWdPtspNGC9c6jwV8) area
 * Option 2: [Kii-Tanabe Station/ 紀伊田辺駅](https://goo.gl/maps/CjvzsyVwgFHmqEBq7) area
   * [DJANGO](https://goo.gl/maps/nf5hKP5KNhizDyFG9)
+
 
 ## Day 2: Bus + Hiking; Shirahama City to Takahara Village
 
@@ -72,6 +77,7 @@ Overnight: Takahara Village
 * [Kiri-no-Sato Takahara Lodge - Booking.com](https://www.booking.com/hotel/jp/takahara.html?aid=965263;label=IKKumanoKodo)
 * [Kirinosato Takahara - Google Maps](https://goo.gl/maps/qJw4wfz4bav6q38h7)
 
+
 ## Day 3: Hiking; Takahara to Chikatsuyu
 
 Hiking: Takahara to Chikatsuyu
@@ -93,7 +99,9 @@ Overnight: Chikatsuyu Village
 * Kumano Travel: [Minshuku Momiji-no-Sato](https://www.kumano-travel.com/en/accommodations/minshuku-momiji-no-sato)
 * Google Maps: [Guest House Minshuku Momiji-no-Sato](https://goo.gl/maps/C3ZMj2rBvSQst7sK7)
 
+
 ## Day 4: Hiking + Bus; Chikatsuyu to Hongu Taisha
+
 
 ## Hike: Chikatsuyu to Kumano Hongu Taisha
 
@@ -105,6 +113,7 @@ Overnight: Yunomine Onsen
 * Kumano Travel: [Minshuku Kuraya](https://www.kumano-travel.com/en/accommodations/minshuku-kuraya)
 * Google Maps: [Minshuku Kuraya](https://goo.gl/maps/qf3SoLcax3r9h2K36)
 
+
 ### Option 1: Full Walk; 25 km
 
 * Distance: ~25 km
@@ -114,6 +123,7 @@ Overnight: Yunomine Onsen
 
 This is a challenging full day walk with many climbs and descents, finishing at the Kumano Hongu Taisha.  
 ⚠️ Start early if attempting the full walk.
+
 
 ### Option 2: Intermediate Walk; 17 km
 
@@ -130,6 +140,7 @@ Hike: Doyukawa-Bashi to Hongu Taisha
 * Time: 6~9 hr
 * Elevation Gain: ~770 m
 * Elevation Loss: ~1170 m
+
 
 ### Option 3: Highlight Walk; 7.5 km
 
@@ -174,6 +185,7 @@ Detour: [Nachi Falls/ 那智の滝](https://goo.gl/maps/K1Xsnqb5UuvvqJtt7)
 Overnight: Shirahama City
 
 ---
+
 
 ## Resources
 

@@ -6,6 +6,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * Apps with 🇯🇵 are limited to the Japanese App Store
 * Apps with 🌎 are available to all App Stores
 
+
 ## Outline <!-- omit in toc -->
 
 * [Weather \& Natural Disaster Warning](#weather--natural-disaster-warning)
@@ -21,11 +22,13 @@ Here are some useful iOS Apps that you can use in Japan.
 * [Hiking Maps](#hiking-maps)
 * [Convenience Store](#convenience-store)
 
+
 ## Weather & Natural Disaster Warning
 
 * 🌎 [NERV Disaster Prevention](https://apps.apple.com/us/app/id1472338480?l=en) - Get English earthquake, tsunami, volcanic eruption and emergency warnings
 * 🌎 [tenki.jp -日本気象協会の天気予報専門アプリ-](https://apps.apple.com/us/app/id433865746?l=en) - Japan Specialized Weather Forecast App
 * 🇯🇵 [Yahoo!防災速報](https://apps.apple.com/jp/app/id481914139?l=en) - Yahoo! Disaster Prevention Report
+
 
 ## Payment and Reward Points
 
@@ -46,6 +49,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🇯🇵 [楽天ペイ-かんたん、お得なスマホ決済アプリ！](https://apps.apple.com/jp/app/id1139755229?l=en) - Rakuten Pay payment app
 * 🇯🇵 [楽天ポイントカード（RakutenPointCard）](https://apps.apple.com/jp/app/id911334571?l=en) - Rakuten Point App
 
+
 ## City Life
 
 * 🌎 [ChargeSPOT](https://apps.apple.com/us/app/id1272481966?l=en) - Rent battery packs ([Details](https://metropolisjapan.com/chargespot/))
@@ -55,6 +59,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [ゆうパックスマホ割](https://apps.apple.com/us/app/id1428440878?l=en)
 * 🌎 [電話帳ナビ－迷惑電話を着信拒否（迷惑電話ブロック）](https://apps.apple.com/us/app/id1024396744?l=en)
 
+
 ## Food
 
 * 🌎 [CRISP](https://apps.apple.com/us/app/id1526776438?l=en)
@@ -63,7 +68,9 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🇯🇵 [スシロー](https://apps.apple.com/jp/app/id551682016?l=en)
 * 🇯🇵 [食べログ - 「おいしいお店」が見つかるグルメアプリ](https://apps.apple.com/jp/app/id763377066?l=en)
 
+
 ## Transportation
+
 
 ### Bicycle 🚲
 
@@ -76,6 +83,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [どこでもサイクル by NAVITIME(ナビタイム)](https://apps.apple.com/us/app/id1453371753?l=en)
 * 🌎 [ドコモ・バイクシェア - バイクシェアサービス](https://apps.apple.com/us/app/id1475196715?l=en)
 
+
 ### Train 🚂
 
 * 🌎 [JR東日本アプリ 電車：乗り換え案内・電車の乗換案内](https://apps.apple.com/us/app/id820004378?l=en)
@@ -85,6 +93,7 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🇯🇵 [えきねっとアプリ 新幹線・特急列車の予約](https://apps.apple.com/jp/app/id1484923959?l=en)
 * 🌎 [EMot](https://apps.apple.com/us/app/id1472652885?l=en) - Buy discounted tickets for Hakone, Hamamatsu, Enoshima, and Kamakura areas
 
+
 ### Taxi 🚕
 
 * 🌎 [Ringo Pass - タクシー配車・シェアサイクル・バス](https://apps.apple.com/us/app/id1471958903?l=en)
@@ -92,18 +101,22 @@ Here are some useful iOS Apps that you can use in Japan.
 * 🌎 [GO Taxi](https://apps.apple.com/us/app/id1254341709?l=en) - English supported Taxi App
 * 🇯🇵 [S.RIDE](https://apps.apple.com/jp/app/id1458325928?l=en) - English supported Taxi App
 
+
 ### Airplane ✈️
 
 * 🌎 [Japan Customs Declaration App](https://apps.apple.com/us/app/id1454991621?l=en)
+
 
 ## Entertainment
 
 * 🇯🇵 [dアニメストア アニメ動画見放題アプリ/マルチデバイス対応](https://apps.apple.com/jp/app/id728214964?l=en)  Anime streaming service
 
+
 ## Hiking Maps
 
 * 🌎 [YAMAP](https://apps.apple.com/us/app/id558780450?l=en) - Best hiking app for Japanese mountains; mostly in English
 * 🌎 [ヤマレコ 登山・ハイキング地図＆GPSナビ](https://apps.apple.com/us/app/id1121091790?l=en) - Great hiking app but is only in Japanese
+
 
 ## Convenience Store
 

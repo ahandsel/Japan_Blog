@@ -2,6 +2,7 @@
 
 Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 
+
 ## Outline <!-- omit in toc -->
 
 * [Overview](#overview)
@@ -34,7 +35,9 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 * [Sources](#sources)
 * [⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️](#️-jr-centrals-servers-are-down-from-2330--500-jst-️)
 
+
 ## Overview
+
 
 ### Travel time between Tokyo & Kyoto
 
@@ -44,11 +47,13 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 | Hikari | ひかり | 2.67 hours | Can use JR Pass                              |
 | Kodama | こだま | 3.62 hours | Slowest (1.37 hours slower), Can use JR Pass |
 
+
 ## Naming
 
 * Japanese: `ぷらっとこだま普通車指定席プラン`
 * Google Translate: Plattokodama Regular Car Reserved Seat Plan
 * English: Platt Kodama
+
 
 ## Pricing
 
@@ -58,6 +63,7 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
   * **Nozomi** Ordinary car; reserved seat -> 14,170 yen (+3,670 yen)
   * **Hikari** or **Kodama** Ordinary car; reserved seat -> 13,850 yen (+3,350 yen)
 
+
 ## Restrictions
 
 * Platto Kodama tickets MUST be purchased the day BEFORE the travel date.
@@ -66,6 +72,7 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 * Seat assigned - you cannot use any other seat or change the seat.
 * No stopover allowed - your ticket expires once you get off the train.
 * A handling charge is charged when issuing a refund
+
 
 ## Is it worth it?
 
@@ -77,6 +84,7 @@ Platto Kodama (`ぷらっとこだま`) Regular Car; Reserved seat plan
 | Nagoya ↔ Shin-Osaka | 2,180 yen | +21 mins          |
 | Nagoya ↔ Kyoto      | 1,510 yen | +21 mins          |
 
+
 ## Details
 
 Japanese
@@ -86,7 +94,9 @@ Japanese
 English
 * Homepage: <https://www.jrtours.co.jp/kodama/english/>
 
+
 ## Booking Methods
+
 
 ### In-Person Booking
 
@@ -97,6 +107,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 * [Nagoya station branch location](#pick-up-at-nagoya-station)
 * [Kyoto station branch location](#pick-up-at-kyoto-station)
 * [Shin-Osaka station branch location](#pick-up-at-shin-osaka-station)
+
 
 ### Online Booking
 
@@ -116,6 +127,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 * Reserve tickets well **ahead of 23:30**
 * Prepare multiple credit card options
 
+
 #### Search Query
 
 | Japanese   | English          | Example Values                            |
@@ -124,6 +136,7 @@ Go to a JR Tokai Tours branch office and book the ticket in person.
 | `乗車駅`   | Boarding station | `東京` (Tokyo)                            |
 | `降車駅`   | Arrival station  | `京都` (Kyoto)                            |
 | `出発時刻` | Boarding time    | Select the earliest desired boarding time |
+
 
 #### Online Booking Steps
 
@@ -150,6 +163,7 @@ What is the `Kodama Coupon`?
   * Show the Kodama Coupon at the gates.
   * ⚠️ Do not use automatic gates.
 
+
 ## Platt Free Drink
 
 Get a free drink at shops with the following conditions:
@@ -157,11 +171,13 @@ Get a free drink at shops with the following conditions:
 * Shops with this sticker ![JR TOKAI TOURS, INC. Sticker](content/Shinkansen_Discount_Tokyo_Osaka/shop_sticker.png)
 * ⚠️ The voucher cannot be exchanged on Kodama Express as there is no wagon service.
 
+
 ## Pick Up The Platt Kodama Tickets
 
 Two Steps:
 1. **Prep** - Get your **Platt Kodama ticket's pickup QR Code** and **confirmation 6-digit code** ready!
 1. **Pickup** - Scan the QR Code and input the confirmation code to get your tickets from the Ticket Machine
+
 
 ### Prep - Getting the ticket's pickup QR Code and confirmation code
 
@@ -179,6 +195,7 @@ Two Steps:
 | 3 ~ 4 | ![TicketDetails.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails.png)     |
 | 5     | ![TicketDetails_2.png](content/Shinkansen_Discount_Tokyo_Osaka/TicketDetails_2.png) |
 
+
 ### Pickup - Using the Ticket Machine
 
 ⚠️ Navigate to the **Correct** Ticket Machine
@@ -195,6 +212,7 @@ Two Steps:
 | 4     | ![method004.png](content/Shinkansen_Discount_Tokyo_Osaka/method004.png) | Confirm the ticket details and press the "Print" button                                                                                  |
 | 5     | ![method005.png](content/Shinkansen_Discount_Tokyo_Osaka/method005.png) | Please take all the vouchers/documents: Platt Itinerary (1x), Kodama Coupon (number of passengers), Drink Voucher (number of passengers) |
 
+
 ### Pickup Locations
 
 (As of September 2020)
@@ -210,6 +228,7 @@ Two Steps:
 
 ⚠️ Tickets cannot be picked up by Ticket Machines inside the JR East, JR West, or JR Kyushu stations.
 
+
 ### Pick Up at Tokyo Station
 
 Branch Location:
@@ -220,6 +239,7 @@ Branch Location:
 Hours:
 * Mon - Fri: 10:00-18:00
 * Sat/Sun/Holidays: 10:00-18:00
+
 
 ### Pick Up at Shinagawa station
 
@@ -232,6 +252,7 @@ Hours:
 * Mon - Fri: 11:00-18:00
 * Sat/Sun/Holidays: 11:00-18:00
 
+
 ### Pick Up at Shin-Yokohama station
 
 Branch Location:
@@ -242,6 +263,7 @@ Branch Location:
 Hours:
 * Mon - Fri: 10:00-17:00
 * Sat/Sun/Holidays: 10:00-17:00
+
 
 ### Pick Up at Nagoya station
 
@@ -254,7 +276,9 @@ Hours:
 * Mon - Fri: 10:00-18:00
 * Sat/Sun/Holidays: 10:00-18:00
 
+
 ### Pick Up at Kyoto Station
+
 
 #### 1st Floor Kyoto Branch
 
@@ -267,6 +291,7 @@ Hours:
 * Mon - Fri: 10:30-18:00
 * Sat/Sun/Holidays: 10:30-18:00
 
+
 #### 2nd Floor Kyoto Branch
 
 Branch Location:
@@ -277,6 +302,7 @@ Branch Location:
 Hours:
 * Mon - Fri: 9:30-17:30
 * Sat/Sun/Holidays: 9:30-17:30
+
 
 ### Pick Up at Shin-Osaka Station
 
@@ -289,6 +315,7 @@ Hours:
 * Mon - Fri: 10:00-17:30
 * Sat/Sun/Holidays: 10:00-17:30
 
+
 ## Call JR Tokai Tours Support
 
 * JR Tokai Tours / `JR東海ツアーズ`
@@ -298,10 +325,12 @@ Hours:
 * Business hours: 10:00-18:00
 * Phone number: 03-6854-4160
 
+
 ## Sources
 
 * [東京・京都のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kyoto.html)
 * [Platt Kodama, one-way deal among Tokyo, Nagoya, Kyoto, and Shin-Osaka by the Shinkansen - JPRail.com](https://jprail.com/travel-informations/other-rail-passes/rail-pass-for-residents/platt-kodama-one-way-deal-among-tokyo-nagoya-kyoto-and-shin-osaka-by-shinkansen.html#toc1)
+
 
 ## ⚠️ JR Central's servers are down from 23:30 ~ 5:00 JST ⚠️
 

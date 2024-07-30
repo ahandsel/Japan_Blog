@@ -1,5 +1,6 @@
 # 六本木・麻布 スポット
 
+
 ## Outline <!-- omit in toc -->
 
 * [スーパーマーケット](#スーパーマーケット)
@@ -8,6 +9,7 @@
   * [カフェ・喫茶](#カフェ喫茶)
 * [公園](#公園)
 * [他の](#他の)
+
 
 ## スーパーマーケット
 
@@ -25,6 +27,7 @@
 * 〒106-0046 東京都港区元麻布1丁目5−11
 * <https://goo.gl/maps/kteef8fHZNaidrcX9>
 
+
 ## 食事のオプション
 
 NEW NEW YORK CLUB BAGEL & SANDWICH SHOP
@@ -37,6 +40,7 @@ Soul Food House
 * 〒106-0045 東京都港区麻布十番2丁目8−10 Patio 6F
 * <https://goo.gl/maps/g8zY8MXNDnCKDbFe8>
 * 水曜日はチキンとワッフルが割引
+
 
 ### ランチ
 
@@ -87,6 +91,7 @@ Sukha Café Bar
 * 〒106-0046 東京都港区元麻布2丁目11−53 ゴメッツ元麻布
 * <https://goo.gl/maps/EDY5UtzAgTjU9UBy9>
 
+
 ### カフェ・喫茶
 
 Little Darling Coffee Roasters ｜ リトル ダーリン コーヒー ロースターズ
@@ -109,6 +114,7 @@ BONDI CAFE
 * <https://goo.gl/maps/jmek8LrbCu6PNjkS7>
 * 高価だが素晴らしいオーストラリアのブランチの場所
 
+
 ## 公園
 
 有栖川宮記念公園
@@ -124,6 +130,7 @@ BONDI CAFE
 * 〒108-0071 東京都港区白金台5丁目21−5
 * <https://goo.gl/maps/QaQ3j8pBJdfsLaN38>
 * 東京下町の涼しげな小さな森
+
 
 ## 他の
 

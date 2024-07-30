@@ -1,5 +1,6 @@
 # Kyoto Trip
 
+
 ## Table of Contents <!-- omit in toc -->
 
 * [Things to Do](#things-to-do)
@@ -12,6 +13,7 @@
 * [Breakfast Near Kyoto Station](#breakfast-near-kyoto-station)
 * [Kyoto Hotel](#kyoto-hotel)
 
+
 ## Things to Do
 
 * Kaiseki Lunch?
@@ -22,7 +24,9 @@
 * Tori gates ⛩
 * Higashiyama Half Day
 
+
 ## Itinerary ideas
+
 
 ### Central Kyoto
 
@@ -32,7 +36,9 @@
 * Hours: 10:00 ~ 18:00
 * [Details](https://www.japan-guide.com/e/e3931.html)
 
+
 ### Eastern Kyoto Full Day
+
 
 ### Kiyomizudera Temple + Higashiyama District
 
@@ -50,14 +56,17 @@ Kodaiji Temple
 Gion
 * Traditional neighborhood
 
+
 ### Fushimi Inari Shrine
 
 * [Fushimi Inari Shrine - Japan Guide](https://www.japan-guide.com/e/e3915.html)
 * Google Maps: [Fushimi Inari Taisha / 伏見稲荷大社](https://goo.gl/maps/9e6EdUNDE18LuEwR7)
 
+
 ## References
 
 * [Kyoto Travel Guide - What to do in Kyoto City](https://www.japan-guide.com/e/e2158.html)
+
 
 ## Breakfast Near Kyoto Station
 
@@ -83,6 +92,7 @@ Open till 20:00
 [Takaragaike Park / 宝が池公園](https://goo.gl/maps/hekPpuaArgLCwEqG9) - Evening
 * [Kokusaikaikan Station / 国際会館駅](https://goo.gl/maps/6chiunLc52ehAkxm8)
 * [Takaragaike Koen mae / 宝ヶ池公園前（バス）](https://goo.gl/maps/v3KiVwX9jdC6CNZm6)
+
 
 ## Kyoto Hotel
 

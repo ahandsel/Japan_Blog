@@ -1,16 +1,20 @@
 # Kyushu (九州) Trip
 
+
 ## Notes
 
 * Slightly warmer than Tokyo throughout the year
 * Nagasaki city was by far the most interesting place to visit in Kyushu.
+
 
 ## Cool Places to Visit
 
 * [Gunkanjima (軍艦島) Island](https://www.japan-guide.com/e/e4414.html)
 * [Mount Inasayama (稲佐山)](https://www.japan-guide.com/e/e4412.html)
 
+
 ## Past Itinerary
+
 
 ### WED - March 29
 
@@ -27,6 +31,7 @@ Narita {NRT} -> Fukuoka {FUK}
 * 🧺 Coin laundry
 * A solid hotel near the Hakata station
 
+
 ### THR - March 30
 
 * [Dazaifu Tenmangu / 太宰府天満宮](https://goo.gl/maps/dX14MNjwoR1K1ttk6)
@@ -39,6 +44,7 @@ Yanagawa River
 🏨 Ooedo-Onsen Monogatari Nagasaki Hotel Seifu
 
 * <https://goo.gl/maps/3CF6bR6nJWxm6njD7>
+
 
 ### FRI - March 31
 
@@ -56,6 +62,7 @@ FERRY across the Ariake Sea to Kumamoto (5:15:45), Kumamoto Castle
 * Very night hotel in the Kumamoto downtown area.
 * A bit pricier, but if you like Muji style, this is the place to stay.
 
+
 ### SAT - April 1
 
 * [Mount Aso ／阿蘇山](https://goo.gl/maps/ihwKvtexubjgdq9r9)
@@ -65,6 +72,7 @@ FERRY across the Ariake Sea to Kumamoto (5:15:45), Kumamoto Castle
 🏨 Beppu Kannawa Onsen Oniyama Hotel
 * <https://goo.gl/maps/xrivbkDLZVWhQaE6A>
 * Roof top onsen ♨️
+
 
 ### SUN - March 2
 
@@ -77,6 +85,7 @@ FERRY across the Ariake Sea to Kumamoto (5:15:45), Kumamoto Castle
 🏨 Nishitetsu Inn Kokura
 * <https://goo.gl/maps/dt8vatBpXeeak9QW9>
 * 🧺 Coin laundry
+
 
 ### MON - March 3
 

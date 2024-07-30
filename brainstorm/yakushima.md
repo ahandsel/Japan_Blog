@@ -1,5 +1,6 @@
 # 7-Day Itinerary: Haneda Airport to Yakushima and Kagoshima
 
+
 ## Day 1: Arrival in Tokyo, Flight to Kagoshima, and Flight to Yakushima
 
 - **Flight from Haneda Airport to Kagoshima Airport**
@@ -21,6 +22,7 @@
 - **Dinner**: Hotel restaurant
   - **Estimated Cost**: ¥4,000
 
+
 ## Day 2: Adventure in Yakushima
 
 - **Activity**: Hiking to Jomon Sugi
@@ -30,6 +32,7 @@
 - **Lunch**: Packed lunch provided by tour
 - **Dinner**: Local izakaya
   - **Estimated Cost**: ¥3,000
+
 
 ## Day 3: Exploring Yakushima
 
@@ -44,6 +47,7 @@
 - **Dinner**: Local seafood restaurant
   - **Estimated Cost**: ¥4,000
 
+
 ## Day 4: Transfer to Kagoshima
 
 - **Flight from Yakushima Airport to Kagoshima Airport**
@@ -55,6 +59,7 @@
   - [Shiroyama Hotel](https://www.japan-guide.com/e/e4650.html)
 - **Dinner**: Hotel restaurant with city view
   - **Estimated Cost**: ¥5,000
+
 
 ## Day 5: Discovering Kagoshima
 
@@ -71,6 +76,7 @@
 - **Dinner**: Kagoshima black pork restaurant
   - **Estimated Cost**: ¥4,500
 
+
 ## Day 6: Cultural Experience in Kagoshima
 
 - **Activity 1**: Chiran Samurai Residences
@@ -85,12 +91,14 @@
 - **Dinner**: Local seafood restaurant
   - **Estimated Cost**: ¥4,000
 
+
 ## Day 7: Departure from Kagoshima to Haneda
 
 - **Flight from Kagoshima Airport to Haneda Airport**
   - **Airline**: ANA (All Nippon Airways)
   - **Duration**: 1 hour 50 minutes
   - **Estimated Cost**: ¥15,000
+
 
 ## Summary of Estimated Costs
 
@@ -99,6 +107,7 @@
 - **Activities**: ¥18,600
 - **Meals**: ¥28,500
 - **Total**: ¥204,100
+
 
 ## References
 

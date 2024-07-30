@@ -25,6 +25,7 @@ Okutama Station -> Ogouchi Jinja Bus Stop -> Mount Iyo -> Mount Nukazasu -> Moun
 * Nearest station: JR Okutama
   * From there, it’s a 15-minute bus ride to the Kawanori-bashi bus stop, where the trail starts.
 
+
 ### [ ] Mount Mitsumine: Enthusiast
 
 * The Saitama side of the Chichibu-Tama-Kai Park is home to Mount Mitsumine and Lake Chichibu, which means superb hiking and beautiful lake views! The course includes breathtaking vistas from suspension bridges, a 2000-year-old shrine, and plenty of mountain huts for hikers and campers.
@@ -37,6 +38,7 @@ Okutama Station -> Ogouchi Jinja Bus Stop -> Mount Iyo -> Mount Nukazasu -> Moun
 * Mitsumine-Guchi Station
 * => Take a bus from there to the Owa stop.
 * On your return, you can take the bus from the lake all the way to the station.
+
 
 ### [x] Mount Mitake: Enthusiast
 
@@ -57,6 +59,7 @@ Okutama Tourist Information Centre
 210 Hikawa, Okutama, Nishitama District, Tokyo, Tōkyō-to 198-0212
 0428-83-2152
 <https://goo.gl/maps/hexinff9BL8nf7kN9>
+
 
 ### [x] Oyama (大山)
 

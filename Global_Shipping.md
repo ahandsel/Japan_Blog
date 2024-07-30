@@ -1,10 +1,12 @@
 # Notes on International Shipping from & to Japan
 
+
 ## JAPAN Post | International Mail
 
 * International Mail labels must be done with [Electronic Advance Data (EAD)](https://www.post.japanpost.jp/int/ead/index_en.html)
 * JAPAN Post does not accept postal items addressed to the United States with a handwritten label.
 * use the "[International Mail My Page Service](https://www.post.japanpost.jp/intmypage/whatsmypage_en.html)" to send EMS, international parcels and small packets, etc.
+
 
 ### International Mail My Page Service
 
@@ -21,6 +23,7 @@
 * As of March 29, 2021, JAPAN POST is only sending [Small Packets](https://www.post.japanpost.jp/int/service/small_packing_en.html) to USA.
   * Although the default option for [International Mail My Page Service](https://www.int-mypage.post.japanpost.jp/mypage/M010000.do) is the `International ePacket`, this is not available!
 * The type of Shipping: [Small Packets](https://www.post.japanpost.jp/int/service/small_packing_en.html) & `AIR`
+
 
 #### Tips for Using JAPAN POST
 
@@ -39,6 +42,7 @@
 |     | Home | Address book | Data Import for Address book |
 | --- | ---- | ------------ | ---------------------------- |
 | | ![Global_Shipping_Home](./content/Global_Shipping_Home.png) | ![Global_Shipping_Address1](./content/Global_Shipping_Address1.png) | ![Global_Shipping_Address2](./content/Global_Shipping_Address2.png) |
+
 
 #### Demo
 

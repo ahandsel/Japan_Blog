@@ -1,6 +1,8 @@
 # Food Options in Kichijoji
 
+
 ## 🍙 Lunch / Dinner Options in Kichijoji
+
 
 ### Cheap $
 
@@ -15,6 +17,7 @@ Tsukiji Gindako
 Kanibaru Kichijojiten
 * <https://maps.app.goo.gl/xSgtL983NvRYZgdr6>
 * Dei
+
 
 ### Good Deal $$
 

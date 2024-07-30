@@ -1,5 +1,6 @@
 # Places to book ahead for a Japan Trip
 
+
 ## Outline <!-- omit in toc -->
 
 * [2 ~ 3 months ahead](#2--3-months-ahead)
@@ -17,7 +18,9 @@
   * [Tokyo Tower](#tokyo-tower)
   * [The National Museum of Emerging Science and Innovation](#the-national-museum-of-emerging-science-and-innovation)
 
+
 ## 2 ~ 3 months ahead
+
 
 ### Ghibli Park
 
@@ -26,7 +29,9 @@
 * Prefecture: Aichi
 * Near Station: [Ai-Chikyuhaku-Kinen-Koen Station / 愛・地球博記念公園駅](https://goo.gl/maps/34rFhnEzSYYrm5JS8)
 
+
 ## 1 Month ahead
+
 
 ### Ghibli Museum
 
@@ -58,6 +63,7 @@ Day of the visit
   * Must enter within 1 hour of the designated time.
   * You might be able to enter earlier than the designated time if there is space.
 
+
 ### Pokémon Café
 
 * Google Maps 📍: <https://maps.app.goo.gl/rNZkp5t9SHSYbE9J7>
@@ -84,6 +90,7 @@ Additional Notes:
 * You can try calling the cafe to see if there are any cancellations on the day of.
   * `+81 0362623439`
 
+
 ### Warner Bros. Studio Tour Tokyo - The Making of Harry Potter
 
 * Google Maps 📍: <https://maps.app.goo.gl/tJvDXYWYSN1auw3G7>
@@ -91,7 +98,9 @@ Additional Notes:
 * Prefecture: Tokyo
 * Near Station: [Toshimaen Station / 豊島園駅](https://goo.gl/maps/AVu7kfEuq5HzbD3Q9)
 
+
 ## 2 ~ 4 weeks ahead
+
 
 ### teamLab Planets TOKYO
 
@@ -107,6 +116,7 @@ Additional Notes:
 ⚙️ How to make reservations?
 * <https://teamlabplanets.dmm.com/en> and click on `Buy a Ticket`
 
+
 ### mipig cafe - Harajuku
 
 * Google Maps 📍: <https://maps.app.goo.gl/TgnaKpc8wopVup8a7>
@@ -114,7 +124,9 @@ Additional Notes:
 * Prefecture: Tokyo
 * Near Station: [Harajuku Station / 原宿駅](https://goo.gl/maps/2CpxRP6T6kVZYivn6)
 
+
 ## 1 ~ 2 weeks ahead
+
 
 ### Tokyo Skytree
 
@@ -126,7 +138,9 @@ Additional Notes:
   * [Tokyo Skytree Station / とうきょうスカイツリー駅](https://goo.gl/maps/dKVGuSgEPqDXjaKN6)
 * Book Online: <https://www.tokyo-skytree.jp/en/ticket/individual/reservation/online.html>
 
+
 ## Not necessary to book ahead
+
 
 ### Tokyo Tower
 
@@ -138,9 +152,11 @@ Additional Notes:
   * [Kamiyachō Station / 神谷町駅](https://goo.gl/maps/P93pXtvTAsowaKYx5)
   * [Onarimon Station / 御成門駅](https://goo.gl/maps/p7ZR793tnvAydHu77)
 
+
 ### The National Museum of Emerging Science and Innovation
 
 * Google Maps 📍: <https://goo.gl/maps/3MLKfejcCF4pSz1N6>
+
 
 ### Museum of Contemporary Art Tokyo (MOT)
 
@@ -150,6 +166,7 @@ Additional Notes:
 * Near Station:
   * [Kiba Station / 木場駅](https://goo.gl/maps/RhiShAqYYdyfU93w5)
   * [Kiyosumi-Shirakawa Station / 清澄白河駅](https://goo.gl/maps/mVqj5cs8MBreSEdC7)
+
 
 ## Events
 

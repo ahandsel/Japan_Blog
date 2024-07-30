@@ -2,6 +2,7 @@
 
 This is a translation of the [東京・金沢のお得な利用法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_kanazawa.html) Japanese post.
 
+
 ## Overview
 
 * It is about 450 km from Tokyo to Kanazawa.
@@ -25,6 +26,7 @@ You can also take the Tokaido Shinkansen between Tokyo and Kanazawa via Maibara.
 | Reserved Seats     | 14,380 yen        |
 | The Green Car      | 19,100 yen        |
 | Grand Class        | 27,480 yen        |
+
 
 ### Cheap tickets options & prices
 
@@ -55,7 +57,9 @@ You can also take the Tokaido Shinkansen between Tokyo and Kanazawa via Maibara.
 
 All prices are for normal season. All prices are in normal season and may vary depending on the season.
 
+
 ### How can I get a great ticket between Tokyo and Kanazawa?
+
 
 #### The value of the "Ekinetto Tokudate"
 
@@ -63,29 +67,36 @@ These tickets are available only to members of the JR East website "Eki-net". An
 
 →Click here to register as a member of [JR East Ekinet](https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2988224&pid=882534645)
 
+
 ##### Ahead of you
 
 Tickets that can be purchased at least 13 days in advance to receive a 30-35% discount on one of the "Eki-net Tokudade prices". The discount is limited to trains, seats, and areas. Other terms and conditions are the same as for the "Ekinetto Tokudade Price". You can get a 40%-50% discount for a limited time only. 50% discount is not easy to get because they sell out quickly.
+
 
 #### eTicket Early Bird Special
 
 Tickets are available exclusively on the JR West website "e5489". Anyone can become a member of e5489 for free by registering as a J-West member, so anyone can use the eTicket Early Bird Discount as well. A one-way ticket and a reserved seat limited express ticket are included in the package. Reservations must be made by the day before the boarding date. The number of trains and seats is limited. You need a credit card to make a reservation, but all major credit cards are accepted.
 
+
 #### Shinkansen eTickets
 
 An express ticket that can be used with the "Shinkansen e-ticket" internet reservation service. Only available for "EKINET" and "e5489". 200 yen discount for reserved seats and the same price for non-reserved seats. The city station system does not apply to these tickets. Ticketless boarding is available with an IC card. You can use it for all sections of the Hokuriku Shinkansen.
+
 
 #### e-ticket
 
 Exclusive ticket for e5489, JR West's online reservation service. Only available to "J-WEST cardholders". Tickets can be reserved until the day of boarding. Cannot be purchased at the station.
 
+
 #### Tokyo Round Trip Discount Ticket
 
 A ticket that includes a round-trip ticket from the Hokuriku area to Tokyo and a reserved-seat limited express ticket. You can get a free ticket from Kanazawa to Tokyo and a reserved-seat limited express ticket from Kanazawa to Maibara.
 
+
 ### Can I sit in a non-reserved seat in Tokyo to Kanazawa?
 
 Hakutaka is the only train that offers free seating between Tokyo and Kanazawa. There are no free seats on the "Kagayaki" train. You can sit in the "Hakutaka", the first station in both Tokyo and Kanazawa, if you line up from either station.
+
 
 ### bullet train cheap travel between Tokyo and Kanazawa
 
@@ -98,6 +109,7 @@ If you want to take the Tokaido Shinkansen via Maibara for a one-way trip, you c
 ---
 
 Original Japanese:
+
 
 ## [東京・金沢のお得な利用法](https://shinkansen.tabiris.com/tokyo_kanazawa.html)
 
@@ -123,6 +135,7 @@ Original Japanese:
 | 格安チケット | 9,920円～  |
 | 学割         | 12,350円～ |
 
+
 ### ひと目でわかる東京〜金沢の格安チケットと値段リスト
 
 * 普通車指定席 14380円
@@ -140,36 +153,45 @@ Original Japanese:
 
 ※価格はすべて通常期です。時期により異なります。
 
+
 ### 東京〜金沢のお得なチケットは？
+
 
 #### えきねっとトクだ値
 
 JR東日本のウェブサイト「えきねっと」の会員限定のチケットです。えきねっとは誰でも無料で会員になれますから、「トクだ値」も誰でもつかえます。片道の「乗車券＋指定席特急券」がセットになっています。JR東日本管内の多くの駅間に設定があり、時期により値段は変わります。予約は乗車日当日の午前1:40までです。列車・席数は限定です。予約・購入にクレジットカードが必要ですが、主要なカードは全て使えます。
  →会員登録はこちら「[JR東日本・えきねっと](https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2988224&pid=882534645)」
 
+
 #### お先にトクだ値
 
 「えきねっとトクだ値」のうち、13日前にまでに購入することで30〜35%割引になるチケット。列車、席数、区間限定です。その他の条件は「えきねっとトクだ値」と同じです。期間限定で「お先にトクだ値スペシャル」として40〜50%割引のチケットが出ることがあります。50%割引はすぐ売り切れますので、入手は簡単ではありません。
+
 
 #### eチケット早特
 
 JR西日本のウェブサイト「e5489」限定のチケットです。「トクだ値」のe5489版です。e5489は、J-WEST会員登録すれば誰でも無料で会員になれますから、「eチケット早特」も誰でもつかえます。片道の「乗車券＋指定席特急券」がセットになっています。予約は乗車日前日までです。列車・席数は限定です。予約・購入にクレジットカードが必要ですが、主要なカードは全て使えます。
 
+
 #### 新幹線eチケット
 
 インターネット予約サービス「新幹線eチケット」で利用できる特急券です。「えきねっと」「e5489」限定です。通常価格より指定席が200円引きで、自由席は同額です。特定都区市内駅制度は適用されません。交通系ICカードを使ったチケットレス乗車が可能です。区間や列車の限定はなく、北陸新幹線の全ての区間で利用できます。
+
 
 #### eきっぷ
 
 JR西日本のインターネット予約サービス「e5489」専用のチケット。「J-WESTカード会員」のみが利用可。乗車当日まで予約可。駅の窓口などでは購入不可。
 
+
 #### 東京往復割引きっぷ
 
 北陸エリアから東京までの往復乗車券、指定席特急券がセットになったきっぷです。金沢〜米原が「しらさぎ」、米原〜東京が東海道新幹線です。
 
+
 ### 東京〜金沢で自由席は座れる？
 
 東京〜金沢間で自由席があるのは、「はくたか」だけです。「かがやき」には自由席はありません。「はくたか」は、東京も金沢も始発駅なので、どちらから利用する場合も並べば座れます。
+
 
 ### 東京〜金沢間の新幹線格安旅行術
 

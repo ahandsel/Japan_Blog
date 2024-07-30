@@ -6,6 +6,7 @@ Infinitive
 * basic form of a verb
 * Examples: give, prevent, agree
 
+
 ## When `to` & `in order to` are used the same
 
 Using `in order to` sounds a bit more formal & explicit than `to` by itself. But, both are fine & common in written & spoken English.
@@ -18,6 +19,7 @@ Following two sentences have the same meaning:
 * I went to the mall `to` buy clothes.
 * I went to the mall `in order to` buy clothes.
 
+
 ## Difference - Negative infinitive
 
 `In order to` is normal before a negative infinitive but `to` by itself is not usually used.
@@ -25,6 +27,7 @@ Following two sentences have the same meaning:
 Example Sentences:
 * `In order not to` oversleep, I set the alarm for seven o’clock.
 * I walked very slowly across the room with the drinks `in order not` to spill them.
+
 
 ## `so as to` & `in order to`
 
@@ -37,6 +40,7 @@ Example Sentences:
 Before stative verbs like `know`, `seem`, `appear`, `understand`, `have`, etc, it is more usual to use `in order to` or `so as to`:
 * I talked to them both for half an hour `so as to` have a thorough understanding of the problem.
 * I followed her around all day `in order to` know whether she had any intention of meeting him.
+
 
 ## So that… & in order that…
 

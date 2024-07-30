@@ -1,5 +1,6 @@
 # Moving to Tokyo, Japan
 
+
 ## Outline <!-- omit in toc -->
 
 * [Internet + Cell Service](#internet--cell-service)
@@ -11,6 +12,7 @@
   * [Dryer for clothes](#dryer-for-clothes)
 * [Other Resources](#other-resources)
 * [Japanese Review Sites](#japanese-review-sites)
+
 
 ## Internet + Cell Service
 
@@ -37,6 +39,7 @@ As of Nov 2022:
   * Recommend YMobile for those who want coverage in rural areas (mountains, beaches, etc.)
 * Rakuten Mobile is the cheapest cell phone plan but has limited coverage
 
+
 ### Payment Methods
 
 * Easiest way to pay for your cell phone plan would be with a credit card
@@ -44,6 +47,7 @@ As of Nov 2022:
   * For more information, refer to the [How To Open A Japan Post Bank Account - MATCHA](https://matcha-jp.com/en/4496) article.
 * Then apply for a [Rakuten credit card](https://www.rakuten-card.co.jp/) before trying to get a cell phone plan.
 * Got money in a different currency? Consider [Wise Debit Card](https://transferwise.prf.hn/l/6Z8d5Y5) as a payment method.
+
 
 ### Notes on Cell Phone Plans in Japan
 
@@ -70,7 +74,9 @@ Helpful Articles
 * [Japan's Cheapest Cell Phone Plans Compared - Tokyo Cheapo](https://tokyocheapo.com/business/japan-sim-card-options-data-voice/)
 * [How and why to get a Japanese phone number - Time Out Tokyo](https://www.timeout.com/tokyo/things-to-do/how-and-why-to-get-a-japanese-phone-number?package_page=112292)
 
+
 ## Buying Used Items on Facebook
+
 
 ## Home Centers in Tokyo
 
@@ -80,7 +86,9 @@ Near central Tokyo:
 * [Viva Home Toyosu / スーパービバホーム 豊洲店](https://goo.gl/maps/joP3skD6cFqW3RG99)
 * [Kohnan Koto Fukagawa Store / コーナン江東深川店](https://goo.gl/maps/c5gas35kiGSvoWMe9)
 
+
 ## Great Things To Buys
+
 
 ### Dryer for clothes
 
@@ -95,11 +103,13 @@ Recommendation:
 * Amazon: <https://www.amazon.co.jp/dp/B06XBBNMRX/>
 * Keepa (Price Tracker): <https://keepa.com/#!product/5-B06XBBNMRX>
 
+
 ## Other Resources
 
 * [Living in Tokyo: city life tips for newcomers - Time Out Tokyo](https://www.timeout.com/tokyo/city-life/your-guide-to-living-in-tokyo)
 * [Living in Tokyo - Tokyo Cheapo](https://tokyocheapo.com/living/)
 * [Living Archives - Metropolis Japan](https://metropolisjapan.com/living/)
+
 
 ## Japanese Review Sites
 
