@@ -37,6 +37,7 @@ Here are a few Japan-related notes.
 - [Moving to Tokyo, Japan](Tokyo_Moving.md)
 - [Tokyo to Nagoya Cheaper Shinkansen Tickets](Tokyo_Nagoya.md)
 - [Tokyo Trip Ideas](Tokyo_TripIdeas.md)
+- [Tokyo Neighborhoods Overview](tokyo-neighborhoods.md)
 - [Kyoto Trip](Trip_Kyoto.md)
 - [Trip to Nagoya](Trip_Nagoya.md)
 - [Osaka Trip Notes](Trip_Osaka.md)
