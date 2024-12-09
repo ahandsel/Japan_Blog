@@ -20,6 +20,18 @@ For more details, please refer to [Shinkansen_Discount_Tokyo_Nagoya.md](Shinkans
 * <https://l-tike.com/bw-ticket/ghibli/ghibli-park/>
 
 
+## Things to do
+
+Nagoya City Science Museum
+* <https://maps.app.goo.gl/z7MGmBTTwmQYf2fk9>
+* <https://www.instagram.com/reel/C3ckS0XylUI/?igsh=d2E0aTQ1eXVzZ2Fi>
+
+
+## Hotel
+
+[Sanco Inn Nagoya Fushimi](https://maps.app.goo.gl/gU92PazMjTTagJx47)
+
+
 ## Nagoya to Takayama Transport
 
 | Price     | Method             | Time        | Note       |
