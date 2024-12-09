@@ -3,19 +3,24 @@
 * Hometown tax payment site: [satofull](https://www.satofull.jp/miniapp/pages/static_onestop/static_onestop.html)
 
 
-## Table of Contents <!-- omit in toc -→ <br>
+## Table of contents <!-- omit in toc -->
 
 * [Introduction to the Hometown Tax One-Stop Special Exception System \& Special Application Form](#introduction-to-the-hometown-tax-one-stop-special-exception-system--special-application-form)
 * [What is the One-Stop Special Exception System?](#what-is-the-one-stop-special-exception-system)
   * [Benefits of the One-Stop Special Exception System](#benefits-of-the-one-stop-special-exception-system)
   * [Eligibility Requirements for the One-Stop Special Exception System](#eligibility-requirements-for-the-one-stop-special-exception-system)
+    * [⚠️ Important Points for the One-Stop Special Exception System](#️-important-points-for-the-one-stop-special-exception-system)
   * [Timeline for the One-Stop Special Exception System](#timeline-for-the-one-stop-special-exception-system)
 * [Process for Using the One-Stop Special Exception System](#process-for-using-the-one-stop-special-exception-system)
+* [STEP 1](#step-1)
   * [Gather the Required Documents](#gather-the-required-documents)
     * [How to Obtain the One-Stop Special Application Form](#how-to-obtain-the-one-stop-special-application-form)
     * [Identification Documents](#identification-documents)
+* [STEP 2](#step-2)
   * [Complete the Application Form](#complete-the-application-form)
+* [STEP 3](#step-3)
   * [Mail the Documents to Each Municipality by the Deadline](#mail-the-documents-to-each-municipality-by-the-deadline)
+  * [Pre-submission Checklist](#pre-submission-checklist)
 * [Difference Between the One-Stop Special Exception System and Tax Return](#difference-between-the-one-stop-special-exception-system-and-tax-return)
 * [FAQ for the One-Stop Special Exception System](#faq-for-the-one-stop-special-exception-system)
 
@@ -30,8 +35,8 @@ You can use this system if you donate to five or fewer municipalities within a y
 Ordinarily, claiming donation deductions through the Hometown Tax program would require a tax return, but salaried employees who undergo year-end adjustments can still receive the deduction by utilizing the One-Stop Special Exception System.  
 To use the One-Stop Special Exception System, you must submit the required documents, including an application form, to each municipality you donated to within the specified application period. Once applied, the deduction will be automatically reflected in the residential tax from June of the following year, with no income tax deduction.
 
-| Example of donating to 5 or fewer municipalities                      | Tax Deduction System                                                                                                                    | Steps Translation                                                                                                                                                                                                          |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Example of donating to 5 or fewer municipalities                      | Tax Deduction System                                                                                                                    | Steps Translation                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Example of donating to 5 or fewer municipalities](./img/img_01.png) | ![Tax deduction mechanism: simple application enables deduction from individual residential tax without a tax return](./img/img_02.png) | [Donor] → <br> (1) Donation + Submission of One-Stop Special Application Form → <br> [Recipient Municipality] → <br> (2) Notification → <br> [Resident Municipality] → <br> (3) Deduction from the following year's residential tax → <br> [Donor] |
 
 
@@ -118,7 +123,7 @@ Please prepare the documents using one of the following methods:
 
 2. **Option B**
    * Notification card or resident record (copy with My Number)
-   * Driver’s license or passport (copy)
+   * Driver's license or passport (copy)
 
 3. **Option C**
    * Notification card or resident record (copy with My Number)
@@ -156,7 +161,7 @@ Ensure the documents arrive without any errors by the deadline.
 ### Pre-submission Checklist
 
 * **Option A:** Both sides of the My Number card (copy)
-* **Option B:** Notification card or resident record (with My Number) + Driver’s license or passport (copy)
+* **Option B:** Notification card or resident record (with My Number) + Driver's license or passport (copy)
 * **Option C:** Notification card or resident record (with My Number) + two official documents, such as health insurance card, pension book
 
 * **Note:** If you made multiple donations to the same municipality, you must submit an application and identification document for each donation.

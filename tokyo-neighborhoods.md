@@ -72,10 +72,10 @@
 
 ### Notable Areas
 
-* **Kabukicho**: Tokyo’s largest adult entertainment district with bars, restaurants, and nightclubs
+* **Kabukicho**: Tokyo's largest adult entertainment district with bars, restaurants, and nightclubs
 * **Golden Gai**: Narrow streets with small, atmospheric bars and restaurants
 * **Omoide Yokocho (Memory Lane)**: Cozy eateries serving yakitori and other traditional dishes
-* **Shinjuku Station**: World’s busiest train station; easy access to Tokyo and beyond
+* **Shinjuku Station**: World's busiest train station; easy access to Tokyo and beyond
 
 
 ### Things to Do
@@ -138,7 +138,7 @@
 * [Ginza & Tokyo Station area on Google Maps][ginza-map]
 * Relaxed, sophisticated, and less busy at night
 * High-end hotels, shopping, and a mature nightlife scene
-* Close to the Imperial Palace and Tokyo’s main transport hub
+* Close to the Imperial Palace and Tokyo's main transport hub
 
 
 ### Notable Areas
@@ -213,13 +213,13 @@
 ### Notable Areas
 
 * **Tokyo Sky Tree**: Tallest building in Tokyo with two observation decks
-* **Senso-ji Temple**: Tokyo’s oldest temple with stunning gates and pagodas
+* **Senso-ji Temple**: Tokyo's oldest temple with stunning gates and pagodas
 * **Ryogoku**: Home to sumo wrestling stadiums and museums
 
 
 ### Things to Do
 
-* **Hanayashiki Theme Park**: Japan’s oldest amusement park with rides and attractions
+* **Hanayashiki Theme Park**: Japan's oldest amusement park with rides and attractions
 * **Sumida Park**: Great for cherry blossoms in spring and fireworks in summer
 * **Taiko Drum Museum**: Features hundreds of drums visitors can try playing
 
@@ -302,14 +302,14 @@
 
 ### Notable Areas
 
-* **Odaiba Beach**: Tokyo’s only beach with promenades and sea breezes
+* **Odaiba Beach**: Tokyo's only beach with promenades and sea breezes
 * **Rainbow Bridge**: Iconic bridge connecting Odaiba and central Tokyo
 * **Fuji TV Building**: Futuristic building with a globe-shaped observatory
 
 
 ### Things to Do
 
-* **Statue of Liberty Odaiba**: Replica of New York’s statue with Rainbow Bridge in the background
+* **Statue of Liberty Odaiba**: Replica of New York's statue with Rainbow Bridge in the background
 * **TeamLab Planets**: Interactive digital art exhibit with water artwork
 * **Toyosu Market**: Modern wholesale fish market with auctions and restaurants
 

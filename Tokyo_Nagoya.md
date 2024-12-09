@@ -16,11 +16,11 @@ This is a translation of the [新幹線で東京・名古屋間を格安料金�
 
 ## Discounted Tickets
 
-|     Price | Discount          | EN                               | JP                           | Details                               |
-| -------- | ----------------- | -------------------------------- | ---------------------------- | ------------------------------------- |
+| Price     | Discount          | EN                               | JP                           | Details                               |
+| --------- | ----------------- | -------------------------------- | ---------------------------- | ------------------------------------- |
 | 8,050 yen | 3,040 yen (27.4%) | EX Kodama Family Early Special   | `EXこだまファミリー早特`     | 2+ passenger & buy 3+ days in advance |
 | 8,600 yen | 2,490 yen (22.5%) | Platto Kodama Reserved Seat Plan | `ぷらっとこだま指定席プラン` | Buy 1+ days in advance                |
-| 9,280 yen | 1,810 yen (16.3%) | Student Discount                 | `学割`                       |
+| 9,280 yen | 1,810 yen (16.3%) | Student Discount                 | `学割`                       |                                       |
 | 9,800 yen | 1,290 yen (11.6%) | EX Early Special 21 Wide         | `EX早特21ワイド`             | Buy 21+ days in advance               |
 | 9,950 yen | 1,140 yen (10.3%) | EX Nozomi Family Early Special   | `EXのぞみファミリー早特`     | 2+ passenger & buy 3+ days in advance |
 
