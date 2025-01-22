@@ -40,7 +40,6 @@ If you are a local or a long-term resident wanting discounts on Shinkansen ticke
 * [Tokyo to Nagoya Shinkansen Option](Shinkansen_Discount_Tokyo_Nagoya.md)
 * [Platto Kodama - Discount Shinkansen Tickets Between Tokyo and Osaka](Shinkansen_Discount_Tokyo_Osaka.md)
 * [Tokyo to Kanazawa Cheaper Shinkansen Tickets](Tokyo_Kanazawa.md)
-* [Tokyo to Nagoya Cheaper Shinkansen Tickets](Tokyo_Nagoya.md)
 
 
 ## Events
