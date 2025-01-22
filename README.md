@@ -35,6 +35,7 @@ Here are a few Japan-related notes.
 - [六本木・麻布 スポット](Roppongi_Places_JP.md)
 - [Tokyo to Nagoya Shinkansen Option](Shinkansen_Discount_Tokyo_Nagoya.md)
 - [Platto Kodama - Discount Shinkansen Tickets Between Tokyo and Osaka](Shinkansen_Discount_Tokyo_Osaka.md)
+- [Start Here - Let's get started with planning your trip to Japan](start-here.md)
 - [Biking in Tokyo](Tokyo_Biking.md)
 - [Hiking in Tokyo](Tokyo_Hiking.md)
 - [Tokyo to Kanazawa Cheaper Shinkansen Tickets](Tokyo_Kanazawa.md)
