@@ -6,6 +6,6 @@
 
 <!-- optional markdown-notes-tree directory description ends here -->
 
-- [**img**](img)
-- [Introduction to the Hometown Tax One-Stop Special Exception System & Special Application Form - Hometown Tax Website "Satoru"](furusato-one-stop-exception-en.md)
-- [ふるさと納税ワンストップ特例制度・特例申請書-入門ガイド](furusato-one-stop-exception-jp.md)
+* [**img**](img)
+* [Introduction to the Hometown Tax One-Stop Special Exception System & Special Application Form - Hometown Tax Website "Satoru"](furusato-one-stop-exception-en.md)
+* [ふるさと納税ワンストップ特例制度・特例申請書-入門ガイド](furusato-one-stop-exception-jp.md)

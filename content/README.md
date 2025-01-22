@@ -6,4 +6,4 @@
 
 <!-- optional markdown-notes-tree directory description ends here -->
 
-- [**Shinkansen_Discount_Tokyo_Osaka**](Shinkansen_Discount_Tokyo_Osaka)
+* [**Shinkansen_Discount_Tokyo_Osaka**](Shinkansen_Discount_Tokyo_Osaka)
