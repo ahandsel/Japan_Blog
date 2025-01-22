@@ -24,7 +24,7 @@
 
 ### Ghibli Park
 
-* Google Maps 📍: <https://maps.app.goo.gl/u3YZ9GNK9uaC8ozA9>
+* Google Maps 📍: [maps.app.goo.gl/u3YZ9GNK9uaC8ozA9](https://maps.app.goo.gl/u3YZ9GNK9uaC8ozA9)
 * Neighborhood: Nagoya City's Moricoro Park
 * Prefecture: Aichi
 * Near Station: [Ai-Chikyuhaku-Kinen-Koen Station / 愛・地球博記念公園駅](https://goo.gl/maps/34rFhnEzSYYrm5JS8)
@@ -37,7 +37,7 @@
 
 ### Ghibli Museum
 
-* Google Maps 📍: <https://maps.app.goo.gl/cPkpLwLXpjhgo27s5>
+* Google Maps 📍: [maps.app.goo.gl/cPkpLwLXpjhgo27s5](https://maps.app.goo.gl/cPkpLwLXpjhgo27s5)
 * Neighborhood: Mitaka
 * Prefecture: Tokyo
 * Near Station: [Kichijoji Station / 吉祥寺駅](https://goo.gl/maps/WQJuVeZ6yWzZzwL26)
@@ -68,7 +68,7 @@ Day of the visit
 
 ### Pokémon Café
 
-* Google Maps 📍: <https://maps.app.goo.gl/rNZkp5t9SHSYbE9J7>
+* Google Maps 📍: [maps.app.goo.gl/rNZkp5t9SHSYbE9J7](https://maps.app.goo.gl/rNZkp5t9SHSYbE9J7)
 * Neighborhood: Nihombashi
 * Prefecture: Tokyo
 * Near Station: [Nihombashi Station / 日本橋駅](https://goo.gl/maps/saACJmzrkjbL3LJ66)
@@ -95,7 +95,7 @@ Additional Notes:
 
 ### Warner Bros. Studio Tour Tokyo - The Making of Harry Potter
 
-* Google Maps 📍: <https://maps.app.goo.gl/tJvDXYWYSN1auw3G7>
+* Google Maps 📍: [maps.app.goo.gl/tJvDXYWYSN1auw3G7](https://maps.app.goo.gl/tJvDXYWYSN1auw3G7)
 * Neighborhood: Nerima City
 * Prefecture: Tokyo
 * Near Station: [Toshimaen Station / 豊島園駅](https://goo.gl/maps/AVu7kfEuq5HzbD3Q9)
@@ -106,7 +106,7 @@ Additional Notes:
 
 ### teamLab Planets TOKYO
 
-* Google Maps 📍: <https://maps.app.goo.gl/7q7McjvgPBRHdtGr7>
+* Google Maps 📍: [maps.app.goo.gl/7q7McjvgPBRHdtGr7](https://maps.app.goo.gl/7q7McjvgPBRHdtGr7)
 * Neighborhood: Koto City
 * Prefecture: Tokyo
 * Near Station: [Shin-Toyosu Station / 新豊洲駅](https://goo.gl/maps/D28H5c61SMYksVCd8)
@@ -121,7 +121,7 @@ Additional Notes:
 
 ### mipig cafe - Harajuku
 
-* Google Maps 📍: <https://maps.app.goo.gl/TgnaKpc8wopVup8a7>
+* Google Maps 📍: [maps.app.goo.gl/TgnaKpc8wopVup8a7](https://maps.app.goo.gl/TgnaKpc8wopVup8a7)
 * Neighborhood: Harajuku
 * Prefecture: Tokyo
 * Near Station: [Harajuku Station / 原宿駅](https://goo.gl/maps/2CpxRP6T6kVZYivn6)
@@ -168,8 +168,3 @@ Additional Notes:
 * Near Station:
   * [Kiba Station / 木場駅](https://goo.gl/maps/RhiShAqYYdyfU93w5)
   * [Kiyosumi-Shirakawa Station / 清澄白河駅](https://goo.gl/maps/mVqj5cs8MBreSEdC7)
-
-
-## Events
-
-* [Tokyo Art Beat - The source for What's happening in the art scene in Japan and around the world](https://www.tokyoartbeat.com/en)
