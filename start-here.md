@@ -46,6 +46,7 @@ If you are a local or a long-term resident wanting discounts on Shinkansen ticke
 ## Events
 
 * [Explore Events in Tokyo - Tokyo Cheapo](https://tokyocheapo.com/events/)
+* [Tokyo Art Beat - The source for What's happening in the art scene in Japan and around the world](https://www.tokyoartbeat.com/en)
 
 
 ## Things to Do
