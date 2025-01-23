@@ -6,4 +6,4 @@
 
 <!-- optional markdown-notes-tree directory description ends here -->
 
-* [Hiking Mt. Jinba](<Mt. Jinba.md>)
+- [Hiking Mt. Jinba](<Mt. Jinba.md>)

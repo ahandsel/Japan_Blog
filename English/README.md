@@ -6,4 +6,4 @@
 
 <!-- optional markdown-notes-tree directory description ends here -->
 
-* [to… / in order to… / so as to…](<to-in order to-so as to.md>)
+- [to… / in order to… / so as to…](<to-in order to-so as to.md>)
