@@ -57,6 +57,7 @@ Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/
 [EXこだまファミリー早特 - エクスプレス予約 新幹線の会員制ネット予約](https://expy.jp/product/ex_kodamafamily_hayatoku/)
 
 Excluded dates for 2023
+
 * Express reservation / `エクスプレス予約`
   * 4/28 (Fri) - 5/7 (Sun)
   * 8/9 (Wed) - 8/16 (Wed)
@@ -118,7 +119,7 @@ Please see [Platto Kodama Reserved Seat Plan](https://www.jrtours.co.jp/service/
 You cannot book tickets during this time.
 
 
-# Tokyo to Nagoya Cheaper Shinkansen Tickets
+## Tokyo to Nagoya Cheaper Shinkansen Tickets
 
 This is a translation of the [新幹線で東京・名古屋間を格安料金で行く方法 - 新幹線旅行研究所](https://shinkansen.tabiris.com/tokyo_nagoya.html) Japanese post.
 
